@@ -542,7 +542,7 @@ I met Jürgen Schmidhuber in the conference itself, at his talk, was the last in
 
 I was wearing a hat all through the conference, to cover up my baldness, that I still wasn't used to, and still am not. It was winter, and the winter hat didn't look too out of place. Early December, weeks before my psychosis and RGH hospitalization.
 
-The hair loss played a big part in my changed psychological state, and made me a slave to levels of consciousness beyond the physical, for reasons that I tried to articulate [here](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/) and [here](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
+The hair loss played a big part in my changed psychological state, and made me a slave to levels of consciousness beyond the physical, for reasons that I tried to articulate in relatable terms [here](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/) and [here](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 
 When I returned, my isolation on the work-based front deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization.
 
