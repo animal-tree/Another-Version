@@ -479,9 +479,9 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 <!--But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.-->
 Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, <!--technically,--> red-handed.
 
-## Razor
+## Electric razor
 
-My grandpa gave me his razor when I was in high school, an electric razor. It was the first razor I ever had. I used it through high school and college, and until the fateful summer preceding my first PhD semester, it was the only razor I ever used.
+My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester, it was the only razor I ever used.
 
 In the summer, 2017 (just before Dupilumab), my mom and I went to Finland to celebrate my graduation from "uni," my razor broke in the luggage.
 
