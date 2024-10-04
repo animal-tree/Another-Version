@@ -786,6 +786,8 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 ## Geriatric unit hospitalization
 
 > [!WARNING]
+> ### Geriatric unit hospitalization
+> 
 > In December, 2020, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
 >
 > I was leading another one of Chenliang's students on a long-term memory paper called [Eclectic-Mem](https://github.com/slerman12/Eclectic-Mem) for Chenliang, that I still had an extremely intense amount of work to do on in order to make the ICML deadline. My family members visited. I was again following some kind of yogic-trance, but this time, much less spiritually guided. I knew that the yogic state I'd been in before was real, and I didn't want to disobey the new flow that had taken over. I was acting strange in front of the visiting family members, and my mom called the ambulance. My behavior was strange enough that the responders decided to take me to the hospital, and as they were doing so, I broke from the obedience to that pseudo-flow state and started screaming to my mom that there was an ICML paper deadline that I had to submit to. This was still 2020, months after the Psyche-CAM paper. The responders took me away, so far with no concrete reason to do so, but only my mom's call and the superficial strangeness of my behavior.
@@ -820,7 +822,7 @@ That’s all the very brief glimpses of [happiness](https://github.com/user-atta
 >
 > To summarize:
 > - `My big toe was painfully run over by the nurse, and ignored`, no attention paid, disregarded screaming.
-> - `I had to sleep in a chair in a shared open area filled with other patients for a week` with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and `with food only that I was allergic to, while in an increasingly sensitive state, and being told I'd be transferred to a room later that day` or the next day.
+> - `I had to sleep in a chair in a shared open area filled with other patients for a week` with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and `with food mostly that I was allergic to`, while in an increasingly sensitive state, and `being told I'd be transferred to a room later that day or the next day.`
 > - I was transferred to a geriatric unit, with almost nobody my age, and an environment that lacked any nature, with only synthetic plastics, no genuine warmth, and an abundance of chocolate Ensures.
 > - `I was lectured about not eating enough carbs, and that was their specified reason for holding me.`
 > - `My hair was falling out into my hands and my eczema returned.`
