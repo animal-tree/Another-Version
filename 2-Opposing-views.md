@@ -225,13 +225,25 @@ After that house, I moved in with my mom to our apartment, where I came up with 
 
 ## Induced hair loss (*fellowship with man*)
 
-In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
+In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
+
+`Aetna cut me off from Dupilumab about 8 months into my dependency.`
+
+`The deliverer couldn't reach my doctor.`
+
+I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
 
 Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring (when she scheduled it), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
+
+`I wasn't given an appointment with my doctor until months after.`
+
+`The cessation first caused Alopecia Areata.`
 
 Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
 
 We finally got a delivery of the drug. I wasn’t sure whether it’d be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
+
+`The drug was delivered after I lost my hair.`
 
 Here's a personal story, since I was fixated with Taoism at the time:
 
