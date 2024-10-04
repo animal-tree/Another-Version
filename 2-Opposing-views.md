@@ -957,6 +957,16 @@ My grandma’s numerical timing of when she died is a proof symbol in my opinion
 
 I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
 
+### Future hair regrowths
+
+My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
+
+My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and my best friend returned into my life, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress (from that termination) and lacking an income. Those three eyelashes that had grown back one by one gradually up to that point, that summer, starting that summer, grew back for the first time ever in the 5 full years since losing all of my hair. Then each fell out, but I attribute them to my best friend, who returned that summer, and probably also the correlating steak/salmon-only diet that I'd resumed before his return, earlier in 2023, after the weather had already gotten warm. Though, besides steak/salmon during that period when my eyelashes started to grow back for the first time, I allowed myself organic tea on that one, as well. Then, when I was terminated by this wonderful university of mine that had cost me my hair in the first place, my newly miracle'd eyelashes fell out suddenly.
+
+However, adding this seems to undermine just how severe the injustice we're talking about is.
+
+The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgments, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
+
 ## Food
 
 > [!TIP]
