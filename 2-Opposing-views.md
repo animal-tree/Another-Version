@@ -633,7 +633,7 @@ The trauma I went through during my psychosis (which the psychiatrists didn't ev
 >
 > He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
 
-## Advisor leaves
+### Advisor leaves
 
 Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
 
