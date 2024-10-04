@@ -264,8 +264,6 @@ That can't be a coincidence, so I leave this story here both for medical utility
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
-`Other side effects, later, included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
-
 ## Psychiatry at the University of Rochester's Strong Hospital
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
@@ -879,7 +877,9 @@ That sudden hair regrowth was, miraculously, more than 2 years after the Dupilum
 
 ## Nails
 
-In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, my eczema temporarily spiked and I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+
+`Other side effects, later, included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
 
 My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual.
 
