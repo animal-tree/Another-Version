@@ -264,6 +264,7 @@ That can't be a coincidence, so I leave this story here both for medical utility
 `I now look like Gollum`, and had other symptoms to be specified later (See ["Nails"](#nails)).
 
 > [!WARNING]
+> ### Premonition (*more mysticism*)
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
 ## Psychiatry at the University of Rochester's Strong Hospital
