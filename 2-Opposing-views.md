@@ -618,12 +618,6 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. 
 
-### Nails
-
-In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
-
-Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
-
 > [!NOTE]
 > ### Jeremiah
 >
@@ -638,6 +632,12 @@ Without hair, without eyebrows and eyelashes, with even my grandma's fingernails
 > He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
 >
 > He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
+
+### Nails
+
+In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+
+Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
 
 ## Geriatric unit hospitalization
 
