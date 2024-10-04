@@ -618,6 +618,12 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. 
 
+### Nails
+
+In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+
+Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
+
 > [!NOTE]
 > ### Jeremiah
 >
@@ -632,3 +638,115 @@ The trauma I went through during my psychosis (which the psychiatrists didn't ev
 > He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
 >
 > He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
+
+## Geriatric unit hospitalization
+
+> [!WARNING]
+> In December, 2020, about a month after Tayler blocked me, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
+>
+> I was leading another one of Chenliang's students on a long-term memory paper called [Eclectic-Mem](https://github.com/slerman12/Eclectic-Mem) for Chenliang, that I still had an extremely intense amount of work to do on in order to make the ICML deadline. My family members visited. I was again following some kind of yogic-trance, but this time, much less spiritually guided. I knew that the yogic state I'd been in before was real, and I didn't want to disobey the new flow that had taken over. I was acting strange in front of the visiting family members, and my mom called the ambulance. My behavior was strange enough that the responders decided to take me to the hospital, and as they were doing so, I broke from the obedience to that pseudo-flow state and started screaming to my mom that there was an ICML paper deadline that I had to submit to. This was still 2020, months after the Taylor-CAM paper. The responders took me away, so far with no concrete reason to do so, but only my mom's call and the superficial strangeness of my behavior.
+>
+> In particular, what caused my mom to call the ambulance was I was doing stretches on the couch without talking to my relatives when they were talking to me. Then the strange behavior with responders, who I did talk to, and whose questions I answered normally, was that I was slightly reluctant to let them take my vitals — yes. And I quickly did let them take my vitals. They just caught that I had some reluctance and found that suspicious. So they dragged me to the ambulance, and I was screaming to my mom about the paper deadline as they did so. The ambulance drove me to the hospital, where first, they brought me to a lobby.
+>
+> In the lobby, the nurse pulled me behind a curtain and made me change clothes, and I didn't want to (was slightly reluctant), but she told me I had to. Then she sat me in a wheelchair. A nurse pushed it forward, it ran over my big toe, and I screamed out specifically that my toe was run over. The nurse kept rolling me off, as she and the other nurses all ignored my screaming, in what, surprisingly, didn't break my toe. 
+>
+> Next, they brought me to an open area filled with other patients, and told me I'd be transferred later that day.
+>
+> Each day I was told I’d be transferred that day or the next day. I had to sleep there in a chair for a week. The dungeon-like area was full, in every square foot of the open areas, with other patients, who slept on mattresses or also in chairs. The clinicians seemed to forget about me and still had no particular reason for the imprisonment.
+>
+> Besides the clothes they’d made me change into, I was given only highly processed foods to eat, foods that usually cause eczema, drugs including benzos, and periodic clinical visits from clinicians who could've been mistaken for military interrogators. Clinical authorities.
+>
+> None of them were consistent or attendant enough to see this, but I was in an increasingly sensitive state, as I was coerced through all of this, knowing-unjustly, and with no normal sleep for a week.
+>
+> After a week of sleeping in a chair, they transferred me to the geriatric unit (a facility for the elderly) on a different floor, their regular psychiatric units being full.
+>
+> Finally, they specified a reason for why they were holding me. Apparently my mom said I wasn't eating enough, which she later denied saying. Ironically, I was eating a lot. Usually 5 organic steaks and a salmon every day, about half of my income. I was lectured pretty heavily by a fat woman specialist about how carbs are a necessary part of a healthy diet. That was Winter, 2020/2021, perhaps just before diets like the keto diet gained scientific support, or maybe already after. During that hospitalization, chunks of my hair fell out. The rapid timing was extremely coincidental, so maybe the onset of the hair loss was independent to the hospitalization, or maybe a synchronicity, but most likely exacerbated, because I thought I was in Hell.
+> 
+> The anxiety was so extreme that my eczema became itchy just from that, if not the food. I ate all of their garbage food. I made special requests, but the diet they provided wasn't more than what you'd expect from hospital food, and always came with an abundance of chocolate Ensures, enough to probably buy a steak honestly.
+> 
+> Due to Covid, my family wasn’t allowed to visit me.
+>
+> Of all the hospitalizations (excluding aftermath, e.g., benzos trauma), the most traumatic was the geriatric unit one. And not because they ran over my toe with the wheelchair that I was in and ignored my pained screams, nor the enclosed-dungeon area where they made me sleep in a chair for a week, eat stuff I was allergic too, take benzos temporarily again, and share living space amid lots of commotion and tons of people, but because of the geriatric unit they subsequently transferred me to. Old people. People I thought were sketchy. One friend, black guy I shared pudding crackers with at the window later, after, when I managed to get out of my room from the trauma of thinking I was in Hell. Other than that, coldness, Hell-setting, and, while I was still confined to my bed due to the intensity of the earlier dungeon area where they kept saying they'd transfer me to a room later that day and didn't for another week, I was under the delusion in that geriatric unit environment that I was literally in Hell, the beam of red light shining into my window from the neighboring hospital roof, being stuck in a floor with no nature, old lady in the room next door screaming "Oh Christia! Oh Christia!" every day, only plastic and children's colors and an artificial picture painting across from my door. And I had a whole bed and bathroom to myself, but still. The nurses and staff were fine, but the environment was bad.
+>
+> That was the geriatric unit hospitalization, psychiatric wards were full, ran over my toe, they kept me in an open-room with other patients, and then after like a week of me sleeping in a chair, they transferred me to a geriatric unit, with me unable to leave my bed through New Year’s because I thought I was in Hell, once they situated me in that geriatric unit room, no visitors. They had no knowledge of that Hell thinking, nor was that my state of thinking coming into the hospitalization. 
+>
+> I wasn’t risking the tongue trick from before to spit out the benzos. I wasn’t in that kind of flow state. But perhaps all of this was my fault because, later, when they gave me a Covid mask, in the geriatric unit, which I don't recall if they did while in the open area with other patients, I got to spit the benzos out into that.
+>
+> I think they did a Covid test before transferring me, though I don't recall one. I'm just inferring, since it was a geriatric unit (a unit for the elderly). Yes, I recall mention of a Covid test. I don't know if it was before or after the dungeon-area.
+>
+> To summarize:
+> - My big toe was painfully run over by the nurse, and ignored, no attention paid, disregarded screaming.
+> - I had to sleep in a chair in a shared open area filled with other patients for a week with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and with food only that I was allergic to, while in an increasingly sensitive state, and being told I'd be transferred to a room later that day or the next day.
+> - I was transferred to a geriatric unit, with almost nobody my age, and an environment that lacked any nature, with only synthetic plastics, no genuine warmth, and an abundance of chocolate Ensures.
+> - I was lectured about not eating enough carbs.
+> - My hair was falling out into my hands and my eczema returned.
+>
+> Some crazy-person advice: Clinicians should stop using the expression "I'm gonna take your vitals," because when a patient thinks they’re in Hell, that is a terrifying thing to hear. Then they have no choice but to let those clinicians strap them or inject them or whatever, and their mind possibly is tuned to a ritual level of thinking where symbolism has extreme sacred meaning. The symbolism of "vitals" being "taken," in the context of vampyrism or losing a loved one, isn't good. Just a suggestion. 
+>
+> While drugged with benzos in the enclosed-dungeon area, my brain went from that strange pseudo-schizotypal paranoia I began in to a full blown "I'm literally condemned here forever and this is literally a robot dimension or Hell" state.
+>
+> Since Winter, 2020/2021, I have not had another serious or psychiatric hospitalization. There was one hospitalization half a year later, in which I was there for half a day, but they neither held me there nor believed there was any psychiatric issue. The geriatric unit hospitalization was traumatizing, but that's not the reason why I successfully avoided future imprisonments. My ability to live with those schizophrenic states (trances, including less trustworthy ones), consciously and drug-free, increased to the point that they aren't schizophrenic states, but unambiguous connections to a deeper wisdom (or, some "intelligence" of some kind, depending what social influences are most authoritatively in my life). [Humans and other cultures have been integrating that wisdom long before hospitals existed.](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) Though this geriatric unit hospitalization isn't a good example, I was and have become pretty good at navigating those states of consciousness and integrating them in the moment, usefully, creatively, and sometimes powerfully.
+>
+> That appreciation is rarely seen in modern medicine.
+>
+> Nor Hollywood, even. At the end of [A Beautiful Mind](https://en.wikipedia.org/wiki/A_Beautiful_Mind_(film)), the nobel prizewinner with schizophrenia, John Nash, is depicted as achieving stability by taking his medications. The real John Nash objected to them, and lived pretty much his entire life unmedicated, starting from long before he came up with the work that led to his winning the Nobel Prize. While the movie's depiction is somehow extremely romantic to medical systems, it's inaccurate to the true history of how he surmounted his diagnoses. ["In Sylvia Nasar’s book with the same title, on which the film is based, it is clearly stated that Nash stopped taking medication in 1970 because of the way it blunted his intellect. The change was apparently made because the screenwriter, Akiva Goldsman, whose mother was a prominent psychologist, was worried that the film might persuade people to stop taking their medication."](https://www.theguardian.com/society/2015/jun/02/dont-use-john-nash-schizophrenia-a-beautiful-mind-promote-anti-psychotics) Yes, the film based on a true story might persuade people wrongly. So better fabricate it. ["in a scene [around the time of the character's Nobel nomination in 1994], Russell Crowe explicitly credits his recovery [...] to newer medication. The truth is that Nash stopped taking any medication in 1970. The line is a fabrication, and a conscious one."](https://www.theguardian.com/society/2015/jun/02/dont-use-john-nash-schizophrenia-a-beautiful-mind-promote-anti-psychotics)
+>
+> ["Nash described sanity as a form of conformity, and one about which he maintained a degree of ambivalence. 'So, at the present time, I seem to be thinking rationally in the style that is characteristic of scientists,' he wrote. 'However, this is not entirely a matter of joy, as if someone returned from physical disability to good physical health. One aspect of this is that rationality of thought imposes a limit on a person’s concept of his relation to the cosmos.' There can be no doubt that to talk in such terms requires both honesty and tremendous courage. The question is whether we have the courage to hear him."](https://www.theguardian.com/society/2015/jun/02/dont-use-john-nash-schizophrenia-a-beautiful-mind-promote-anti-psychotics)
+
+To do: Make a diagram specifically for geriatric unit hospitalization (University of Rochester's Strong Hospital).
+
+Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough (even as I ate all of their garbage food).
+
+## Hair regrowth
+
+Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare. 
+
+I was on a mostly-steak-only diet since at least as far as June, 2020 (with wild-caught salmon as well), at which time I was working on my Taylor-CAM paper.
+
+See [here](4-Faith.md#mikhaila-peterson) for where I'd initially heard of this diet from. Specifically, the diet I heard of and read about was "beef-only," which sounds gross.
+
+Previous to the final version of my diet, beginning initially from Paleo, I transitioned to (organic) beef-only. The organic-beef-only phase was about a month and caused watery bowel movement symptoms and decreased stool frequency, as were expected from what I'd heard and read about the diet. By the end of that month, I think my energy and mood, and probably cognition, had massively improved. Gradually, the majority of my beef came from organic, grass fed, grass-finished steak and not long after, perhaps in that month as well, I added daily salmon in the morning. So my diet converged to one wild-caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, and organic black pepper and salt, and water. I used lots of salt and fried the fat from the steak. 
+
+I experienced big improvements to my cognition, energy, and mood. In particular, I recall my writing, not academic but poems, visual creative writing, and texts to people, had improved that summer to beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started to grow back while on that diet within the next couple months. I was also practicing other disciplines, including meditating, calisthenics, and abstaining from porn, all of which I continued from previous to this diet.
+
+In the October, 2020 hospitalization after the Sarah-one, [Mobi](#mobi) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
+
+I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
+
+[In the next hospitalization, in the geriatric unit](#geriatric-unit-hospitalization), there was a guy my age. I sat with him every day towards my last days there at the window. He and I talked. We were talking about deep things. I told him about my self-consciousness about my hair, since chunks of it were falling out again in that geriatric unit, and he said he couldn’t even tell anything was bald. I think he even had some balding that he showed me, and said that he loses hair all the time, that my hair looked good, and not to worry. In other words, my hair had fully grown back, enough to pass the eye test of a guy sitting right next to me. *My head hair had fully grown back.*
+
+But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back. I have to shave it from my head, something I don't like doing, to maintain the bald upper bound of my current mutilated appearance, that otherwise now grows in in patches, with more bald skin than hairy skin. That is exponentially worse than the first time they caused my hair to fall out.
+
+Despite my self-consciousness, for the most part, I didn't wear a hat during that hospitalization, so many people saw my head. My mom said, "I didn't think you need it" over the phone when I got mad at her for not dropping it off when she dropped off one steak in a plastic Tupperware. I was lectured about not eating enough carbs (which steak doesn't have) by one of the hospital staff. They required I eat carbs for me to be discharged, since they said my diet, and specifically that my mom told them I wasn't eating enough (which she denied), was why I was being held.
+
+My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
+
+That sudden hair regrowth was, miraculously, more than 2 years after the Dupilumab cessation that induced the alopecia universalis, and covered my head. 
+
+## Intimacy healing
+
+Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
+
+> [!WARNING]
+> 
+> In the hospital-provided housing that Sarah got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
+> 
+> Pork is not a metaphor for sex. Yams is not a metaphor for boobs. Thanksgiving is a metaphor for how grateful I was for the good food.
+>
+> She told me then that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
+>
+> Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated that.
+>
+> Benzos act like alcohol, and are incredibly personality-disinhibiting. They're even similar to GHB, also a GABA agonist, but which additionally acts on the GHB receptor. All three reduce consciousness, and predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
+>
+> However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
+>
+> But I'm sure she's thankful for your services (that's not sarcasm — hospital-provided outpatient housing is one of the most-medical things I've ever seen them do; I had no idea they did that).
+
+I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
+
+Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
+
+Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
+
+Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
