@@ -873,7 +873,7 @@ As if the Psyche time period wasn’t synchronistic enough, it coincided with th
 
 But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back. I have to shave it from my head, something I don't like doing, to maintain the bald upper bound of my current mutilated appearance, that otherwise now grows in in patches, with more bald skin than hairy skin. That is exponentially worse than the first time they caused my hair to fall out.
 
-`My hair was induced to fall out again after I regrew it, resulting in an Alopecia Areata that looks exponentially worse.`
+`My hair was induced to fall out again after I regrew it through extremely tough and expensive discipline, resulting in an Alopecia Areata that looks exponentially worse than the Alopecia Universalis.`
 
 Despite my self-consciousness, for the most part, I didn't wear a hat during that hospitalization, so many people saw my head. My mom said, "I didn't think you need it" over the phone when I got mad at her for not dropping it off when she dropped off one steak in a plastic Tupperware. I was lectured about not eating enough carbs (which steak doesn't have) by one of the hospital staff. They required I eat carbs for me to be discharged, since they said my diet, and specifically that my mom told them I wasn't eating enough (which she denied), was why I was being held.
 
