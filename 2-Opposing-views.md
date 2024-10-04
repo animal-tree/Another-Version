@@ -249,6 +249,8 @@ Here's a personal story, since I was fixated with Taoism at the time:
 
 To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
 
+`The Alopecia Areata had devloped into Alopecia Universalis. Other side effects included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
+
 The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair will grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair can "sprout" out of the earth, my head, like blades of grass, again... which it did, temporarily but covering my entire head except for an unnoticeable tiny spot at the top of my scalp.
 
 Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
@@ -841,7 +843,7 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 
 ## Second induced hair loss
 
-Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare. 
+Full head hair regrowth in Alopecia Universalis, especially with comorbid eczema, is extremely medically rare. 
 
 I was on a mostly-steak-only diet since at least as far as June, 2020 (with wild-caught salmon as well), at which time I was working on my Psyche-CAM paper.
 
@@ -871,7 +873,7 @@ Despite my self-consciousness, for the most part, I didn't wear a hat during tha
 
 My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
 
-That sudden hair regrowth was, miraculously, more than 2 years after the Dupilumab cessation that induced the alopecia universalis, and covered my head. 
+That sudden hair regrowth was, miraculously, more than 2 years after the Dupilumab cessation that induced the Alopecia Universalis, and covered my head. 
 
 ## Nails
 
