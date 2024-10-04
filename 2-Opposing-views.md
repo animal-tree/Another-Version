@@ -481,11 +481,11 @@ Charles was very supportive as my advisor. And he was left-handed, I recall. My 
 
 ## Electric razor
 
-My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester, it was the only razor I ever used.
+My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
 
-In the summer, 2017 (just before Dupilumab), my mom and I went to Finland to celebrate my graduation from "uni"; my razor broke in the luggage.
+In the summer, 2017 (just before Dupilumab), my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
 
-Towards the later part of that summer, I started growing out my beard for the first time, entirely independently. I never grew out my beard before that. <!--I did so on an intuition/sense that I should.-->
+Towards the later part of that summer, I started growing out my beard for the first time, entirely independently. I never grew out my beard before<!-- that-->. <!--I did so on an intuition/sense that I should.-->
 
 <!--
 ### Uncanny beard premonition
