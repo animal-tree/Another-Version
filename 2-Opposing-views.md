@@ -661,7 +661,7 @@ I worked under Chenliang for the next 3 years, 2020 - 2023.<!--, "only" managed 
 <!-- I worked under Chenliang for the next 3 years, 2020 - 2023, managed to publish 2 papers in that time, and could've published far more if something about his group, which went strongly against Henry's hands-off and pressure-free approach, didn't constrict my more philosophical interests.
 , at which point he wanted to reallocate funding to someone else with a faster publication rate, with short notice. -->
 
-I managed to publish 2 papers under Chenliang. The number of papers published by Henry's average student was 1 - 3 across the PhD student's full 5 - 7 years. 
+I managed to publish 2 papers under Chenliang. <!--The number of papers published by Henry's--> Henry's average student paper count was 1 - 3 across the PhD student's full 5 - 7 years. 
 <!--
 Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me himself if all else failed.
 -->
