@@ -697,7 +697,7 @@ To do: Make a diagram specifically for geriatric unit hospitalization (Universit
 
 Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed eczema-causing food, more coerced benzos, and interrogative military clinicians -> geriatric unit -> them arguing carbs were a necessary part of a healthy diet and stating that the reason for holding me in that hospitalization was that I wasn't eating enough (even as I ate all of their garbage food).
 
-## Hair regrowth
+## Hair regrowth and second induced hair loss
 
 Full head hair regrowth in alopecia universalis, especially with comorbid eczema, is extremely medically rare. 
 
