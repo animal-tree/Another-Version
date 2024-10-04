@@ -960,6 +960,29 @@ Radical idea, but that's the direction. Humans need each other. Relationships ar
 
 Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
 
+### The artificial and synthetic
+
+I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
+- And note, via humans.
+
+The use of drugs, porn, movies, TV shows, and technologies shouldn't be judged or shamed. 
+
+Many people are happy relying on those things, others appreciate the art.
+
+Big pharma companies find value in their mass proliferation re: drugs.
+
+And tech companies find value in their mass proliferation re: porn, fleshlights, dildos.
+
+I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, where the experiences people need and want are available foremost in the real world, via people, sincerely, intimately, and via touch, no matter one's "social class." [Imagine all the people, living life in peace.](https://youtu.be/YkgkThdzX-8?si=YNzRr6gnKtG4jywG)
+
+And that must be understood as distinct from capitalistic drug-like fixes that people pay for.
+
+Intimacy healing is a step towards that, starting with medical institutions.
+
+### AI
+  
+AI has many dangerous applications, from [scamming people](https://www.business-standard.com/world-news/how-deepfake-version-of-elon-musk-became-internet-s-biggest-scammer-124081402000_1.html), to [military uses](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), to [mass survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) that are being developed in with no better ethics than what Chenliang displays by giving his students extreme paper quotas. That pressure to turn out papers by every conference deadline means a lot of research ends up getting farmed out of students before proper thought, care, and consideration to consequences is given.
+
 ## Kids
 
 > [!NOTE]
