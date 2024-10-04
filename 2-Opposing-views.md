@@ -666,7 +666,7 @@ I managed to publish 2 papers under Chenliang. Henry's average student paper cou
 Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me himself if all else failed.
 -->
 
-## Chenliang Xu
+## Chenliang Xu (advisor leaves, again)
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/cf7098eb-dc3a-4220-bb65-9c7aaded7036">
