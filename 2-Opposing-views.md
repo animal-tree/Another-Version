@@ -92,13 +92,13 @@ But in any case, the suing manner of acquiring money isn't the best way to compe
 
 BUT, I'm no stranger to some material luck, as it turned out...
 
-My hair fell out while I rented a room in a [*house on May St.*](#house-on-may-st), a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the house on May St., which I leased later, when Aetna cut me off.
+My hair fell out while I rented a room in a *house on May St.*, a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the [*House on May St.*](#house-on-may-st), which I leased later, when Aetna cut me off.
 
 # Part 2
 
 ## Crisis, RGH, and Strong
 
-After living in that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the [first hospitalization](#rochester-general-hospital-rgh), at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the [second hospital](#university-of-rochesters-strong-hospital), at the University of Rochester's Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, [Sarah](#sarah) (real name used with permission).
+After living in the House on May St., I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the [first hospitalization](#rochester-general-hospital-rgh), at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the [second hospital](#university-of-rochesters-strong-hospital), at the University of Rochester's Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, [Sarah](#sarah) (real name used with permission).
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
@@ -309,7 +309,7 @@ My grandpa gave me his electric razor when I was in high school. It was the firs
 
 In the summer, 2017, just before my first Dupilumab injection, my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
 
-Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, and mostly while living in the House on May St...
+Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, and mostly while living in the [House on May St](#house-on-may-st)...
 
 <!--
 ### Uncanny beard premonition
@@ -357,15 +357,15 @@ It was in that house when Aetna cut me off from Dupilumab and my hair started fa
 </picture>
 </a>
 </p>
-
-- I first injected Dupilumab summer, 2017
-- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
-- I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
   
 The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
 
 ### Fall, 2018 semester, and the Dead Marshes
 
+- I first injected Dupilumab summer, 2017
+- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
+- I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
+  
 After the house on May St., it was from my mom's apartment (in 2018) during a video call with my advisor that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
 
 I also presented a description of the LSTM cell, then layer, then network, then bidirectional layers with attention, to my Semantic Parsing class from the ground up using that [biological formulation](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link). My fellow PhD student told me in our office that it was really original, and she liked how I didn't use the usual LSTM diagram. The class was impressed with me.
