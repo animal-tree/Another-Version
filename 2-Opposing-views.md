@@ -84,7 +84,7 @@ That can't be a coincidence, so I leave this story here both for medical utility
 
 ## Suing
 
-I could sue, but is that "credit" really the kind I want to "compensate" for my physical appearance with? Not really, I’d rather do something that I myself would find attractive in another person. 
+I could sue, but is that really the kind of "credit" I want to get to "compensate" for my physical appearance with? Not really, I’d rather do something that I myself would find attractive in another person. 
 
 Whether or not I'm ruling it out must, out of narrative necessity, be left a mystery until the ["Faith"](#4-faith) chapter.
 
