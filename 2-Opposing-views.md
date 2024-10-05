@@ -301,24 +301,7 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 <!--But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.-->
 Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, <!--technically,--> red-handed.
 
-## Henry Kautz (Limitations of Western philosophy)
-
-<p align="center">
-<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
- <picture>
-   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
-   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
-</picture>
-</a>
-</p>
-
-- I first injected Dupilumab summer, 2017
-- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
-- I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
-  
-The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
-
-### Electric razor (more premonitions)
+## Electric razor (more premonitions)
 
 My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
 
@@ -334,7 +317,7 @@ My grandpa actually gave me his razor, an electric razor. It was the first razor
 It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
 -->
 
-### House on May St.
+## House on May St.
 
 My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
 
@@ -361,6 +344,23 @@ The beard had a really small bald patch similar to places on my body where my sk
 -->
 
 It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
+
+## Henry Kautz (Limitations of Western philosophy)
+
+<p align="center">
+<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+ <picture>
+   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
+   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+</picture>
+</a>
+</p>
+
+- I first injected Dupilumab summer, 2017
+- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
+- I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
+  
+The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
 
 ### Fall, 2018 semester, and the Dead Marshes
 
