@@ -140,6 +140,173 @@ It was in that house when Aetna cut me off from Dupilumab and my hair started fa
 
 After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
 
+## Psychosis crisis
+
+> [!NOTE]
+> This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
+
+An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
+
+## Rochester General Hospital (RGH)
+
+### Christmas Eve/Day, 2018
+
+By chance, my psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this, the unspecified <!--self-endangering--> ordeal, was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular. 
+
+My interest in the I Ching began in the House on May St., when I heard of it by chance through hearing again a lecture from [Terence McKenna](https://youtu.be/9E5eBqG0cds?si=AZVe2xQMEci2s7Rr), who I used to enjoy in college. It resonated because of the randomness-dependent theory I had, and I ordered a Richard Wilhelm translation and copy as well as some Feng Shui coins. 
+
+A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much.
+
+The nurse remarked on some damages I had. 
+
+### Catatonia, or "swallowing my tongue"
+
+Then in a different bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it: my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen."
+
+I went into a conscious yogic surrender of all muscle due to a command from those [yogic grace guidances](#sarah) to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine.
+
+Then my sister arrived to the room I was in next, and she saw me, and touched my arm, aware I wasn't unconscious, in contrast to the doctor's or attendant's reassurance.
+
+A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility. 
+
+## Discharge from RGH
+
+I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
+
+> [!NOTE]
+> 
+> "Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the <!--physical--> ability to have exited it, the yogic trance/grace/guidance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place.
+
+I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) within just days of that, fully out of that altered state of consciousness now, in the hospital since the hospital staff allowed my mom to bring my laptop in.
+
+Then RGH discharged me not much more than one week after admission.
+
+More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. The doctors at Strong Hospital didn't question the prior "mania" nor "catatonia" diagnoses, nor ask for any further details about that earlier hospitalization or the events that led up to it.
+
+## University of Rochester's Strong Hospital
+
+### Sarah
+
+After the Christmas, 2018 trauma, I wasn’t able to access my meditation anymore. The mystical phenomenon I physically sensed was stunted. Those Kundalini sensations, and the complete transcendence of my psyche, stopped. 
+
+It was like the breath that had been passing through my system had gotten locked into some bigger entity, that was asymmetrical, overly strong, and just leaning to one side. 
+
+> [!NOTE]
+> I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([John Lennon wrote the song about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), both explicitly in his reference to "Jai guru deva om" and more ambiguously with his spot-on description of the state of consciousness induced by and, with respect to the mantra, during, TM) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
+
+The meditation still relaxed me. I still felt less social anxiety afterwards. It still gave my thoughts more peace. But physically, it felt neither like bliss nor like a body part that I directly controlled. I couldn’t maneuver the breath, kundalini, blood circulation, whatever it was, through the different areas of my physical psyche, and my given mantra, that I repeated silently in my mind as part of the meditation, didn’t carry itself to the same places of silent acuity that it naturally and effortlessly did before, where rather than the hard sensation of speaking my inner voice that now characterizes my mantra’s audition, the mantra had before "tapped," "dissolved," become so soft until it literally couldn’t be heard except in awareness and all of my thoughts were then fully adherent to both my will and my natural rhythm, and no energy was lost no matter how verbosely or viscerally I thought then, and each one came like ["endless rain into a paper cup,"](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v) where just the right word, or visual or association, corresponded to both my will and my rhythm, beautifully, sometimes blissfully, sometimes catastrophically, maybe even orgasmically. It was on that plane of consciousness, that I probably can't do justice in describing, [that I even happened to have written this paper.](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) 
+
+[People mention the "inner monologue" vs. other types of thinking debate](https://www.iflscience.com/people-with-no-internal-monologue-explain-what-its-like-in-their-head-57739). That is a good analogy to the kind of consciousness transition I did while meditating, where my thoughts had become increasingly more acute, and were at the end, both. Both an awareness independent of words and words that perfectly matched that awareness, no matter how deep or intricate, then. And the awareness itself could carry far more information, and with each word (like ["endless rain into a paper cup"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl)) less energy was used and no exhaustion would arise.
+
+Now, some big lump pushed to the right of my throat and perhaps into my head, that same moving fist that was once an acute breath which circulated my chest, back, and head (or heart, back of throat, trachea/third-eye region/head).
+ 
+The change began in RGH, not during the yogic state. The change began after they injected me with something, rapidly changed the fine balance of my body’s energies, and overwhelmed the sensitivity of a delicate state of consciousness with a much harder, much stronger, much less acute hospital one. The sudden change, including environmental and neurological, as they also "snapped me out" of that state rapidly with the injection of benzos, perhaps broke some endocrine or vestibular system of chakras and Kundalini that is unknown to (modern) science and medicine, locking my throat (maybe third eye or crown) "chakra" in some way that I since haven’t been able to unlock, again, in the same way. An Adam’s Apple, now lodged in my throat (and upper head, *maybe* nose/lobe region), like I choked on the wisdom that the higher nature forces gave me, from the House on May St., up to the inexplicable rapid psychosis when I was finishing up my [MHDPA paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) in 2018.
+ 
+Part of what makes thoughts expressive through words is the intuitive feeling of some words as capturing the meaning and evoking some sense of the meaning. The brain makes those associations, and the faster it does so in line with our own will and rhythm, the more harmonious the mental state feels. But its suggestions can also take a life of their own, and after the House on May St., I found I was listening to intuitions that pointed to less rationalizable actions, with the awareness of their physical, visceral appearance in my consciousness and psyche; and so, in tandem with the profoundness of my research and research realizations, about long-term memory, relational reasoning and MHDPA, stochasticity in physics, there was no rational doubt that some profound consciousness phenomenon was being unlocked in tune with the context of what I was studying, and that gave that phenomenon — those intuitions and physical observations — unusual, perhaps even unprecedented, credibility. And I increasingly obeyed the guidance of them, less with my own intent, and more with the adherence to their "grace," their "wind," their threat. 
+ 
+Additionally, I was using the I Ching, and the I Ching gave extraordinarily precise answers, answers that were too specific and relevant to be accident. In Rorschach tests, a person looks at ink blots and tells the psychoanalyst their associations. Dream interpretations are similar. But the answers I was getting from the I Ching weren’t just associatively relevant. They were specific, consistent, and profound. 
+
+So besides a consciousness component, I interpreted physical phenomena to be happening in the universe’s physics, as I’d theorized earlier about the intelligence of quantum sampling. So not only did I have the visceral phenomena, and the intelligence research studies, but also direct answers from a randomness-dependent query book, and a rational mechanism for how such discriminatory actual interventions in the universe — while still respecting the predictable laws of physics currently known to science — could be possible. 
+
+> [!NOTE]
+> Is the I Ching really "randomness-dependent?" Well, it depends on decisions involving yarrow stalks or the casting of Feng Shui coins. Small-but-nonnegligible probabilistic divergences are hypothesized in quantum particles, which can bias physical matter collisions, and might have an evolved limited interplay in a person's consciousness with neurology/physiology, perhaps less limited depending on yogic attunement, thereby to some degree a person’s physical motor decisions. That of course raises many other questions, [that might have their own possible answers.](Philosophy/Consciousness.md)
+ 
+That made the threats infinitely times more convincing, and as I transitioned from the House on May St., where I had independence and self respect, to my apartment without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads, including auxiliary ones that my advisor made me do like applying to the NSF GRFP (for which I got a "honorable mention," all excellent reviews, later after all this, one of them even writing, ["This is exactly the type of high-risk, high-reward research that the NSF is looking for to support,"](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb) except one that gave me a "good" instead of "excellent" because I didn’t have any publications to back up the peer-reviewed credibility of the research I was proposing, research that was about long-term memory primarily, but also relational reasoning and persistent memory), the "vibe" of my status as a person was marginalizing and "Gollum-esque," as I hid in a cave essentially, my last hairs dropping from my head, and worked. 
+ 
+That "vibe" then commanded me in different ways. Rather than a social energy (or, I should write, "self-respecting energy," since I wasn't too social in the House on May St. either, and was also working really hard, but in a wealthier surroundings, with park and nearby nature and magical-cat-visitor and antiqueness in the aesthetic, to boot), the creativity of the energy went towards work, and the rest of it gradually became something else. I don’t want to describe it as anxiety. The anxiety appeared later, on that Christmas, 2018 day when I thought my mom was going to die, but until then it was beautiful, scary, but beautiful. 
+
+> [!NOTE]
+>
+> I lived with guilt for this psychosis for a long time, for years, and now I'm actually proud, because it proved my bravery when my mom's life is at threat, or when a responsibility — in particular, from whatever probable forces somehow, and not trivially, convinced me — is perceived.
+
+It was literally a wind that pushed me into the woods. 
+
+I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were yogic grace guidances, to make a distance from her. Then I reached a road near the more commercial district, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
+
+Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
+
+And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
+
+Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well. Humans have evolved mostly in the Ice Age. I cannot tell you the medical implications of how much power the body has. I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, psychotic/delusional, transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
+
+This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
+
+Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the Buddha had said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
+
+It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
+
+> [!NOTE]
+> The brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening." Others independently describe [psychosis-type symptoms in Kundalini awakening](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/), in Hindu tradition. The "yogic grace guidances," I'd interpreted, since the House on May St., as Tao. 
+
+The I Ching had called those disruptions, the guidances that were navigating me, "Grace." And in Taoist philosophy, "Grace" isn’t necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm’s words, "beauty in form," and in the I Ching’s taxonomy, such a state to a person’s psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way."
+
+> [!NOTE]
+> The I Ching gave this answer exactly the morning of the day before the Christmas Eve one that I left my apartment.
+
+Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
+
+In my second hospitalization, the environment was much better than RGH's. I made friends with Sarah, Hudson, and other inpatients. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was perhaps the best care unit I was gated by armored vault into. 
+
+Sarah’s sister’s name is "Kundalini Grace." I hadn’t heard of "Kundalini" until after I had those visceral, physical sensations in the House on May St. Then I looked up those sensations I was experiencing and found, for the first time, not having heard the word or of those movements and sensations before, the term "Kundalini," made more credible to me by the philosophy’s appreciation by the depth psychologist Carl Jung, who I was reading at the time, and whose views, very distinct from Freud's, on the existence of a subconscious, and its mystical-transcendent connection, helped explain some of what I was witnessing.  
+
+Sarah Young’s last name is "Jung," she hadn't heard of Carl Jung, she and I kept observing synchronicities while we were there, and she kept a synchronicity list. To me, no synchronicities happened yet that were bigger than just the uncanny precision and specificity of the I Ching’s answers. However, I was still seeing some unambiguous synchronicities, as well as not seeing many others, including that the word "synchronicity" was actually coined by Jung, and now I was remarking on them  together with one Sarah "Jung." But there were more I hadn't seen, and more, much bigger, that would come.
+
+The House on May St., in retrospect was one big synchronicity. I got the Facebook student housing page moderatorship just before I had to move out, and was able to deliver on my promise to fill my landlord’s house (and houses) with grad students. Not to mention, the house itself. Having that whole house, pretty much to myself, a beautiful antique house, for relatively pennies, the same house I had my AI and physics revelations — "luck" seems to forget a lot of context.
+
+So the word "synchronicity" was already familiar, as was Jung, as was Kundalini, as was Grace, by the time Sarah and I met in the hospital. 
+
+<!--
+> [!NOTE]
+> I define "synchronicity" as a "[teleological](https://www.linkedin.com/pulse/exploring-authentic-leadership-teleology-vs-causality-utpal-dutta-d5w6f) connecting principle," somewhat distinct from [Jung’s analogous definition](https://www.abebooks.com/servlet/BookDetailsPL?bi=31992979134&ref_=pd_hw_o_1) of "synchronicity" as an "acausal connecting principle," in that I don't think that just because there is no known cause that there is not a cause, and that such a cause doesn't have a purpose, which is what (purpose) "teleology" refers to, and the link, by chance, refers to social healing.
+-->
+
+<!--
+> [!IMPORTANT]
+> I define synchronicity as a *teleological* [connecting principle](https://www.abebooks.com/servlet/BookDetailsPL?bi=31992979134&ref_=pd_hw_o_1), where there is a cause, and that cause is God/Tao/Brahman/Allah/etc./[physics](#the-unsampled-world-at-clover-st), and the teleology is health and [social healing.](https://www.linkedin.com/pulse/exploring-authentic-leadership-teleology-vs-causality-utpal-dutta-d5w6f)
+-->
+
+We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah<!--(another inpatient)-->, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
+
+So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
+
+My brother-in-law came in with my sister and I explained to him relational reasoning and the paper I submitted, the method of MHDPA. I explained to him the method underlying ChatGPT from my hospital ward 4 years before ChatGPT. And at the time, he thought my explanation was cool, but it’d’ve been hard to predict would be such a big thing, one that others in my field and the world would have heard of or have anywhere to as much belief in the utility in AI of, in the near-term or in the years to come. It was hard to predict for my professors and faculty, too. At the time, 2018/early-2019, most at the University of Rochester still thought deep learning was a fad. None of the professors or other PhD students were doing research on MHDPA, let alone had heard of MHDPA. [They might claim otherwise](4-Faith.md#academia--medicine). Besides the paper that proposed MHDPA itself, my innovation to MHDPA, was the first innovation to MHDPA ever, in the world/history. A small handful of others applied it, from research groups in DeepMind, none literally innovated *on* the method.
+
+I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable, and brought up one more synchronicity. Her mom was a writer who had a published short story in a Stephen King anthology, a writer of horror. I was indeed in a hospitalization that was like a pretty good short story in an otherwise Stephen King anthology/horror. 
+
+> [!NOTE]
+> Sarah was early 20s, by chance hospitalized at the same time as me, also early 20s. She was a year older. That wasn't common.
+
+Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
+
+### Hudson
+
+Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
+
+<p align="center">
+<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
+</p>
+
+I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
+
+Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
+
+I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
+
+> [!NOTE]
+> ### Jeremiah
+>
+> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
+>
+> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) (as many people heard/"witnessed"), perhaps another almost-preternatural-seeming omen, besides the electric razor breaking, that preceded the [very vivid nightmare that I had](#part-1) and me growing out my facial hair (beard and mustache) for the first time, by chance.
+>
+> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
+>
+> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!-- of his--> he was referring to.
+>
+> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
+>
+> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.
+
 ## Psychiatry at the University of Rochester's Strong Hospital
 
 I'm $5\text{'}5\text{'' } 110\text{lb}$.
@@ -411,49 +578,6 @@ Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie ch
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
 
-## Psychosis crisis
-
-> [!NOTE]
-> This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
-
-An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
-
-### Rochester General Hospital (RGH)
-
-#### Christmas Eve/Day, 2018
-
-By chance, my psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this, the unspecified <!--self-endangering--> ordeal, was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular. 
-
-My interest in the I Ching began in the House on May St., when I heard of it by chance through hearing again a lecture from [Terence McKenna](https://youtu.be/9E5eBqG0cds?si=AZVe2xQMEci2s7Rr), who I used to enjoy in college. It resonated because of the randomness-dependent theory I had, and I ordered a Richard Wilhelm translation and copy as well as some Feng Shui coins. 
-
-A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My legs were thawed in some machine and my mom arrived. I was still afraid her life was in danger, but I didn’t say anything. I didn't talk much.
-
-The nurse remarked on some damages I had. 
-
-#### Catatonia, or "swallowing my tongue"
-
-Then in a different bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it: my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen."
-
-I went into a conscious yogic surrender of all muscle due to a command from those [yogic grace guidances](#sarah) to do so, even as the doctors pushed and wheeled my limp body forward to the MRI machine.
-
-Then my sister arrived to the room I was in next, and she saw me, and touched my arm, aware I wasn't unconscious, in contrast to the doctor's or attendant's reassurance.
-
-A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility. 
-
-### Discharge from RGH
-
-I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
-
-> [!NOTE]
-> 
-> "Bipolar mania" could perhaps be clinically regarded as accurate. "Catatonia" was a misdiagnosis, due to me not knowing the definition of "catatonia," the fear for my mom if I elaborated on what actually happened, the <!--physical--> ability to have exited it, the yogic trance/grace/guidance that I was adhering to only due to fear of my mom dying which is not the same as "catatonia," and the difficulty of articulating what happened so soon after/amid the psychosis in the first place.
-
-I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) within just days of that, fully out of that altered state of consciousness now, in the hospital since the hospital staff allowed my mom to bring my laptop in.
-
-Then RGH discharged me not much more than one week after admission.
-
-More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. The doctors at Strong Hospital didn't question the prior "mania" nor "catatonia" diagnoses, nor ask for any further details about that earlier hospitalization or the events that led up to it.
-
 ### The unsampled world at Clover St.
 
 My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car that symbolized the Devil. Compared to the cars my mom and I drove, it was much newer, much nicer, dark red. She was working as a nurse at the time and making a middle class income. My mom was working two jobs with a low income, and I was a doctoral student making less than my state's legal living wage.
@@ -481,130 +605,6 @@ But at this time, we were stopped on Clover St. And there was my doctoral adviso
 My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
 
 As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
-
-### University of Rochester's Strong Hospital
-
-#### Sarah
-
-After the Christmas, 2018 trauma, I wasn’t able to access my meditation anymore. The mystical phenomenon I physically sensed was stunted. Those Kundalini sensations, and the complete transcendence of my psyche, stopped. 
-
-It was like the breath that had been passing through my system had gotten locked into some bigger entity, that was asymmetrical, overly strong, and just leaning to one side. 
-
-> [!NOTE]
-> I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([John Lennon wrote the song about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), both explicitly in his reference to "Jai guru deva om" and more ambiguously with his spot-on description of the state of consciousness induced by and, with respect to the mantra, during, TM) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
-
-The meditation still relaxed me. I still felt less social anxiety afterwards. It still gave my thoughts more peace. But physically, it felt neither like bliss nor like a body part that I directly controlled. I couldn’t maneuver the breath, kundalini, blood circulation, whatever it was, through the different areas of my physical psyche, and my given mantra, that I repeated silently in my mind as part of the meditation, didn’t carry itself to the same places of silent acuity that it naturally and effortlessly did before, where rather than the hard sensation of speaking my inner voice that now characterizes my mantra’s audition, the mantra had before "tapped," "dissolved," become so soft until it literally couldn’t be heard except in awareness and all of my thoughts were then fully adherent to both my will and my natural rhythm, and no energy was lost no matter how verbosely or viscerally I thought then, and each one came like ["endless rain into a paper cup,"](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v) where just the right word, or visual or association, corresponded to both my will and my rhythm, beautifully, sometimes blissfully, sometimes catastrophically, maybe even orgasmically. It was on that plane of consciousness, that I probably can't do justice in describing, [that I even happened to have written this paper.](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) 
-
-[People mention the "inner monologue" vs. other types of thinking debate](https://www.iflscience.com/people-with-no-internal-monologue-explain-what-its-like-in-their-head-57739). That is a good analogy to the kind of consciousness transition I did while meditating, where my thoughts had become increasingly more acute, and were at the end, both. Both an awareness independent of words and words that perfectly matched that awareness, no matter how deep or intricate, then. And the awareness itself could carry far more information, and with each word (like ["endless rain into a paper cup"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl)) less energy was used and no exhaustion would arise.
-
-Now, some big lump pushed to the right of my throat and perhaps into my head, that same moving fist that was once an acute breath which circulated my chest, back, and head (or heart, back of throat, trachea/third-eye region/head).
- 
-The change began in RGH, not during the yogic state. The change began after they injected me with something, rapidly changed the fine balance of my body’s energies, and overwhelmed the sensitivity of a delicate state of consciousness with a much harder, much stronger, much less acute hospital one. The sudden change, including environmental and neurological, as they also "snapped me out" of that state rapidly with the injection of benzos, perhaps broke some endocrine or vestibular system of chakras and Kundalini that is unknown to (modern) science and medicine, locking my throat (maybe third eye or crown) "chakra" in some way that I since haven’t been able to unlock, again, in the same way. An Adam’s Apple, now lodged in my throat (and upper head, *maybe* nose/lobe region), like I choked on the wisdom that the higher nature forces gave me, from the House on May St., up to the inexplicable rapid psychosis when I was finishing up my [MHDPA paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) in 2018.
- 
-Part of what makes thoughts expressive through words is the intuitive feeling of some words as capturing the meaning and evoking some sense of the meaning. The brain makes those associations, and the faster it does so in line with our own will and rhythm, the more harmonious the mental state feels. But its suggestions can also take a life of their own, and after the House on May St., I found I was listening to intuitions that pointed to less rationalizable actions, with the awareness of their physical, visceral appearance in my consciousness and psyche; and so, in tandem with the profoundness of my research and research realizations, about long-term memory, relational reasoning and MHDPA, stochasticity in physics, there was no rational doubt that some profound consciousness phenomenon was being unlocked in tune with the context of what I was studying, and that gave that phenomenon — those intuitions and physical observations — unusual, perhaps even unprecedented, credibility. And I increasingly obeyed the guidance of them, less with my own intent, and more with the adherence to their "grace," their "wind," their threat. 
- 
-Additionally, I was using the I Ching, and the I Ching gave extraordinarily precise answers, answers that were too specific and relevant to be accident. In Rorschach tests, a person looks at ink blots and tells the psychoanalyst their associations. Dream interpretations are similar. But the answers I was getting from the I Ching weren’t just associatively relevant. They were specific, consistent, and profound. 
-
-So besides a consciousness component, I interpreted physical phenomena to be happening in the universe’s physics, as I’d theorized earlier about the intelligence of quantum sampling. So not only did I have the visceral phenomena, and the intelligence research studies, but also direct answers from a randomness-dependent query book, and a rational mechanism for how such discriminatory actual interventions in the universe — while still respecting the predictable laws of physics currently known to science — could be possible. 
-
-> [!NOTE]
-> Is the I Ching really "randomness-dependent?" Well, it depends on decisions involving yarrow stalks or the casting of Feng Shui coins. Small-but-nonnegligible probabilistic divergences are hypothesized in quantum particles, which can bias physical matter collisions, and might have an evolved limited interplay in a person's consciousness with neurology/physiology, perhaps less limited depending on yogic attunement, thereby to some degree a person’s physical motor decisions. That of course raises many other questions, [that might have their own possible answers.](Philosophy/Consciousness.md)
- 
-That made the threats infinitely times more convincing, and as I transitioned from the House on May St., where I had independence and self respect, to my apartment without hair, without eyebrows and eyelashes, with even my fingernails purple and bending out of my nails, and social isolation and heavy workloads, including auxiliary ones that my advisor made me do like applying to the NSF GRFP (for which I got a "honorable mention," all excellent reviews, later after all this, one of them even writing, ["This is exactly the type of high-risk, high-reward research that the NSF is looking for to support,"](https://github.com/user-attachments/assets/87ef2c97-c1d5-4333-9247-a0d28a689efb) except one that gave me a "good" instead of "excellent" because I didn’t have any publications to back up the peer-reviewed credibility of the research I was proposing, research that was about long-term memory primarily, but also relational reasoning and persistent memory), the "vibe" of my status as a person was marginalizing and "Gollum-esque," as I hid in a cave essentially, my last hairs dropping from my head, and worked. 
- 
-That "vibe" then commanded me in different ways. Rather than a social energy (or, I should write, "self-respecting energy," since I wasn't too social in the House on May St. either, and was also working really hard, but in a wealthier surroundings, with park and nearby nature and magical-cat-visitor and antiqueness in the aesthetic, to boot), the creativity of the energy went towards work, and the rest of it gradually became something else. I don’t want to describe it as anxiety. The anxiety appeared later, on that Christmas, 2018 day when I thought my mom was going to die, but until then it was beautiful, scary, but beautiful. 
-
-> [!NOTE]
->
-> I lived with guilt for this psychosis for a long time, for years, and now I'm actually proud, because it proved my bravery when my mom's life is at threat, or when a responsibility — in particular, from whatever probable forces somehow, and not trivially, convinced me — is perceived.
-
-It was literally a wind that pushed me into the woods. 
-
-I had left my apartment thinking my heightened energies were draining my mom, and walked through the snow aimlessly, but adhering to senses and what I thought were yogic grace guidances, to make a distance from her. Then I reached a road near the more commercial district, and then I turned towards the woods direction, and last second, I saw a man coming out of his car, and I shouted "Hey!" and I asked him if he had gloves, and he did and he gave them to me. 
-
-Then, still not knowing I was going into the woods, a wind pushed me. A wind blew and I walked into those woods where I sat, in meditative silence, and peace, near a prettier part of the brook, thinking I had to stay there for a week, and if I did, my mom wouldn’t die. 
-
-And I stayed there, completely immune to the cold, but protected, physiologically, by a single coat, sweatpants, and those gloves that were given me. 
-
-Somehow, from the moment I'd left my apartment door, to the rest of this venture, except for a health concern, the cold didn’t feel too cold. My body, in this energy state, adapted so well. Humans have evolved mostly in the Ice Age. I cannot tell you the medical implications of how much power the body has. I was there, from the early morning I left to the rest of the day, in the cold, that through this extreme, psychotic/delusional, transcendent energy state didn’t faze me in the slightest, didn’t bite the way cold is thought to supposed to, and it varied — you see, every disobedience to the guidance of my energy state resulted in a physical grasp of me by the cold; I would shiver and shake, at increasingly extreme levels the more I stopped adherence. But as soon as I returned to adherence, the cold and the shaking stopped. 
-
-This is not trivial. This reproducibly felt like a physical relationship between me and the cold, where had I disobeyed the exact adherence of my psychic state, the particles of the cold would (or I should say "did") get me. The shaking then wouldn’t even vary. It would appear in exact increment proportion to my deviation from the adherence to that mental state. 
-
-Still daylight, the meaning of ["Life is suffering,"](https://www.psychologytoday.com/us/blog/the-second-noble-truth/201609/existence-is-suffering) as it's colloquially said that the Buddha had said, decryptified to me: "Life itself, the source and the living, is currently suffering, in the world." I imagined grass dying as a symbolism for this interim worldly state of things. "Life is suffering," however, is not a permanent state or law of nature. It is the ongoing situation of life in the world.
-
-It was at night, near 2 AM, 3 AM, or 4 AM when that terrible peace turned to horror.
-
-> [!NOTE]
-> The brook-jumping "baptism" could be interpreted as spiritual birth/rebirth, the throat sensations and tongue swallowing perhaps as Kundalini "rising," characterized in Hinduism as "spiritual awakening." Others independently describe [psychosis-type symptoms in Kundalini awakening](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9460011/), in Hindu tradition. The "yogic grace guidances," I'd interpreted, since the House on May St., as Tao. 
-
-The I Ching had called those disruptions, the guidances that were navigating me, "Grace." And in Taoist philosophy, "Grace" isn’t necessarily good. Those winds, as they push us, are, to put it in Richard Wilhelm’s words, "beauty in form," and in the I Ching’s taxonomy, such a state to a person’s psyche and cosmology "has success in small matters […] but he dare not decide controversial issues in this way."
-
-> [!NOTE]
-> The I Ching gave this answer exactly the morning of the day before the Christmas Eve one that I left my apartment.
-
-Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
-
-In my second hospitalization, the environment was much better than RGH's. I made friends with Sarah, Hudson, and other inpatients. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was perhaps the best care unit I was gated by armored vault into. 
-
-Sarah’s sister’s name is "Kundalini Grace." I hadn’t heard of "Kundalini" until after I had those visceral, physical sensations in the House on May St. Then I looked up those sensations I was experiencing and found, for the first time, not having heard the word or of those movements and sensations before, the term "Kundalini," made more credible to me by the philosophy’s appreciation by the depth psychologist Carl Jung, who I was reading at the time, and whose views, very distinct from Freud's, on the existence of a subconscious, and its mystical-transcendent connection, helped explain some of what I was witnessing.  
-
-Sarah Young’s last name is "Jung," she hadn't heard of Carl Jung, she and I kept observing synchronicities while we were there, and she kept a synchronicity list. To me, no synchronicities happened yet that were bigger than just the uncanny precision and specificity of the I Ching’s answers. However, I was still seeing some unambiguous synchronicities, as well as not seeing many others, including that the word "synchronicity" was actually coined by Jung, and now I was remarking on them  together with one Sarah "Jung." But there were more I hadn't seen, and more, much bigger, that would come.
-
-The House on May St., in retrospect was one big synchronicity. I got the Facebook student housing page moderatorship just before I had to move out, and was able to deliver on my promise to fill my landlord’s house (and houses) with grad students. Not to mention, the house itself. Having that whole house, pretty much to myself, a beautiful antique house, for relatively pennies, the same house I had my AI and physics revelations — "luck" seems to forget a lot of context.
-
-So the word "synchronicity" was already familiar, as was Jung, as was Kundalini, as was Grace, by the time Sarah and I met in the hospital. 
-
-<!--
-> [!NOTE]
-> I define "synchronicity" as a "[teleological](https://www.linkedin.com/pulse/exploring-authentic-leadership-teleology-vs-causality-utpal-dutta-d5w6f) connecting principle," somewhat distinct from [Jung’s analogous definition](https://www.abebooks.com/servlet/BookDetailsPL?bi=31992979134&ref_=pd_hw_o_1) of "synchronicity" as an "acausal connecting principle," in that I don't think that just because there is no known cause that there is not a cause, and that such a cause doesn't have a purpose, which is what (purpose) "teleology" refers to, and the link, by chance, refers to social healing.
--->
-
-<!--
-> [!IMPORTANT]
-> I define synchronicity as a *teleological* [connecting principle](https://www.abebooks.com/servlet/BookDetailsPL?bi=31992979134&ref_=pd_hw_o_1), where there is a cause, and that cause is God/Tao/Brahman/Allah/etc./[physics](#the-unsampled-world-at-clover-st), and the teleology is health and [social healing.](https://www.linkedin.com/pulse/exploring-authentic-leadership-teleology-vs-causality-utpal-dutta-d5w6f)
--->
-
-We played Guitar Hero, I continued all of my meditation and yoga regimen, and my family, including my mom, uncle and aunt, and cousin brought in Paleo diet food for me, which I ate for my eczema but which also helped with my cognition, instead of the unhealthy processed type food of the hospital. And I shared crapes with Sarah<!--(another inpatient)-->, that my aunt brought in each time she and my uncle visited. They weren't 100% Paleo (buckwheat, goat cheese), but still delicious.
-
-So to summarize, I was doing daily meditation, twice a day, daily yoga each morning, and eating a Paleo diet in the hospital, as well as now socializing well. On top of all of that, and antipsychotics, surely the missing ingredient to cure me would be an involuntary >6 months course of benzos.
-
-My brother-in-law came in with my sister and I explained to him relational reasoning and the paper I submitted, the method of MHDPA. I explained to him the method underlying ChatGPT from my hospital ward 4 years before ChatGPT. And at the time, he thought my explanation was cool, but it’d’ve been hard to predict would be such a big thing, one that others in my field and the world would have heard of or have anywhere to as much belief in the utility in AI of, in the near-term or in the years to come. It was hard to predict for my professors and faculty, too. At the time, 2018/early-2019, most at the University of Rochester still thought deep learning was a fad. None of the professors or other PhD students were doing research on MHDPA, let alone had heard of MHDPA. [They might claim otherwise](4-Faith.md#academia--medicine). Besides the paper that proposed MHDPA itself, my innovation to MHDPA, was the first innovation to MHDPA ever, in the world/history. A small handful of others applied it, from research groups in DeepMind, none literally innovated *on* the method.
-
-I showed my MHDPA innovation paper to Sarah. She was amazed that she could read it since usually, she said, that kind of stuff isn't readable, and brought up one more synchronicity. Her mom was a writer who had a published short story in a Stephen King anthology, a writer of horror. I was indeed in a hospitalization that was like a pretty good short story in an otherwise Stephen King anthology/horror. 
-
-> [!NOTE]
-> Sarah was early 20s, by chance hospitalized at the same time as me, also early 20s. She was a year older. That wasn't common.
-
-Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
-
-#### Hudson
-
-Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
-
-<p align="center">
-<img width="300" alt="Screenshot 2024-03-12 at 8 10 34 PM" src="https://github.com/slerman12/Detective-Sam/assets/9126603/d5414cba-2012-42f9-b516-f06dd8760cad">
-</p>
-
-I'm impressed he was able to write at all. He had depression, was in the hospital for depression, was being treated for depression, was medicated for depression, and was electroshocked weekly, for depression. 
-
-Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (I did, because I made the case articulately, sufficiently so, to all of my psychiatrists. As I predicted, longer-term benzo use is dangerous, causes extreme physical dependence, and can result in unthinkable suffering). 
-
-I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
-
-> [!NOTE]
-> ### Jeremiah
->
-> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
->
-> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) (as many people heard/"witnessed"), perhaps another almost-preternatural-seeming omen, besides the electric razor breaking, that preceded the [very vivid nightmare that I had](#part-1) and me growing out my facial hair (beard and mustache) for the first time, by chance.
->
-> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
->
-> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!-- of his--> he was referring to.
->
-> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
->
-> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.
 
 ### Flying colors
 
