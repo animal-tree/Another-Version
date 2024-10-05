@@ -780,7 +780,7 @@ Got to message someone named Psyche a week after my Psyche-CAM paper who reached
 > - Yes, our birthdays coincided. Well, week-wise. She was a couple years younger than me. 
 > - I bring this up because our interaction started exactly a week after I archived my Psyche-CAM paper, and she suffered a trauma on Christmas, 2018, together with a bald Jewish guy, in addition to her being named Psyche and a cam-girl, and our birthdays coinciding, [and other "coincidences" as well](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md).
 > - See [Intimacy healing](#intimacy-healing) for what the meaning of this might be.
-> - Psyche's actual name and spelling anonymized best I can, which is too bad since the actual name, which has a slightly different spelling than the not-anonymized one in my paper, is a good pun about the weaver/tailor of the "fabric" of spacetime, also different spelling.
+> - Psyche's actual name and spelling are anonymized best I can, which is too bad since the actual name, which has an even different spelling than the not-anonymized one in my paper, is a good pun about the weaver/tailor of the "fabric" of spacetime, also different spelling (and, even with first name and all this info, and connection to me, she's still anonymized).
 >
 > Regarding the beautiful nurses, I even got reprimanded for trying to flirt with one of them by writing my phone number on an attendance sheet, inspired somewhat by Psyche’s personality, and got patronizingly lectured by a man about respecting the women nurses in the hospital, despite him and the hospital staff being the ones in the position of authority, me being held captive and drugged there against my will (by them), cameras and police everywhere, and me neither wanting to be there nor feeling comfortable. But, in my defense, in case I somehow come out like the predator in this calculus, the flirting was from a manic delusion type thing, yogic-type sense that I had to. In none of these hospitalizations was I acting on any primitive (read: "for pleasure") impulses, nor through any of this. The whole time I was under the sense or deluded belief that Psyche’s spirit was the one governing this, but that turned out [maybe](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/tree/main) unvalidated, and I came out lucid without that mania or deluded belief, having unknowingly undergone a meaningful ritual with a fellow inpatient, and not consumed any pills except maybe small traces. That was also the hospitalization where I met [Harry](#kids), the 16 year old with drug problems who they drugged with benzos for years.
 >
@@ -890,7 +890,7 @@ As if the Psyche time period wasn’t synchronistic enough, it coincided with th
 
 But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back. I have to shave it from my head, something I don't like doing, to maintain the bald upper bound of my current mutilated appearance, that otherwise now grows in in patches, with more bald skin than hairy skin. That is exponentially worse than the first time they caused my hair to fall out.
 
-`My hair was induced to fall out again after I regrew it through expensive discipline, resulting in an Alopecia Areata that looks exponentially worse than the Alopecia Universalis.`
+`My hair was induced to fall out again after I regrew it through hard and expensive discipline, resulting in an Alopecia Areata that looks exponentially worse than the previous Alopecia Universalis.`
 
 Despite my self-consciousness, for the most part, I didn't wear a hat during that hospitalization, so many people saw my head. My mom said, "I didn't think you need it" over the phone when I got mad at her for not dropping it off when she dropped off one steak in a plastic Tupperware. I was lectured about not eating enough carbs (which steak doesn't have) by one of the hospital staff. They required I eat carbs for me to be discharged, since they said my diet, and specifically that my mom told them I wasn't eating enough (which she denied), was why I was being held.
 
@@ -987,57 +987,6 @@ I had severe eczema, and my grandma when I was a kid helped by giving the best m
 > - I haven't found any hypothetical risks of my trialed diet to be an issue, but that's why latitudinal studies are needed. I ate fresh rather than frozen, grass fed grass-finished organic, almost always wild-caught rather than farmed, with no other interacting chemicals, besides allowing myself salt and black pepper, and water. The idea that red meat causes anything, has not yet had a standard scientific investigation in the context of organic, grass fed, grass-finished, and wild-caught meat, and controlled for for other interactions, e.g., sauces, sugars, and so on.
 > - A proper nutrition study that investigates interacting chemicals, requires a combinatorially intractable number of control variables (and in this case, a lot of money, not so much that the medical system can't afford it, and not so much that humanity's health should have to be sacrificed to scrounge on, but more than usual nutrition studies are funded and invest), rarely accounted for in nutrition studies. This inadvertent study, on a population of me (low-socioeconomic family background, limited to a PhD student income of less-than-official-New-York-State-living-wage), longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years (since first injected Dupilumab), and other breakthrough-type results harder to measure around energy, mood, cognition, and neurological functioning, besides hair.
 
-## Intimacy healing
-
-Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
-
-> [!WARNING]
-> 
-> In the hospital-provided housing that Sarah got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
-> 
-> Pork is not a metaphor for sex. Yams is not a metaphor for boobs. Thanksgiving is a metaphor for how grateful I was for the good food.
->
-> She told me then that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
->
-> Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated that.
->
-> Benzos act like alcohol, and are incredibly personality-disinhibiting. They're even similar to GHB, also a GABA agonist, but which additionally acts on the GHB receptor. All three reduce consciousness, and predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
->
-> However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
->
-> But I'm sure she's thankful for your services (that's not sarcasm — hospital-provided outpatient housing is one of the most-medical things I've ever seen them do; I had no idea they did that).
-
-I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
-
-Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
-
-Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
-
-Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
-
-### The artificial and synthetic
-
-I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
-- And note, via humans.
-
-The use of drugs, porn, movies, TV shows, and technologies shouldn't be judged or shamed. 
-
-Many people are happy relying on those things, others appreciate the art.
-
-Big pharma companies find value in their mass proliferation re: drugs.
-
-And tech companies find value in their mass proliferation re: porn, fleshlights, dildos.
-
-I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, where the experiences people need and want are available foremost in the real world, via people, sincerely, intimately, and via touch, no matter one's "social class." [Imagine all the people, living life in peace.](https://youtu.be/YkgkThdzX-8?si=YNzRr6gnKtG4jywG)
-
-And that must be understood as distinct from capitalistic drug-like fixes that people pay for.
-
-Intimacy healing is a step towards that, starting with medical institutions.
-
-### AI
-  
-AI has many dangerous applications, from [scamming people](https://www.business-standard.com/world-news/how-deepfake-version-of-elon-musk-became-internet-s-biggest-scammer-124081402000_1.html), to [military uses](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), to [mass survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) that are being developed in labs with paper quotas and ethics standards like Chenliang's. That pressure to turn out papers by every conference deadline means a lot of research ends up getting farmed out of students before proper thought, care, and consideration to consequences can be given. Many AI research labs currently work like factories, research-paper factories.
-
 ## Kids
 
 > [!NOTE]
@@ -1100,9 +1049,65 @@ It was quite the synchronous timing, but at that point, I was used to synchronou
 
 ## On the note of synchronicities
 
-- Waxed wise with a close friend ([Jeremiah](#hospitalization)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
-- The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
+- Waxed wise with a close friend ([Jeremiah](#jeremiah)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
 - Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) "rQdia" (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
+
+<!--
+- The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
+-->
+
+Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024, summarized in two bullet points. 
+
+## Intimacy healing
+
+Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
+
+> [!WARNING]
+> 
+> In the hospital-provided housing that Sarah got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
+> 
+> Pork is not a metaphor for sex. Yams is not a metaphor for boobs. Thanksgiving is a metaphor for how grateful I was for the good food.
+>
+> She told me then that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
+>
+> Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated that.
+>
+> Benzos act like alcohol, and are incredibly personality-disinhibiting. They're even similar to GHB, also a GABA agonist, but which additionally acts on the GHB receptor. All three reduce consciousness, and predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
+>
+> However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
+>
+> But I'm sure she's thankful for your services (that's not sarcasm — hospital-provided outpatient housing is one of the most-medical things I've ever seen them do; I had no idea they did that).
+
+I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
+
+Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
+
+Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
+
+Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
+
+### The artificial and synthetic
+
+I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
+- And note, via humans.
+
+The use of drugs, porn, movies, TV shows, and technologies shouldn't be judged or shamed. 
+
+Many people are happy relying on those things, others appreciate the art.
+
+Big pharma companies find value in their mass proliferation re: drugs.
+
+And tech companies find value in their mass proliferation re: porn, fleshlights, dildos.
+
+I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, where the experiences people need and want are available foremost in the real world, via people, sincerely, intimately, and via touch, no matter one's "social class." [Imagine all the people, living life in peace.](https://youtu.be/YkgkThdzX-8?si=YNzRr6gnKtG4jywG)
+
+And that must be understood as distinct from capitalistic drug-like fixes that people pay for.
+
+Intimacy healing is a step towards that, starting with medical institutions.
+
+### AI
+  
+AI has many dangerous applications, from [scamming people](https://www.business-standard.com/world-news/how-deepfake-version-of-elon-musk-became-internet-s-biggest-scammer-124081402000_1.html), to [military uses](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), to [mass survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) that are being developed in labs with paper quotas and ethics standards like Chenliang's. That pressure to turn out papers by every conference deadline means a lot of research ends up getting farmed out of students before proper thought, care, and consideration to consequences can be given. Many AI research labs currently work like factories, research-paper factories.
 
 ## Future hair regrowths
 
