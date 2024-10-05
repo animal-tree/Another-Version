@@ -82,7 +82,7 @@ That can't be a coincidence, so I leave this story here both for medical utility
 
 # Part 2
 
-## Suing (*litigating the Republican elephant in the room*, which I don't think is an I Ching Hexagram)
+## Suing (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
 
 I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book will show, there are better uses of my spirit besides teaching what I know to lawyers.
 
