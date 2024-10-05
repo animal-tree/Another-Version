@@ -90,7 +90,7 @@ Whether or not I'm ruling it out must, out of narrative necessity, be left a mys
 
 BUT, I'm no stranger to some material luck, as it turned out...
 
-## Electric razor (premonition 2)
+## Electric razor (more premonitions)
 
 My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
 
