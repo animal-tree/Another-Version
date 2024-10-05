@@ -332,6 +332,10 @@ The top-three contest-winning Parkinson's disease progression models I built at 
 
 ### House on May St.
 
+- I first injected Dupilumab summer, 2017
+- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
+- I lived in the House on May St. for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
+
 My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
 
 It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
@@ -359,10 +363,6 @@ The beard had a really small bald patch similar to places on my body where my sk
 It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
 
 ### Fall, 2018 semester, and the Dead Marshes
-
-- I first injected Dupilumab summer, 2017
-- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
-- I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
 
 After the house on May St., it was from my mom's apartment (in 2018) during a video call with my advisor that I described that biologically-inspired neuron architecture [above](#benzodiazepine-benzos-mechanism-of-action), with the specifics in the [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) comparing it to the LSTM architecture.
 
