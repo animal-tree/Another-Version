@@ -808,11 +808,11 @@ In addition to losing all of my hair — head, eyebrows, and eyelashes — due t
 
 `Side effects included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
 
-My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual.
+My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the community pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual.
 
 Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
 
-## How my grandma probably got dementia
+## How my grandma got dementia, probably
 
 As it happens, [benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
 
@@ -882,7 +882,15 @@ I had severe eczema, and my grandma when I was a kid helped by giving the best m
 
 ## Ascent of a Jewish old grandpa
 
-Bernie 2016.
+In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for, and I voted for him.
+
+I wanted to donate to his campaign [early](https://www.facebook.com/share/p/bu8N4jvNp9As7Rs1/), from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn’t a household name yet. She doesn’t think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
+
+<!--
+The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world, joining his up in the Health Care Financing Administration (pronounced "HeCk-FAn").
+-->
+
+But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong or capable of translating that heart into a universal language (okay, there might be one extremely difficult detour). How to transition into this? Well...
 
 ## Abusive moments during Chenliang advising:
 
