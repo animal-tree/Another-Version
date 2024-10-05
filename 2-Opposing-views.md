@@ -897,7 +897,6 @@ Speaking of the elderly...
 ## Geriatric unit hospitalization
 
 > [!WARNING]
-> ### Geriatric unit hospitalization
 > 
 > In December, 2020, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
 >
