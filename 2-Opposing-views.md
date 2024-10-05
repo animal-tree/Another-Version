@@ -1093,7 +1093,7 @@ My uncle ("dyada") came over, quickly. I interviewed him a bit about his physics
 
 I told him a neural network could probably do it, with enough training data. So I inquired. He didn't want to share, thought I would find it boring, but I told him "For my PhD." 
 
-Did I intend to do it for my PhD, identity patterns for his physics work with neural networks? No. But I was curious and thought maybe I could.
+Did I intend to do it for my PhD, identity patterns for his physics (specifically, optics) work with neural networks? No. But I was curious and thought maybe I could.
 
 So he described his method to me in detail, and left.
 
