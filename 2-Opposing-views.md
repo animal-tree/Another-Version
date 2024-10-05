@@ -84,9 +84,11 @@ That can't be a coincidence, so I leave this story here both for medical utility
 
 ## Suing
 
-I could sue, but is that really the kind of "credit" I want to get to "compensate" for my physical appearance with? Not really, I’d rather do something that I myself would find attractive in another person. 
+I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book will show, there are better uses of my spirit besides teaching what I know to lawyers.
 
 Whether or not I'm ruling it out must, out of narrative necessity, be left a mystery until the ["Faith"](#4-faith) chapter.
+
+Besides, that manner of acquiring money isn't the best way to compensate for my physical appearance. I’d rather do something that I myself would find attractive in another person. 
 
 BUT, I'm no stranger to some material luck, as it turned out...
 
