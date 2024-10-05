@@ -301,7 +301,24 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 <!--But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.-->
 Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, <!--technically,--> red-handed.
 
-## Electric razor (more premonitions)
+## Henry Kautz (Limitations of Western philosophy)
+
+<p align="center">
+<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+ <picture>
+   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
+   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+</picture>
+</a>
+</p>
+
+- I first injected Dupilumab summer, 2017
+- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
+- I lived in the [House on May St.](#house-on-may-st) for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
+  
+The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
+
+### Electric razor (more premonitions)
 
 My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
 
@@ -317,24 +334,7 @@ My grandpa actually gave me his razor, an electric razor. It was the first razor
 It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
 -->
 
-## Henry Kautz (Limitations of Western philosophy)
-
-<p align="center">
-<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
- <picture>
-   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
-   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
-</picture>
-</a>
-</p>
-
-The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
-
 ### House on May St.
-
-- I first injected Dupilumab summer, 2017
-- My first semester in the PhD program began in Fall, 2017, with Henry as advisor
-- I lived in the House on May St. for about a year, when, in 2018, Aetna cut me off from Dupilumab and my hair rapidly fell out
 
 My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
 
@@ -413,16 +413,16 @@ Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie ch
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
 
-## Psychosis crisis
+### Psychosis crisis
 
 > [!NOTE]
 > This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
 
 An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
 
-## Rochester General Hospital (RGH)
+### Rochester General Hospital (RGH)
 
-### Christmas Eve/Day, 2018
+#### Christmas Eve/Day, 2018
 
 By chance, my psychosis happened from the morning of Christmas Eve to the morning/night of Christmas day, 2018 when the ambulance found me. By chance, since my only reason for doing this, the unspecified <!--self-endangering--> ordeal, was fear that my mom's life was in danger, and whether it was a Christian holiday or not was irrelevant to me since my family is Jewish by ethnicity and was secular. 
 
@@ -432,7 +432,7 @@ A nurse was there to help thaw my legs to prevent hypothermia and frostbite.  My
 
 The nurse remarked on some damages I had. 
 
-### Catatonia, or "swallowing my tongue"
+#### Catatonia, or "swallowing my tongue"
 
 Then in a different bed, while doctors or nurses or attendants were in the room, I felt some strange thing happen with my tongue and throat, like my tongue was going back into it: my mouth opened wide, and it was like I swallowed my tongue, the whole [Kundalini](https://en.wikipedia.org/wiki/Kundalini) that had "risen."
 
@@ -442,7 +442,7 @@ Then my sister arrived to the room I was in next, and she saw me, and touched my
 
 A couple days later, an injection of benzos brought me out of the yogic state sooner than I'd planned to stay in it, as I became carefree to the earlier perceived responsibility. 
 
-## Discharge from RGH
+### Discharge from RGH
 
 I also gave the "for pleasure" answer to the psychiatrist, who diagnosed me with a bipolar manic episode and catatonia.
 
@@ -484,9 +484,9 @@ My advisor, Henry Kautz, was the most successful man I knew, and his house, I th
 
 As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
-## University of Rochester's Strong Hospital
+### University of Rochester's Strong Hospital
 
-### Sarah
+#### Sarah
 
 After the Christmas, 2018 trauma, I wasn’t able to access my meditation anymore. The mystical phenomenon I physically sensed was stunted. Those Kundalini sensations, and the complete transcendence of my psyche, stopped. 
 
@@ -579,7 +579,7 @@ I showed my MHDPA innovation paper to Sarah. She was amazed that she could read 
 
 Not that my lucidity needed further evidence, but I explained the methods of late-2022 ChatGPT to inpatient and visitors, in early-February, Winter, 2019, while drugs were altering and innovating on the functioning of my biological neural networks.
 
-### Hudson
+#### Hudson
 
 Our other companion was Hudson, who caught me as I was being discharged and handed me this letter in an envelope, that I opened later from my apartment:
 
