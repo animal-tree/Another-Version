@@ -181,8 +181,6 @@ I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf
 
 Then RGH discharged me not much more than one week after admission.
 
-More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. The doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it.
-
 ## University of Rochester's Strong Hospital
 
 ### Sarah
@@ -244,6 +242,11 @@ The I Ching had called those disruptions, the guidances that were navigating me,
 > The I Ching gave this answer exactly the morning of the day before the Christmas Eve one that I left my apartment.
 
 Perhaps this is what I was supposed to learn from the betrayal in my mind’s newly activated much-deeper-more-acute-intense intuitions. However, I suspect maybe something else as the mechanism, something in the collective consciousness, something that brought "Grace," as my work actualized into a paper and my body came to look ever more like Gollum’s — from extreme intelligence to extreme stupidity. 
+
+More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. 
+
+> [!NOTE]
+> The doctors there didn't question the prior "mania" nor "catatonia" diagnoses, nor ask for any further details about that earlier hospitalization or the events that led up to it.
 
 In my second hospitalization, the environment was much better than RGH's. I made friends with Sarah, Hudson, and other inpatients. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was perhaps the best care unit I was gated by armored vault into. 
 
