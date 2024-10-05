@@ -118,6 +118,37 @@ For the first three or so weeks, I was really, really drunk/high. Then the fog r
 
 I was also on antipsychotics, but these next chapters will not be about antipsychotics (see ["Geriatric unit hospitalization"](#geriatric-unit-hospitalization) for some elaboration on antipsychotics), since the benzos were added on top of them, making their evaluative efficacy compared to the damage from benzos hard to disentangle. The rest of this Part will be about the experience that was most-plausibly caused by the benzos. 
 
+## Benzodiazepine ("benzos") mechanism of action
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+<picture>
+  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
+</picture></a><br><i></i>
+</p>
+
+This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
+
+Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.<sup>$^\text{\color{green}1.}$</sup>
+
+$^\text{\small\color{green}1.:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup>
+
+#
+
+Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one another by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory," that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
+
+The brain has evolved some countermeasure thanks to fermented fruit existing in nature.
+<!--
+Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that almost entirely aren't, including some of the most important regions of intelligence whose healthy metric level of functioning is extremely hard to measure behaviorally, clinically, and longitudinally across variants of factors, and necessary for quality living, e.g., the hippocampus responsible for long-term memory. Alcohol does this too, but humans have provably evolved natural mechanisms of recovering from small doses of alcohol thanks to fermented fruit existing in nature. Benzos seem like a Godsend, a Panacea, especially since you're less likely to feel a headache the next day from them for the same effect, but the [evidence isn't strong enough to support they're better on the brain in the long-term than alcohol](https://www.independent.co.uk/life-style/health-and-families/health-news/drugs-linked-to-brain-damage-30-years-ago-2127504.html). From what I've gathered, benzos are worse. Since it's somewhat relevant, [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) is a video I made on evolutionary algorithms in deep learning.
+
+Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
+-->
+
+Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally. The brain responds to those GABA bursts by "downregulation," even long, long after cessation.
+
+Despite the similarities to alcohol, benzos are synthetic, achieve much the same effect without a person being able to notice the same short-term consequences like immediate hangover, and are often prescribed to be taken daily for long periods of time. [Studies haven't shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8629021/) that the long-term consequences are preferable to those of alcohol, and my experience was so severe that I would guess they are worse.
+
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
 <picture>
@@ -188,37 +219,6 @@ Almost nearing Fall, 2019, I tried to kill myself. The helium tank connected to 
 A deeper summary of my benzo trauma can be found [here](#flying-colors). <!--[here](https://github.com/slerman12/BrokenWisdoms/blob/4399be6729f1369e27a3df35eef58fbfe94dcf23/2-Opposing-views.md#my-trauma).-->
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
-
-## Benzodiazepine ("benzos") mechanism of action
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-<picture>
-  <source width="90%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-  <img width="90%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e0d09eff-2527-4449-b2e2-b986c24a5a1e">
-</picture></a><br><i></i>
-</p>
-
-This diagram is an original understanding of the  computational neuron with a differentiable analog implemented <a href="https://github.com/slerman12/UnifiedMLold2/tree/master/Blocks/Architectures/LermanBlocks/BioNeuron">here</a>. 
-
-Here is a [video](https://drive.google.com/file/d/1i5hS2iDVuo24PnGicvn5dIZYXUzDfPAl/view?usp=share_link) I made on the topic.<sup>$^\text{\color{green}1.}$</sup>
-
-$^\text{\small\color{green}1.:}$ <sup>Time-stamped 04/11/2021, though the idea was realized and shared to first advisor much earlier.</sup>
-
-#
-
-Let's begin a simplified explanation of the brain's neuron. Neurons are cells that are connected to one another by dendrites and axons that pass chemical messengers from one neuron to downstream neurons. The two most common chemical messengers in the brain are the excitatory neurotransmitter Glutamate and the inhibitory neurotransmitter GABA. Excitatory means they cause the next neuron to also release their neurotransmitters ("fire"). Inhibitory means they lower the voltage activity of the next neuron such that the next neuron is subdued. GABA is the mechanism of action of alcohol. People think alcohol is "disinhibitory," that it "disinhibits" them, but the reality is alcohol is actually inhibitory. It confuses GABA receptors, causing an inhibition of that neuron and all the neurons in your brain. It's a system-wide drug that indiscriminately simulates GABA throughout every part of your brain, from the Occipital lobe, where your eyes see (in the back of your head), to the frontal lobe, where your brain thinks it thinks.
-
-The brain has evolved some countermeasure thanks to fermented fruit existing in nature.
-<!--
-Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally, from the parts that are understood to the parts that almost entirely aren't, including some of the most important regions of intelligence whose healthy metric level of functioning is extremely hard to measure behaviorally, clinically, and longitudinally across variants of factors, and necessary for quality living, e.g., the hippocampus responsible for long-term memory. Alcohol does this too, but humans have provably evolved natural mechanisms of recovering from small doses of alcohol thanks to fermented fruit existing in nature. Benzos seem like a Godsend, a Panacea, especially since you're less likely to feel a headache the next day from them for the same effect, but the [evidence isn't strong enough to support they're better on the brain in the long-term than alcohol](https://www.independent.co.uk/life-style/health-and-families/health-news/drugs-linked-to-brain-damage-30-years-ago-2127504.html). From what I've gathered, benzos are worse. Since it's somewhat relevant, [here](https://youtu.be/TEKgesBVTJ0?si=OtXQYMZgVd3Qu36M) is a video I made on evolutionary algorithms in deep learning.
-
-Nobody understands this mechanism. To understand this mechanism, you'd have to solve all of neurology and artificial intelligence, and psychiatrists definitely haven't. Benzos are a floodbath of GABA, and your brain responds to those GABA bursts by "downregulation," even long, long after cessation.
--->
-
-Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally. The brain responds to those GABA bursts by "downregulation," even long, long after cessation.
-
-Despite the similarities to alcohol, benzos are synthetic, achieve much the same effect without a person being able to notice the same short-term consequences like immediate hangover, and are often prescribed to be taken daily for long periods of time. [Studies haven't shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8629021/) that the long-term consequences are preferable to those of alcohol, and my experience was so severe that I would guess they are worse.
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
