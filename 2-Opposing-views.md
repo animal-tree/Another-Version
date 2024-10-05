@@ -1,11 +1,147 @@
 # Part 1
 
+## Sam of Samarkand
+
+Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Maná, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
+
+At the age of 16, my grandpa officially became "Yury," having been born with the Jewish name "Izya" and those documents being lost in the war, he went by the less-semitic name "Yury" in Ukraine, or the nickname "Yura."
+
+My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work there as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952.
+
+The beautiful thing about Samarkand is that it’s an ancient Muslim city, with beautiful architecture, whose country is simultaneously Asia, Europe, and Middle Eastern, the closest geographical juncture to an intersection between the philosophical continents.
+
+My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I was named "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
+
+## Eczema at infancy (*difficulty at the beginning*)
+
+I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, babies’ cloths to cover my hands, so I’d not scratch to blood.
+
+When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, and we went to some village, not-civilized-looking village. There, a man (a different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer. No you stay here." My mom wanted to go. "No. You not allowed." Maybe because she was a woman and it was Muslim, they didn’t let her go there. She was worried. Shafkad assured that everything is alright either way. He knows these people. "No no. They good people. They heal."
+
+They were waiting and after some time, maybe 20 minutes, they brought me back, two people, the guy who took me and another, the shaman, healer, a short man, Uzbek or Tajik maybe, native-Uzbek looking, middle age, maybe 40 something, 50. He said he couldn’t heal me, that he got rid of all demons from me and couldn’t heal it. "Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it." 
+
+He didn’t take money. He just said, "I couldn’t heal him. I can’t."
+
+The shaman somehow knew that we were immigrating. My mom didn’t know how. She thought maybe Shafkad told him. Somehow he knew. He said, "Are you going to America? Maybe they can heal him. They have better doctors there."
+
+<!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn’t know how.-->
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+<picture>
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+</picture>
+</a>
+</p>
+
+## Induced hair loss (*fellowship with man*)
+
+In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
+
+`Aetna cut me off from Dupilumab about 8 months into my dependency without warning.`
+
+`The deliverer couldn't reach my doctor.`
+
+I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
+
+Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring (when she scheduled it), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
+
+`I wasn't given an appointment with my doctor until months after.`
+
+`The cessation initially caused Alopecia Areata.`
+
+Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
+
+`The drug was delivered after I lost my hair.`
+
+## Premonitions
+
+We finally got a delivery of the drug. I wasn’t sure whether it’d be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
+
+Here's a personal story, since I was fixated with Taoism at the time:
+
+To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
+
+`The Alopecia Areata had developed into Alopecia Universalis.`
+
+The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair will grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair can "sprout" out of the earth, my head, like blades of grass, again... which it did, temporarily but covering my entire head except for an unnoticeable tiny spot at the top of my scalp.
+
+Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
+
+Another time I did the steak-only diet, my pubic hair fully grew back — temporarily.
+
+Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
+
+That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
+
+`I now look like Gollum`, and had other symptoms to be specified later (See ["Nails"](#nails)).
+
+> [!WARNING]
+> By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
+
+# Part 2
+
+## Suing
+
+I could sue, but is that "credit" really the kind I want to "compensate" for my physical appearance with? Not really, I’d rather do something that I myself would find attractive in another person. 
+
+Whether or not I'm ruling it out must, out of narrative necessity, be left a mystery until the ["Faith"](#4-faith) chapter.
+
+BUT, I'm no stranger to some material luck, as it turned out...
+
+## Electric razor (premonition 2)
+
+My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
+
+In the summer, 2017, just before my first Dupilumab injection, my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
+
+Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, while living in the House on May St...
+
+<!--
+### Uncanny beard premonition
+
+My grandpa actually gave me his razor, an electric razor. It was the first razor I ever had, that I used to shave in high school and all through college. I was right-handed; I'm sure my grandpa used his left hand; I'm sure Charles was startled when I started coming into the office at the Center for Health and Technology, in the late summer of 2017, with the early traces of a beard.
+
+It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
+-->
+
+## House on May St.
+
+My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
+
+It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
+
+Pets weren't allowed, but that's okay, because there was a [semi-adopted stray who regularly came to visit me outside and sat with me on (or near) my porch named "Batman" (according to his collar)](https://www.facebook.com/share/v/KXoyjpZeM6tsKRrE/), and I loved him very much if the video doesn't make that clear.
+
+Months before I moved out, I became the admin/moderator of the [university Facebook housing page](https://www.facebook.com/groups/1112684565415024/) by chance, because the actual admin posted he was looking for a student to moderate the page for him, and I responded that I could do it. My landlord didn't know (and probably still doesn't) that I'm the effective-admin/moderator of that page. Also, since then, I've messaged the manager/admin of that group multiple times to give the moderation to someone else or moderate it himself and he hasn’t replied, and doesn't appear to use Facebook, so hereforth I'm permitting myself to call myself the admin. I’m glad to moderate, but not super good at keeping up to date with it. So, after there was no chance left of getting to keep the place to just myself and friend longer, I ended up finding University of Rochester grad students to fill all 4 bedrooms of the house, and all 4 bedrooms of the neighboring house, also belonging to the landlord — I think "semi-detached home" is what it's called — and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to my landlord's email and my landlord's email flooded with other PhD students looking to fill that house, including one of the ones who’d originally wanted and planned to who I'd notified (he moved into the attached one). I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students. Sorry for this phrasing, but the landlord’s house is now "never lacking" in interested grad students looking to rent from him. In fact, lucky for him, the neighboring commercial building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
+
+I also grew out a full beard <!--(except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college)--> and full mustache mostly in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
+
+I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many asceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
+
+I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight divergences by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
+
+In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The instructor I learned from through the TM program was trained directly by the creator/translator of the technique, Maharishi Mahesh Yogi, the guru/yogi the Beatles infamously learned their meditation practice from. I experienced the subtle sinking/melting of my state of consciousness, including visceral physiological sensations, perhaps what some people have observed/called as "Kundalini," that I hadn't heard of yet and came to from Googling my physical sensations, that were a movement in my chest, back of neck, maybe esophagus/throat region, or into my third eye/lobe region, visceral and physical. The meditation brought my consciousness to a sublime state and alleviated my social anxiety.
+
+<!--
+Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayaking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
+-->
+
+<!--
+The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was a Freshman in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyelashes, armpits, and pubic area weren't.
+-->
+
+It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
+
+After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
+
 ## Psychosis crisis
 
 > [!NOTE]
 > This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
 
-An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
+An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
 
 ## Rochester General Hospital (RGH)
 
@@ -42,34 +178,6 @@ I ran the final experiments for my [MHDPA innovation paper](https://www.overleaf
 Then RGH discharged me not much more than one week after admission.
 
 More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. The doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it.
-
-## The unsampled world at Clover St.
-
-My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car that symbolized the Devil. Compared to the cars my mom and I drove, it was much newer, much nicer, dark red. She was working as a nurse at the time and making a middle class income. My mom was working two jobs with a low income, and I was a doctoral student making less than my state's legal living wage.
-
-When we were driving, I remember we stopped at Clover St., due to a red light, and some instinct told me to jump out. The feeling was ominous. But together with that ominous feeling, as the drive progressed, I sensed that a million worlds existed, and that all of them had evolved to converge to this one. So I sat somewhat reassured, in an uneasy anxiety, that what was happening will be okay. 
-
-Except, the sense/vision/idea was wrong, this time. Instead of my fanciful ideas about quantum stochasticity in a single universe, I had this bizarre idea, specifically on this transit, about "Many worlds" — I know, how original. "Many worlds" is a standard interpretation in quantum physics, often an alternative to Copenhagen which also, like me, both usually and I guess in my version here, tends to assume a single universe.
-
-In "Many worlds," or at least my version that I was conjuring up in my mind in the car, or I should say was pouring into my mind through a sheer awareness, everything that happened in the universe was evolved, through countless cycles of different trajectories, over cosmogenesis origins upon cosmogenesis origins, into the perfect exact happenings that were happening then. Now that's not really "Many worlds." That's one world, where it just cycles many times, like an AI training algorithm, and we just happen to be in the version that cycled in this way.
-
-"Many worlds" is more nuanced. It says: there's a LOT of worlds — like at least 6. No, maybe a million. No, googolplex. Infinity! Undefined! And we're in this one, because "reasons."
-
-Both of these theories/interpretations are wrong. But neglecting to explain why for now, I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
-
-I mentioned stochasticity in the universe's quantum mechanics. That means randomness. The universe, as it's theorized today, is fundamentally probabilistic. And physics does a great job of telling us that those probabilities are probabilities. No no, just look at Schrödinger’s quantum wave function. See, it's a bunch of probability densities that splash around like a kiddie pool. And when those waves are especially high, that's where the particle is more likely to get sampled, or that's the more likely velocity of the particle, or that's the more likely "World" that gets sampled, or in my especially terrible vision, that's the "Cycle" that the universe just permanently converges to forever. 
-
-So where can "God" fit into any of those interpretations, besides the last one being just "Godawful," no-pun-unintended (puns are deterministic)? Well, ultimately, something has to select which world gets chosen. One way that could happen is through just the magic power of randomness. Another way, is that some *will* known as "statistical divergence" is able to allocate the probable from the improbable, and, within its holy bounds, tilt the scales a bit. The "Sampler" — who is the "Sampler"?
-
-I sensed an ominous feeling as we were driving, and that same inner sense that gave me that kind-of vision about the many cycling-evolving worlds converging to this moment’s exact perfection, told me to make a run for it when we stopped at Clover St., at a red light. My doctoral advisor, Henry, actually lived on Clover St.
-
-My sister’s car was big and red, like a giant Dirt Devil, and before we got into it, I immediately had the "Devil" association, appear like a fear in my mind, the first omen (ominous sense) of that drive. Well, the "Sampler" that was about to sample my fate could only have been a little red vacuum cleaner, because, this transit, not specifically just this transit but this transit as well, was taking me to Hell, and the Devil drive did not end on Clover St., nor on the hospital grounds. No, each ticking moment from the drive to the psychiatric unit, even back to home, was a cruise controlled, speed-limit-obeying, insidious, maybe even pleasant drive, deeper, into Hell, to a Hell of mind that only one door leaves.
-
-But at this time, we were stopped on Clover St. And there was my doctoral advisor’s big house, on this street, that I could’ve, hypothetically, run to, in one of the many other worlds. 
-
-My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
-
-As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
 ## University of Rochester's Strong Hospital
 
@@ -180,92 +288,20 @@ Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (
 
 I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
 
-# Part 2
-
-How did I get here?
-
-## House on May St.
-
-My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
-
-It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
-
-Pets weren't allowed, but that's okay, because there was a [semi-adopted stray who regularly came to visit me outside and sat with me on (or near) my porch named "Batman" (according to his collar)](https://www.facebook.com/share/v/KXoyjpZeM6tsKRrE/), and I loved him very much if the video doesn't make that clear.
-
-Months before I moved out, I became the admin/moderator of the [university Facebook housing page](https://www.facebook.com/groups/1112684565415024/) by chance, because the actual admin posted he was looking for a student to moderate the page for him, and I responded that I could do it. My landlord didn't know (and probably still doesn't) that I'm the effective-admin/moderator of that page. Also, since then, I've messaged the manager/admin of that group multiple times to give the moderation to someone else or moderate it himself and he hasn’t replied, and doesn't appear to use Facebook, so hereforth I'm permitting myself to call myself the admin. I’m glad to moderate, but not super good at keeping up to date with it. So, after there was no chance left of getting to keep the place to just myself and friend longer, I ended up finding University of Rochester grad students to fill all 4 bedrooms of the house, and all 4 bedrooms of the neighboring house, also belonging to the landlord — I think "semi-detached home" is what it's called — and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to my landlord's email and my landlord's email flooded with other PhD students looking to fill that house, including one of the ones who’d originally wanted and planned to who I'd notified (he moved into the attached one). I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students. Sorry for this phrasing, but the landlord’s house is now "never lacking" in interested grad students looking to rent from him. In fact, lucky for him, the neighboring commercial building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
-
-I also grew out a full beard <!--(except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college)--> and full mustache mostly in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
-
-I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many asceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
-
-I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight divergences by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
-
-In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The instructor I learned from through the TM program was trained directly by the creator/translator of the technique, Maharishi Mahesh Yogi, the guru/yogi the Beatles infamously learned their meditation practice from. I experienced the subtle sinking/melting of my state of consciousness, including visceral physiological sensations, perhaps what some people have observed/called as "Kundalini," that I hadn't heard of yet and came to from Googling my physical sensations, that were a movement in my chest, back of neck, maybe esophagus/throat region, or into my third eye/lobe region, visceral and physical. The meditation brought my consciousness to a sublime state and alleviated my social anxiety.
-
-<!--
-Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayaking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
--->
-
-<!--
-The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was a Freshman in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyelashes, armpits, and pubic area weren't.
--->
-
-It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
-
-After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-<picture>
-  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-</picture>
-</a>
-</p>
-
-## Induced hair loss (*fellowship with man*)
-
-In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
-
-`Aetna cut me off from Dupilumab about 8 months into my dependency without warning.`
-
-`The deliverer couldn't reach my doctor.`
-
-I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
-
-Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring (when she scheduled it), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
-
-`I wasn't given an appointment with my doctor until months after.`
-
-`The cessation first caused Alopecia Areata.`
-
-Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
-
-We finally got a delivery of the drug. I wasn’t sure whether it’d be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
-
-`The drug was delivered after I lost my hair.`
-
-Here's a personal story, since I was fixated with Taoism at the time:
-
-To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
-
-`The Alopecia Areata had developed into Alopecia Universalis.`
-
-The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair will grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair can "sprout" out of the earth, my head, like blades of grass, again... which it did, temporarily but covering my entire head except for an unnoticeable tiny spot at the top of my scalp.
-
-Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
-
-Another time I did the steak-only diet, my pubic hair fully grew back — temporarily.
-
-Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
-
-That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
-
-`I now look like Gollum`, and had other symptoms to be specified later (See ["Nails"](#nails)).
-
-> [!WARNING]
-> ### Premonition (*more mysticism*)
-> By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
+> [!NOTE]
+> ### Jeremiah
+>
+> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
+>
+> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) (as many people heard/"witnessed"), perhaps another almost-preternatural-seeming omen, besides the electric razor breaking, that preceded the [very vivid nightmare that I had](#part-1) and me growing out my facial hair (beard and mustache) for the first time, by chance.
+>
+> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
+>
+> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!-- of his--> he was referring to.
+>
+> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
+>
+> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
@@ -398,32 +434,6 @@ Despite the similarities to alcohol, benzos are synthetic, achieve much the same
 
 # Part 3
 
-## Sam of Samarkand
-
-Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Maná, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
-
-At the age of 16, my grandpa officially became "Yury," having been born with the Jewish name "Izya" and those documents being lost in the war, he went by the less-semitic name "Yury" in Ukraine, or the nickname "Yura."
-
-My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work there as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952.
-
-The beautiful thing about Samarkand is that it’s an ancient Muslim city, with beautiful architecture, whose country is simultaneously Asia, Europe, and Middle Eastern, the closest geographical juncture to an intersection between the philosophical continents.
-
-My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I was named "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
-
-## Eczema at infancy (*difficulty at the beginning*)
-
-I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, babies’ cloths to cover my hands, so I’d not scratch to blood.
-
-When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, and we went to some village, not-civilized-looking village. There, a man (a different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer. No you stay here." My mom wanted to go. "No. You not allowed." Maybe because she was a woman and it was Muslim, they didn’t let her go there. She was worried. Shafkad assured that everything is alright either way. He knows these people. "No no. They good people. They heal."
-
-They were waiting and after some time, maybe 20 minutes, they brought me back, two people, the guy who took me and another, the shaman, healer, a short man, Uzbek or Tajik maybe, native-Uzbek looking, middle age, maybe 40 something, 50. He said he couldn’t heal me, that he got rid of all demons from me and couldn’t heal it. "Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it." 
-
-He didn’t take money. He just said, "I couldn’t heal him. I can’t."
-
-The shaman somehow knew that we were immigrating. My mom didn’t know how. She thought maybe Shafkad told him. Somehow he knew. He said, "Are you going to America? Maybe they can heal him. They have better doctors there."
-
-<!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn’t know how.-->
-
 ## PhD program
 
 ### Embassy interview
@@ -496,21 +506,6 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 <!--But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.-->
 Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, <!--technically,--> red-handed.
 
-## Electric razor
-
-My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
-
-In the summer, 2017 (just before Dupilumab), my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
-
-Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently. I never grew out my beard and mustache before<!-- that-->. <!--I did so on an intuition/sense that I should.-->
-
-<!--
-### Uncanny beard premonition
-
-My grandpa actually gave me his razor, an electric razor. It was the first razor I ever had, that I used to shave in high school and all through college. I was right-handed; I'm sure my grandpa used his left hand; I'm sure Charles was startled when I started coming into the office at the Center for Health and Technology, in the late summer of 2017, with the early traces of a beard.
-
-It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
--->
 ## Henry Kautz (Limitations of Western philosophy)
 
 <p align="center">
@@ -569,7 +564,7 @@ I was wearing a hat all through the conference, to cover up my baldness, that I 
 
 The encroaching mental state on the social and self-image-based fronts began its march from the hair loss.
 
-When I returned, my isolation on the work-based front deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization, the second time my frontier research ideas coincided with a sudden major health crisis, either 100% externally caused in the first instance, or unprecedented and highly dissociated from me, as in, suspiciously unlike me, in this instance.
+When I returned, my isolation on the work-based front deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization, the second time my frontier research ideas coincided with a sudden major health crisis, either 100% externally caused in the first instance, or unprecedented for me, almost suspiciously so, in this instance.
 
 I was also doing yoga, together with meditation and pranayama, every day, intensely and in deep trance through each session, by myself on a yoga mat or the floor, a yoga taught to me through the advanced technique of TM, that was being taught in tandem with a meditation retreat at a zen center I went on, earlier on my 23rd birthday, on November 18, 2018, where one of the instructors actually learned that it was my birthday and brought me cake and got everybody to sing happy birthday for me. It turned out, rather ironically/unfortunately, it was somebody else's birthday that day or weekend, too, who was in the large dining area where the instructor brought me a cake, announced to everybody (against my will) that it was my birthday, and they all sang to me, but not to him (not knowing it was his birthday). He later told me, with good humor. Most (well, definitely all) of the people there were older than me.
 
@@ -578,6 +573,34 @@ This period was an extremely isolated time of work and esoteric in-the-weeds rev
 Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie chapter, as Gollum's world seems to be the ruling one now, and Frodo and Sam are navigating at his back through the boggy peril.
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
+
+### The unsampled world at Clover St.
+
+My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car that symbolized the Devil. Compared to the cars my mom and I drove, it was much newer, much nicer, dark red. She was working as a nurse at the time and making a middle class income. My mom was working two jobs with a low income, and I was a doctoral student making less than my state's legal living wage.
+
+When we were driving, I remember we stopped at Clover St., due to a red light, and some instinct told me to jump out. The feeling was ominous. But together with that ominous feeling, as the drive progressed, I sensed that a million worlds existed, and that all of them had evolved to converge to this one. So I sat somewhat reassured, in an uneasy anxiety, that what was happening will be okay. 
+
+Except, the sense/vision/idea was wrong, this time. Instead of my fanciful ideas about quantum stochasticity in a single universe, I had this bizarre idea, specifically on this transit, about "Many worlds" — I know, how original. "Many worlds" is a standard interpretation in quantum physics, often an alternative to Copenhagen which also, like me, both usually and I guess in my version here, tends to assume a single universe.
+
+In "Many worlds," or at least my version that I was conjuring up in my mind in the car, or I should say was pouring into my mind through a sheer awareness, everything that happened in the universe was evolved, through countless cycles of different trajectories, over cosmogenesis origins upon cosmogenesis origins, into the perfect exact happenings that were happening then. Now that's not really "Many worlds." That's one world, where it just cycles many times, like an AI training algorithm, and we just happen to be in the version that cycled in this way.
+
+"Many worlds" is more nuanced. It says: there's a LOT of worlds — like at least 6. No, maybe a million. No, googolplex. Infinity! Undefined! And we're in this one, because "reasons."
+
+Both of these theories/interpretations are wrong. But neglecting to explain why for now, I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
+
+I mentioned stochasticity in the universe's quantum mechanics. That means randomness. The universe, as it's theorized today, is fundamentally probabilistic. And physics does a great job of telling us that those probabilities are probabilities. No no, just look at Schrödinger’s quantum wave function. See, it's a bunch of probability densities that splash around like a kiddie pool. And when those waves are especially high, that's where the particle is more likely to get sampled, or that's the more likely velocity of the particle, or that's the more likely "World" that gets sampled, or in my especially terrible vision, that's the "Cycle" that the universe just permanently converges to forever. 
+
+So where can "God" fit into any of those interpretations, besides the last one being just "Godawful," no-pun-unintended (puns are deterministic)? Well, ultimately, something has to select which world gets chosen. One way that could happen is through just the magic power of randomness. Another way, is that some *will* known as "statistical divergence" is able to allocate the probable from the improbable, and, within its holy bounds, tilt the scales a bit. The "Sampler" — who is the "Sampler"?
+
+I sensed an ominous feeling as we were driving, and that same inner sense that gave me that kind-of vision about the many cycling-evolving worlds converging to this moment’s exact perfection, told me to make a run for it when we stopped at Clover St., at a red light. My doctoral advisor, Henry, actually lived on Clover St.
+
+My sister’s car was big and red, like a giant Dirt Devil, and before we got into it, I immediately had the "Devil" association, appear like a fear in my mind, the first omen (ominous sense) of that drive. Well, the "Sampler" that was about to sample my fate could only have been a little red vacuum cleaner, because, this transit, not specifically just this transit but this transit as well, was taking me to Hell, and the Devil drive did not end on Clover St., nor on the hospital grounds. No, each ticking moment from the drive to the psychiatric unit, even back to home, was a cruise controlled, speed-limit-obeying, insidious, maybe even pleasant drive, deeper, into Hell, to a Hell of mind that only one door leaves.
+
+But at this time, we were stopped on Clover St. And there was my doctoral advisor’s big house, on this street, that I could’ve, hypothetically, run to, in one of the many other worlds. 
+
+My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
+
+As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
 ### Flying colors
 
@@ -642,21 +665,6 @@ The steak diet, which I began after the severest of these symptoms and withdrawi
 And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/). Which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense?
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. 
-
-> [!NOTE]
-> ### Jeremiah
->
-> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
->
-> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) (as many people heard/"witnessed"), perhaps another almost-preternatural-seeming omen, besides the electric razor breaking, that preceded the [very vivid nightmare that I had](#part-1) and me growing out my facial hair (beard and mustache) for the first time, by chance.
->
-> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
->
-> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!-- of his--> he was referring to.
->
-> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
->
-> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
 
 ### Advisor leaves
 
@@ -786,7 +794,7 @@ Well, I suppose there was the thanksgiving with Sarah (see [in next chapter](#in
 
 That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang (or mostly [Henry](https://github.com/user-attachments/assets/e2e55660-57be-415b-9371-7918e93add5a) for that matter). Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
 
-## Geriatric unit hospitalization
+## Abusive moments during Chenliang advising:
 
 > [!WARNING]
 > ### Geriatric unit hospitalization
@@ -874,7 +882,7 @@ As if the Psyche time period wasn’t synchronistic enough, it coincided with th
 
 But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back. I have to shave it from my head, something I don't like doing, to maintain the bald upper bound of my current mutilated appearance, that otherwise now grows in in patches, with more bald skin than hairy skin. That is exponentially worse than the first time they caused my hair to fall out.
 
-`My hair was induced to fall out again after I regrew it through extremely tough and expensive discipline, resulting in an Alopecia Areata that looks exponentially worse than the Alopecia Universalis.`
+`My hair was induced to fall out again after I regrew it through expensive discipline, resulting in an Alopecia Areata that looks exponentially worse than the Alopecia Universalis.`
 
 Despite my self-consciousness, for the most part, I didn't wear a hat during that hospitalization, so many people saw my head. My mom said, "I didn't think you need it" over the phone when I got mad at her for not dropping it off when she dropped off one steak in a plastic Tupperware. I was lectured about not eating enough carbs (which steak doesn't have) by one of the hospital staff. They required I eat carbs for me to be discharged, since they said my diet, and specifically that my mom told them I wasn't eating enough (which she denied), was why I was being held.
 
