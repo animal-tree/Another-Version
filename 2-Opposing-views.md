@@ -246,7 +246,7 @@ Perhaps this is what I was supposed to learn from the betrayal in my mind’s ne
 More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. 
 
 > [!NOTE]
-> The doctors there didn't question the prior "mania" nor "catatonia" diagnoses, nor ask for any further details about that earlier hospitalization or the events that led up to it.
+> The doctors at Strong Hospital didn't question the prior "mania" nor "catatonia" diagnoses, nor ask for any further details about that earlier hospitalization or the events that led up to it.
 
 In my second hospitalization, the environment was much better than RGH's. I made friends with Sarah, Hudson, and other inpatients. We [played](https://youtu.be/cco_DvSzrts?si=pmfrQ4XEaLF1teEK&t=51) Guitar Hero together, there was a piano, there were TVs, one of the public rooms had big windows, we even were taken across floors of the hospital for music jamming sessions with lots of instruments, they had their yoga and meditation instructions as well, and of all of my hospitalizations to come, this was perhaps the best care unit I was gated by armored vault into. 
 
