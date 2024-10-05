@@ -90,7 +90,7 @@ Whether or not I'm ruling it out must, out of narrative necessity, be left a mys
 
 As that chapter will show, there's an even more appealing salvation for me after all this!
 
-But in any case, that manner of acquiring money isn't the best way to compensate for my physical appearance. I’d rather do something that I myself would find attractive in another person. 
+But in any case, that manner of acquiring money isn't the best way to compensate for my physical appearance. Short of that other appealing salvation, I’d rather do something that I myself would find attractive in another person. 
 
 BUT, I'm no stranger to some material luck, as it turned out...
 
