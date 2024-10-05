@@ -80,8 +80,6 @@ That can't be a coincidence, so I leave this story here both for medical utility
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
-# Part 2
-
 ## Suing (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
 
 I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book will show, there are better uses of my spirit besides teaching what I know to lawyers.
@@ -97,6 +95,8 @@ BUT, I'm no stranger to some material luck, as it turned out...
 My hair fell out while I rented a room in a [*house on May St.*](#house-on-may-st), a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned and me, where I first injected Dupilumab, but it was while living in the house on May St., which I leased later, when Aetna cut me off.
 
 After living in that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, [Sarah](#sarah) (real name used with permission).
+
+# Part 2
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
