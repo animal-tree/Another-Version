@@ -100,7 +100,7 @@ My grandpa gave me his electric razor when I was in high school. It was the firs
 
 In the summer, 2017, just before my first Dupilumab injection, my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
 
-Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, while living in the House on May St...
+Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, mostly while living in the House on May St...
 
 <!--
 ### Uncanny beard premonition
