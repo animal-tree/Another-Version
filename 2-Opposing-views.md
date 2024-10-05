@@ -92,7 +92,7 @@ But in any case, the suing manner of acquiring money isn't the best way to compe
 
 BUT, I'm no stranger to some material luck, as it turned out...
 
-My hair fell out while I rented a room in a *house on May St.*, a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the [*House on May St.*](#house-on-may-st), which I leased later, when Aetna cut me off.
+My hair fell out while I rented a room in a *house on May St.*, a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the [House on May St.](#house-on-may-st), which I leased later, when Aetna cut me off.
 
 # Part 2
 
