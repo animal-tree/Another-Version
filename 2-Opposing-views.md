@@ -94,7 +94,7 @@ But in any case, that manner of acquiring money isn't the best way to compensate
 
 BUT, I'm no stranger to some material luck, as it turned out...
 
-## Electric razor (more premonitions)
+## Electric razor (+ more premonitions)
 
 My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
 
