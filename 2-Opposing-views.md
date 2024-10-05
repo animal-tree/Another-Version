@@ -1,11 +1,151 @@
 # Part 1
 
+## Sam of Samarkand
+
+Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Maná, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
+
+At the age of 16, my grandpa officially became "Yury," having been born with the Jewish name "Izya" and those documents being lost in the war, he went by the less-semitic name "Yury" in Ukraine, or the nickname "Yura."
+
+My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work there as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952.
+
+The beautiful thing about Samarkand is that it’s an ancient Muslim city, with beautiful architecture, whose country is simultaneously Asia, Europe, and Middle Eastern, the closest geographical juncture to an intersection between the philosophical continents.
+
+My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I was named "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
+
+## Eczema at infancy (*difficulty at the beginning*)
+
+I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, babies’ cloths to cover my hands, so I’d not scratch to blood.
+
+When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, and we went to some village, not-civilized-looking village. There, a man (a different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer. No you stay here." My mom wanted to go. "No. You not allowed." Maybe because she was a woman and it was Muslim, they didn’t let her go there. She was worried. Shafkad assured that everything is alright either way. He knows these people. "No no. They good people. They heal."
+
+They were waiting and after some time, maybe 20 minutes, they brought me back, two people, the guy who took me and another, the shaman, healer, a short man, Uzbek or Tajik maybe, native-Uzbek looking, middle age, maybe 40 something, 50. He said he couldn’t heal me, that he got rid of all demons from me and couldn’t heal it. "Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it." 
+
+He didn’t take money. He just said, "I couldn’t heal him. I can’t."
+
+The shaman somehow knew that we were immigrating. My mom didn’t know how. She thought maybe Shafkad told him. Somehow he knew. He said, "Are you going to America? Maybe they can heal him. They have better doctors there."
+
+<!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn’t know how.-->
+
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+<picture>
+  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
+</picture>
+</a>
+</p>
+
+## Induced hair loss (*fellowship with man*)
+
+In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
+
+`Aetna cut me off from Dupilumab about 8 months into my dependency without warning.`
+
+`The deliverer couldn't reach my doctor.`
+
+I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
+
+Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring (when she scheduled it), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
+
+`I wasn't given an appointment with my doctor until months after.`
+
+`The cessation initially caused Alopecia Areata.`
+
+Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
+
+`The drug was delivered after I lost my hair.`
+
+## Premonitions
+
+We finally got a delivery of the drug. I wasn’t sure whether it’d be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
+
+Here's a personal story, since I was fixated with Taoism at the time:
+
+To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
+
+`The Alopecia Areata had developed into Alopecia Universalis.`
+
+The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair will grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair can "sprout" out of the earth, my head, like blades of grass, again... which it did, temporarily but covering my entire head except for an unnoticeable tiny spot at the top of my scalp.
+
+Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
+
+Another time I did the steak-only diet, my pubic hair fully grew back — temporarily.
+
+Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
+
+That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
+
+`I now look like Gollum`, and had other symptoms to be specified later (See ["Nails"](#nails)).
+
+> [!WARNING]
+> By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
+
+# Part 2
+
+## Suing (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
+
+I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book will show, there are better uses of my spirit besides teaching what I know to lawyers.
+
+Whether or not I'm ruling it out must, out of narrative necessity, be left a mystery until the ["Faith"](#4-faith) chapter.
+
+As that chapter will show, there's an even more appealing direction that all of this has made me crave!
+
+But in any case, the suing manner of acquiring money isn't the best way to compensate for my physical appearance. I’d rather do something that I myself would find attractive in another person. 
+
+BUT, I'm no stranger to some material luck, as it turned out...
+
+## Electric razor (+ more premonitions)
+
+My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
+
+In the summer, 2017, just before my first Dupilumab injection, my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
+
+Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, and mostly while living in the House on May St...
+
+<!--
+### Uncanny beard premonition
+
+My grandpa actually gave me his razor, an electric razor. It was the first razor I ever had, that I used to shave in high school and all through college. I was right-handed; I'm sure my grandpa used his left hand; I'm sure Charles was startled when I started coming into the office at the Center for Health and Technology, in the late summer of 2017, with the early traces of a beard.
+
+It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
+-->
+
+## House on May St.
+
+My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
+
+It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
+
+Pets weren't allowed, but that's okay, because there was a [semi-adopted stray who regularly came to visit me outside and sat with me on (or near) my porch named "Batman" (according to his collar)](https://www.facebook.com/share/v/KXoyjpZeM6tsKRrE/), and I loved him very much if the video doesn't make that clear.
+
+Months before I moved out, I became the admin/moderator of the [university Facebook housing page](https://www.facebook.com/groups/1112684565415024/) by chance, because the actual admin posted he was looking for a student to moderate the page for him, and I responded that I could do it. My landlord didn't know (and probably still doesn't) that I'm the effective-admin/moderator of that page. Also, since then, I've messaged the manager/admin of that group multiple times to give the moderation to someone else or moderate it himself and he hasn’t replied, and doesn't appear to use Facebook, so hereforth I'm permitting myself to call myself the admin. I’m glad to moderate, but not super good at keeping up to date with it. So, after there was no chance left of getting to keep the place to just myself and friend longer, I ended up finding University of Rochester grad students to fill all 4 bedrooms of the house, and all 4 bedrooms of the neighboring house, also belonging to the landlord — I think "semi-detached home" is what it's called — and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to my landlord's email and my landlord's email flooded with other PhD students looking to fill that house, including one of the ones who’d originally wanted and planned to who I'd notified (he moved into the attached one). I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students. Sorry for this phrasing, but the landlord’s house is now "never lacking" in interested grad students looking to rent from him. In fact, lucky for him, the neighboring commercial building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
+
+I also grew out a full beard <!--(except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college)--> and full mustache mostly in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
+
+I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many asceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
+
+I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight divergences by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
+
+In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The instructor I learned from through the TM program was trained directly by the creator/translator of the technique, Maharishi Mahesh Yogi, the guru/yogi the Beatles infamously learned their meditation practice from. I experienced the subtle sinking/melting of my state of consciousness, including visceral physiological sensations, perhaps what some people have observed/called as "Kundalini," that I hadn't heard of yet and came to from Googling my physical sensations, that were a movement in my chest, back of neck, maybe esophagus/throat region, or into my third eye/lobe region, visceral and physical. The meditation brought my consciousness to a sublime state and alleviated my social anxiety.
+
+<!--
+Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayaking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
+-->
+
+<!--
+The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was a Freshman in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyelashes, armpits, and pubic area weren't.
+-->
+
+It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
+
+After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
+
 ## Psychosis crisis
 
 > [!NOTE]
 > This was about 5 - 8 months after the hair loss. No prior history of psychosis or mania.
 
-An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, still under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
+An ambulance found me, wet with brook water<!--, potentially at risk of frostbite-->. The only answer I gave as to what happened, was "for pleasure," here and thereafter, under the delusional belief that my mom's life was in danger if I didn't adhere to that secrecy.
 
 ## Rochester General Hospital (RGH)
 
@@ -43,34 +183,6 @@ Then RGH discharged me not much more than one week after admission.
 
 More than two weeks since the first hospitalization, I end up not sleeping all night. My sister happened to visit the next day. Due to having not slept all night, she was worried I might be going through another "manic" episode and insisted to my mom and me to drive me to Strong Hospital. The doctors there didn't question the prior mania nor catatonia, nor ask for any further details about that earlier hospitalization or the events that led up to it.
 
-## The unsampled world at Clover St.
-
-My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car that symbolized the Devil. Compared to the cars my mom and I drove, it was much newer, much nicer, dark red. She was working as a nurse at the time and making a middle class income. My mom was working two jobs with a low income, and I was a doctoral student making less than my state's legal living wage.
-
-When we were driving, I remember we stopped at Clover St., due to a red light, and some instinct told me to jump out. The feeling was ominous. But together with that ominous feeling, as the drive progressed, I sensed that a million worlds existed, and that all of them had evolved to converge to this one. So I sat somewhat reassured, in an uneasy anxiety, that what was happening will be okay. 
-
-Except, the sense/vision/idea was wrong, this time. Instead of my fanciful ideas about quantum stochasticity in a single universe, I had this bizarre idea, specifically on this transit, about "Many worlds" — I know, how original. "Many worlds" is a standard interpretation in quantum physics, often an alternative to Copenhagen which also, like me, both usually and I guess in my version here, tends to assume a single universe.
-
-In "Many worlds," or at least my version that I was conjuring up in my mind in the car, or I should say was pouring into my mind through a sheer awareness, everything that happened in the universe was evolved, through countless cycles of different trajectories, over cosmogenesis origins upon cosmogenesis origins, into the perfect exact happenings that were happening then. Now that's not really "Many worlds." That's one world, where it just cycles many times, like an AI training algorithm, and we just happen to be in the version that cycled in this way.
-
-"Many worlds" is more nuanced. It says: there's a LOT of worlds — like at least 6. No, maybe a million. No, googolplex. Infinity! Undefined! And we're in this one, because "reasons."
-
-Both of these theories/interpretations are wrong. But neglecting to explain why for now, I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
-
-I mentioned stochasticity in the universe's quantum mechanics. That means randomness. The universe, as it's theorized today, is fundamentally probabilistic. And physics does a great job of telling us that those probabilities are probabilities. No no, just look at Schrödinger’s quantum wave function. See, it's a bunch of probability densities that splash around like a kiddie pool. And when those waves are especially high, that's where the particle is more likely to get sampled, or that's the more likely velocity of the particle, or that's the more likely "World" that gets sampled, or in my especially terrible vision, that's the "Cycle" that the universe just permanently converges to forever. 
-
-So where can "God" fit into any of those interpretations, besides the last one being just "Godawful," no-pun-unintended (puns are deterministic)? Well, ultimately, something has to select which world gets chosen. One way that could happen is through just the magic power of randomness. Another way, is that some *will* known as "statistical divergence" is able to allocate the probable from the improbable, and, within its holy bounds, tilt the scales a bit. The "Sampler" — who is the "Sampler"?
-
-I sensed an ominous feeling as we were driving, and that same inner sense that gave me that kind-of vision about the many cycling-evolving worlds converging to this moment’s exact perfection, told me to make a run for it when we stopped at Clover St., at a red light. My doctoral advisor, Henry, actually lived on Clover St.
-
-My sister’s car was big and red, like a giant Dirt Devil, and before we got into it, I immediately had the "Devil" association, appear like a fear in my mind, the first omen (ominous sense) of that drive. Well, the "Sampler" that was about to sample my fate could only have been a little red vacuum cleaner, because, this transit, not specifically just this transit but this transit as well, was taking me to Hell, and the Devil drive did not end on Clover St., nor on the hospital grounds. No, each ticking moment from the drive to the psychiatric unit, even back to home, was a cruise controlled, speed-limit-obeying, insidious, maybe even pleasant drive, deeper, into Hell, to a Hell of mind that only one door leaves.
-
-But at this time, we were stopped on Clover St. And there was my doctoral advisor’s big house, on this street, that I could’ve, hypothetically, run to, in one of the many other worlds. 
-
-My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
-
-As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
-
 ## University of Rochester's Strong Hospital
 
 ### Sarah
@@ -80,9 +192,9 @@ After the Christmas, 2018 trauma, I wasn’t able to access my meditation anymor
 It was like the breath that had been passing through my system had gotten locked into some bigger entity, that was asymmetrical, overly strong, and just leaning to one side. 
 
 > [!NOTE]
-> I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([John Lennon wrote the song about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), both explicitly in his reference to "Jai guru deva om" and more ambiguously with his spot-on description of the state of consciousness induced by and during TM) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
+> I felt, ever since that sensation that my tongue was going back into my throat, some vestibular situation — something really changed, and has been different since. That oceanic feeling that John Lennon captured really well about his experiences with TM in the song ["Across the Universe"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl) ([John Lennon wrote the song about TM](https://en.wikipedia.org/wiki/Across_the_Universe#Composition), both explicitly in his reference to "Jai guru deva om" and more ambiguously with his spot-on description of the state of consciousness induced by and, with respect to the mantra, during, TM) was gone. Since that "catatonia" (tongue-throat situation), my experiences/words during and following TM weren't "like endless rain into a paper cup." They had become coarse somehow, and instead of that vibrant "Kundalini" movement I felt before, there was a physical feeling in my neck, a right-angle tilt, even when I wasn't meditating. I first began noticing this while trying to meditate in the hospital at RGH.
 
-The meditation still relaxed me. I still felt less social anxiety afterwards. It still gave my thoughts more peace. But physically, it felt neither like bliss nor like a body part that I directly controlled. I couldn’t maneuver the breath, kundalini, blood circulation, whatever it was, through the different areas of my physical psyche, and my given mantra, that I repeated silently in my mind as part of the meditation, didn’t carry itself to the same places of silent acuity that it naturally and effortlessly did before, where rather than the hard sensation of speaking my inner voice that now characterizes my mantra’s audition, the mantra had before "melted," "sunk," become so soft until it literally couldn’t be heard and all of my thoughts were then fully adherent to both my will and my natural rhythm, yet silently, and no energy was lost no matter how verbosely or viscerally I thought then, and each one came like ["endless rain into a paper cup,"](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v) where just the right word, or visual or association, corresponded to both my will and my rhythm, beautifully, sometimes blissfully, sometimes catastrophically, maybe even orgasmically, quite organically. It was on that plane of consciousness that I'm trying to describe [that I wrote this paper.](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) 
+The meditation still relaxed me. I still felt less social anxiety afterwards. It still gave my thoughts more peace. But physically, it felt neither like bliss nor like a body part that I directly controlled. I couldn’t maneuver the breath, kundalini, blood circulation, whatever it was, through the different areas of my physical psyche, and my given mantra, that I repeated silently in my mind as part of the meditation, didn’t carry itself to the same places of silent acuity that it naturally and effortlessly did before, where rather than the hard sensation of speaking my inner voice that now characterizes my mantra’s audition, the mantra had before "slipped," "dissolved," become so soft until it literally couldn’t be heard except in awareness and all of my thoughts were then fully adherent to both my will and my natural rhythm, and no energy was lost no matter how verbosely or viscerally I thought then, and each one came like ["endless rain into a paper cup,"](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Across_the_Universe%23:~:text%3DThe%2520flavour%2520of%2520the%2520song,the%2520link%2520to%2520the%2520chorus.&ved=2ahUKEwjGvszQ1rOIAxXlhIkEHdwgLcwQFnoECBsQAw&usg=AOvVaw1MtnfbSbXSsMu_w1lg6V_v) where just the right word, or visual or association, corresponded to both my will and my rhythm, beautifully, sometimes blissfully, sometimes catastrophically, maybe even orgasmically. It was on that plane of consciousness, that I probably can't do justice in describing, [that I even happened to have written this paper.](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) 
 
 [People mention the "inner monologue" vs. other types of thinking debate](https://www.iflscience.com/people-with-no-internal-monologue-explain-what-its-like-in-their-head-57739). That is a good analogy to the kind of consciousness transition I did while meditating, where my thoughts had become increasingly more acute, and were at the end, both. Both an awareness independent of words and words that perfectly matched that awareness, no matter how deep or intricate, then. And the awareness itself could carry far more information, and with each word (like ["endless rain into a paper cup"](https://youtu.be/90M60PzmxEE?si=2n0PJKmeekYA6etl)) less energy was used and no exhaustion would arise.
 
@@ -180,92 +292,20 @@ Meanwhile, I was being brain damaged by benzos, but who could’ve known that? (
 
 I was told a court order would be acquired if I didn't take them, even as I was taking antipsychotics.
 
-# Part 2
-
-How did I get here?
-
-## House on May St.
-
-My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I’d never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
-
-It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
-
-Pets weren't allowed, but that's okay, because there was a [semi-adopted stray who regularly came to visit me outside and sat with me on (or near) my porch named "Batman" (according to his collar)](https://www.facebook.com/share/v/KXoyjpZeM6tsKRrE/), and I loved him very much if the video doesn't make that clear.
-
-Months before I moved out, I became the admin/moderator of the [university Facebook housing page](https://www.facebook.com/groups/1112684565415024/) by chance, because the actual admin posted he was looking for a student to moderate the page for him, and I responded that I could do it. My landlord didn't know (and probably still doesn't) that I'm the effective-admin/moderator of that page. Also, since then, I've messaged the manager/admin of that group multiple times to give the moderation to someone else or moderate it himself and he hasn’t replied, and doesn't appear to use Facebook, so hereforth I'm permitting myself to call myself the admin. I’m glad to moderate, but not super good at keeping up to date with it. So, after there was no chance left of getting to keep the place to just myself and friend longer, I ended up finding University of Rochester grad students to fill all 4 bedrooms of the house, and all 4 bedrooms of the neighboring house, also belonging to the landlord — I think "semi-detached home" is what it's called — and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to my landlord's email and my landlord's email flooded with other PhD students looking to fill that house, including one of the ones who’d originally wanted and planned to who I'd notified (he moved into the attached one). I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students. Sorry for this phrasing, but the landlord’s house is now "never lacking" in interested grad students looking to rent from him. In fact, lucky for him, the neighboring commercial building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
-
-I also grew out a full beard <!--(except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college)--> and full mustache mostly in those first months I lived in that May St. house, based on some intuition. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
-
-I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many asceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
-
-I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight divergences by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
-
-In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The instructor I learned from through the TM program was trained directly by the creator/translator of the technique, Maharishi Mahesh Yogi, the guru/yogi the Beatles infamously learned their meditation practice from. I experienced the subtle sinking/melting of my state of consciousness, including visceral physiological sensations, perhaps what some people have observed/called as "Kundalini," that I hadn't heard of yet and came to from Googling my physical sensations, that were a movement in my chest, back of neck, maybe esophagus/throat region, or into my third eye/lobe region, visceral and physical. The meditation brought my consciousness to a sublime state and alleviated my social anxiety.
-
-<!--
-Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayaking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
--->
-
-<!--
-The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was a Freshman in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyelashes, armpits, and pubic area weren't.
--->
-
-It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
-
-After that house, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH, where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester’s Strong Hospital, where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
-
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-<picture>
-  <source width="85%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-  <img width="85%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/aaabe1d9-820a-4daf-9eba-974bfe762851">
-</picture>
-</a>
-</p>
-
-## Induced hair loss (*fellowship with man*)
-
-In the summer immediately at the head of my first year as a PhD student, my university-hospital doctor Lisa Beck prescribed a medication called Dupilumab. It's a biologic agent that one injects into their stomach that laser-targets a specific antibody associated with eczema. My eczema was severe and debilitating. Some time into taking the medication — I think maybe 8 months — my university-provided health insurance Aetna cut me off from the drug without warning. I wasn't notified by Aetna or my doctor, or the university-owned hospital, but by the university-owned intermediary deliverer, who was responsible for delivering the drug on a recurring basis to my doorstep, since it can't — or at least at the time couldn't — be provided for pick-up at a pharmacy. They called me and told me they couldn't reach my doctor, but for some reason Aetna had decided to no longer cover the prescription. 
-
-`Aetna cut me off from Dupilumab about 8 months into my dependency without warning.`
-
-`The deliverer couldn't reach my doctor.`
-
-I remember walking up and down Mt. Hope Avenue with my phone in a panic calling my doctor trying to reach her, and the university deliverer telling me they were trying to do the same and couldn't reach her either. After a while, my hair started falling out rapidly. I have no genetic predisposition to baldness, from any side of my family. The abnormally rapid hair loss was obviously due to the dependency and cessation. 
-
-Though it fell out quickly, I didn't notice at first. The shower drains were filled with hair every day, and I thought it was maybe my housemate's girlfriend's. I didn't get to see my doctor until later in the Spring (when she scheduled it), a long time after, when I think much of the side and top of my head were bald. She diagnosed it as Alopecia Areata as a result of the sudden cessation of Dupilumab. To be clear, she diagnosed it as Alopecia Areata as a result of the sudden cessation<!-- of Dupilumab-->. She and her nurse took pictures and stored them in the university-hospital computers. 
-
-`I wasn't given an appointment with my doctor until months after.`
-
-`The cessation first caused Alopecia Areata.`
-
-Eventually, she sorted out things with the university-provided health insurance, but by then it was too late. Most of my hair had fallen out.
-
-We finally got a delivery of the drug. I wasn’t sure whether it’d be safer at that point to re-instigate the dependency/addiction or avoid the drug at all costs.
-
-`The drug was delivered after I lost my hair.`
-
-Here's a personal story, since I was fixated with Taoism at the time:
-
-To help me weigh the difficult decision — and it was difficult because that medication was extremely potent and didn't even help my eczema much, and I believed my hair would grow back — I asked the I Ching. Here I'll describe the hexagrams I got because I find it interesting that one of the predictions came true, and this might be medically useful since it corresponded thrice with my hair growing back (all three resurgences after the Alopecia Areata had developed into Alopecia Universalis, meaning after every piece of hair from my body had fallen out).
-
-`The Alopecia Areata had developed into Alopecia Universalis.`
-
-The I Ching "answered" it didn’t matter which of the two paths I chose ("The town may be changed, / But the well cannot be changed. / It neither decreases nor increases." - "The Well", unchanging). (Maybe an interesting observation: that the English "well" is phonetically similar to "wellness," as well). It also had previously "answered" my hair would grow back of its own accord, which it did, temporarily. I still remember: "Difficulty at the beginning" (as Richard Wilhelm described: "The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth — hence the meaning, 'Difficulty at the beginning'.") $\rightarrow$ (changes to) "Fellowship with man" (e.g., baldness). That answer about whether my hair will grow back came true with the steak-only diet (steak is "manly" and so that again ties to the hexagram symbolism of "Fellowship with man"), almost like a suggestion for how my hair can "sprout" out of the earth, my head, like blades of grass, again... which it did, temporarily but covering my entire head except for an unnoticeable tiny spot at the top of my scalp.
-
-Then all the hair fell out again. Again, total baldness. No eyelashes, eyebrows, or hair.
-
-Another time I did the steak-only diet, my pubic hair fully grew back — temporarily.
-
-Another time I did the steak-only diet, a few eyelashes grew back for the first time. 
-
-That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
-
-`I now look like Gollum`, and had other symptoms to be specified later (See ["Nails"](#nails)).
-
-> [!WARNING]
-> ### Premonition (*more mysticism*)
-> By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
+> [!NOTE]
+> ### Jeremiah
+>
+> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
+>
+> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) (as many people heard/"witnessed"), perhaps another almost-preternatural-seeming omen, besides the electric razor breaking, that preceded the [very vivid nightmare that I had](#part-1) and me growing out my facial hair (beard and mustache) for the first time, by chance.
+>
+> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
+>
+> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!-- of his--> he was referring to.
+>
+> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
+>
+> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.
 
 ## Psychiatry at the University of Rochester's Strong Hospital
 
@@ -398,37 +438,11 @@ Despite the similarities to alcohol, benzos are synthetic, achieve much the same
 
 # Part 3
 
-## Sam of Samarkand
-
-Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn’t evacuate because he was drafted to fight in the warfront. My grandpa’s mom Maná, my grandpa’s younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
-
-At the age of 16, my grandpa officially became "Yury," having been born with the Jewish name "Izya" and those documents being lost in the war, he went by the less-semitic name "Yury" in Ukraine, or the nickname "Yura."
-
-My grandpa went to a college in Kiev; my grandma, Asya, who my grandpa had met before in childhood, a year older than him, went to a different college in Kiev. They met again and married. Then the Soviet Union assigned my grandpa to a job at a sheepskin manufacturing plant/factory in Samarkand, Uzbekistan, where my grandpa had to work there as a leather technology engineer. My grandma emigrated with him and found a job there as well, teaching German. So my grandparents emigrated from Kiev, Zhytomyr, or Chernihiv to Samarkand, in 1952.
-
-The beautiful thing about Samarkand is that it’s an ancient Muslim city, with beautiful architecture, whose country is simultaneously Asia, Europe, and Middle Eastern, the closest geographical juncture to an intersection between the philosophical continents.
-
-My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I was named "Siímyon," after my grandma’s sister’s (Tslia’s) late husband Siímyon. He died several years before I was born. That’s the full name. "Syoma" is what I go by with my family. 
-
-## Eczema at infancy (*difficulty at the beginning*)
-
-I had severe eczema from a month and a half "age" old. I got this itchiness, and scratched myself, scratched myself to blood. I itched the whole body, cried, scratched myself, scratched, cried. My mom had to put cloths on my hands, babies’ cloths to cover my hands, so I’d not scratch to blood.
-
-When I was 2, about 3, a family friend, Shafkad, said there is some man in some village, some far away village, who can treat people, a healer, a shaman, not a traditional healer, and he said he can take us there to see what this person can say or do; maybe he can heal me from eczema. He drove us there, and we went to some village, not-civilized-looking village. There, a man (a different man, not the healer) came, somebody Shafkad knew, and this man said, "I’ll take him to that healer. No you stay here." My mom wanted to go. "No. You not allowed." Maybe because she was a woman and it was Muslim, they didn’t let her go there. She was worried. Shafkad assured that everything is alright either way. He knows these people. "No no. They good people. They heal."
-
-They were waiting and after some time, maybe 20 minutes, they brought me back, two people, the guy who took me and another, the shaman, healer, a short man, Uzbek or Tajik maybe, native-Uzbek looking, middle age, maybe 40 something, 50. He said he couldn’t heal me, that he got rid of all demons from me and couldn’t heal it. "Sorry. I couldn’t. I don’t know how to. I couldn’t help your son. I don’t know how to fix it." 
-
-He didn’t take money. He just said, "I couldn’t heal him. I can’t."
-
-The shaman somehow knew that we were immigrating. My mom didn’t know how. She thought maybe Shafkad told him. Somehow he knew. He said, "Are you going to America? Maybe they can heal him. They have better doctors there."
-
-<!--The shaman somehow knew that we were immigrating. Maybe Shafkad told him — somehow he knew. My mom didn’t know how.-->
-
 ## PhD program
 
 ### Embassy interview
 
-My grandma's sister, "Tsotya" Tsilia, and her son, my uncle Sasha, a mathematics professor at the Rochester Institute of Technology (RIT), were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents and uncle immigrated, and my grandparents sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. <!--My mom had to fly with us to Moscow, in the *freezing cold* of January — she couldn't move her hands in her gloves, they were so numb — to interview at the American Embassy in Moscow to convince them that she was subjugated so she could join her family.-->
+My grandma's sister, "Tsotya" ("aunt") Tsilia, and her son, my uncle Sasha, a mathematics professor at the Rochester Institute of Technology (RIT), were the first to immigrate to America. My grandma, uncle, and mom applied for refugee status to immigrate as well. My grandparents and uncle’s family were approved, whereas my mom, sister, and I, weren’t. So my grandparents and uncle immigrated, and my grandparents sent an invitation to my mom through the embassy. My mom had to fly with us to Moscow, in January, to do an interview at the American Embassy in Moscow to convince them that she was subjugated. <!--My mom had to fly with us to Moscow, in the *freezing cold* of January — she couldn't move her hands in her gloves, they were so numb — to interview at the American Embassy in Moscow to convince them that she was subjugated so she could join her family.-->
 
 "Your form said you have kids. Where are they?"
 
@@ -461,7 +475,7 @@ The interview ended.
 
 ### Immigration
 
-We flew to Rochester, New York, immigrating officially as Jewish refugees, half a year since the embassy interview. I was 3 and two thirds, and had cried, perhaps foretellingly, on the plane. My name, was legally mistranslated to "Semen." My mom (whose name was translated "Nellya") found a low-paying piano teaching job, and hoped to earn more money, so she got another degree, an associate's degree, at Monroe Community College, in Computer Information Systems, again [graduating with distinction](https://github.com/user-attachments/assets/f6183641-3c06-4c82-ba4d-662d0be0dbba). So she ended up working multiple jobs, one as a piano teacher giving individual lessons for a piano studio, and another as a part-time computer tutor in two different labs at the community college where she received her associate’s degree. My mom's students loved her in America, too. My mom taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java. 
+We flew to Rochester, New York, immigrating officially as Jewish refugees, half a year since the embassy interview. I was 3 and two thirds, and had cried, perhaps foretellingly, on the plane. My name, was legally mistranslated to "Semen," later nicknamed by my kindergarten teacher "Sem." My mom (whose name was translated "Nellya") found a low-paying piano teaching job, and hoped to earn more money, so she got another degree, an associate's degree, at Monroe Community College, in Computer Information Systems, again [graduating with distinction](https://github.com/user-attachments/assets/f6183641-3c06-4c82-ba4d-662d0be0dbba). So she ended up working multiple jobs, one as a piano teacher giving individual lessons for a piano studio, and another as a part-time computer tutor in two different labs at the community college where she received her associate’s degree. My mom's students loved her in America, too. My mom taught me how to program when I took my first-ever computer science class, at the University of Rochester, since the professor wasn’t good. In fact, he was really bad. She taught me, through quick intuition, object-oriented programming, and helped me with projects and labs in Java. 
 
 7 semesters later, I [graduated](https://github.com/user-attachments/assets/2ea5fb2f-7c92-48e0-87aa-4df7d7eb168c) with two bachelors degrees, in [Computer Science and Mathematics](https://github.com/user-attachments/assets/1fe07066-f9ee-4e49-9016-60481d0d5e07). Thanks to work ethic and intelligence, that I inherited from my mom, and some luck, I got into a doctoral program.
 
@@ -496,21 +510,6 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 <!--But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.-->
 Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, <!--technically,--> red-handed.
 
-## Electric razor
-
-My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
-
-In the summer, 2017 (just before Dupilumab), my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
-
-Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently. I never grew out my beard and mustache before<!-- that-->. <!--I did so on an intuition/sense that I should.-->
-
-<!--
-### Uncanny beard premonition
-
-My grandpa actually gave me his razor, an electric razor. It was the first razor I ever had, that I used to shave in high school and all through college. I was right-handed; I'm sure my grandpa used his left hand; I'm sure Charles was startled when I started coming into the office at the Center for Health and Technology, in the late summer of 2017, with the early traces of a beard.
-
-It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
--->
 ## Henry Kautz (Limitations of Western philosophy)
 
 <p align="center">
@@ -569,7 +568,7 @@ I was wearing a hat all through the conference, to cover up my baldness, that I 
 
 The encroaching mental state on the social and self-image-based fronts began its march from the hair loss.
 
-When I returned, my isolation on the work-based front deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization, the second time my frontier research ideas coincided with a sudden major health crisis, either 100% externally caused in the first instance, or unprecedented and highly dissociated from me, as in, suspiciously unlike me, in this instance.
+When I returned, my isolation on the work-based front deepened, as I was getting ready to submit my MHDPA innovation paper, coinciding with my first-ever hospitalization, the second time my frontier research ideas coincided with a sudden major health crisis, either 100% externally caused in the first instance, or unprecedented for me, almost suspiciously so, in this instance.
 
 I was also doing yoga, together with meditation and pranayama, every day, intensely and in deep trance through each session, by myself on a yoga mat or the floor, a yoga taught to me through the advanced technique of TM, that was being taught in tandem with a meditation retreat at a zen center I went on, earlier on my 23rd birthday, on November 18, 2018, where one of the instructors actually learned that it was my birthday and brought me cake and got everybody to sing happy birthday for me. It turned out, rather ironically/unfortunately, it was somebody else's birthday that day or weekend, too, who was in the large dining area where the instructor brought me a cake, announced to everybody (against my will) that it was my birthday, and they all sang to me, but not to him (not knowing it was his birthday). He later told me, with good humor. Most (well, definitely all) of the people there were older than me.
 
@@ -578,6 +577,34 @@ This period was an extremely isolated time of work and esoteric in-the-weeds rev
 Frodo and Sam are being led by Gollum through the Dead Marshes. It's an eerie chapter, as Gollum's world seems to be the ruling one now, and Frodo and Sam are navigating at his back through the boggy peril.
 
 I was going deeper and deeper into a psychotic state, both of (a) brilliant awareness and foresight about my field's fundamental principles and trajectory, and (b) isolation, as if I was traversing by the lead of Gollum through the Dead Marshes.
+
+### The unsampled world at Clover St.
+
+My sister came to our apartment and brought my mom and I to her dark-red mid-size crossover, that I thought looked like a car that symbolized the Devil. Compared to the cars my mom and I drove, it was much newer, much nicer, dark red. She was working as a nurse at the time and making a middle class income. My mom was working two jobs with a low income, and I was a doctoral student making less than my state's legal living wage.
+
+When we were driving, I remember we stopped at Clover St., due to a red light, and some instinct told me to jump out. The feeling was ominous. But together with that ominous feeling, as the drive progressed, I sensed that a million worlds existed, and that all of them had evolved to converge to this one. So I sat somewhat reassured, in an uneasy anxiety, that what was happening will be okay. 
+
+Except, the sense/vision/idea was wrong, this time. Instead of my fanciful ideas about quantum stochasticity in a single universe, I had this bizarre idea, specifically on this transit, about "Many worlds" — I know, how original. "Many worlds" is a standard interpretation in quantum physics, often an alternative to Copenhagen which also, like me, both usually and I guess in my version here, tends to assume a single universe.
+
+In "Many worlds," or at least my version that I was conjuring up in my mind in the car, or I should say was pouring into my mind through a sheer awareness, everything that happened in the universe was evolved, through countless cycles of different trajectories, over cosmogenesis origins upon cosmogenesis origins, into the perfect exact happenings that were happening then. Now that's not really "Many worlds." That's one world, where it just cycles many times, like an AI training algorithm, and we just happen to be in the version that cycled in this way.
+
+"Many worlds" is more nuanced. It says: there's a LOT of worlds — like at least 6. No, maybe a million. No, googolplex. Infinity! Undefined! And we're in this one, because "reasons."
+
+Both of these theories/interpretations are wrong. But neglecting to explain why for now, I think either of these serve as an accessible way to quickly show that, even under a pretty standard physics interpretation, the possibility of "God" is not... I think the word I want to use is "not necessarily stupid."
+
+I mentioned stochasticity in the universe's quantum mechanics. That means randomness. The universe, as it's theorized today, is fundamentally probabilistic. And physics does a great job of telling us that those probabilities are probabilities. No no, just look at Schrödinger’s quantum wave function. See, it's a bunch of probability densities that splash around like a kiddie pool. And when those waves are especially high, that's where the particle is more likely to get sampled, or that's the more likely velocity of the particle, or that's the more likely "World" that gets sampled, or in my especially terrible vision, that's the "Cycle" that the universe just permanently converges to forever. 
+
+So where can "God" fit into any of those interpretations, besides the last one being just "Godawful," no-pun-unintended (puns are deterministic)? Well, ultimately, something has to select which world gets chosen. One way that could happen is through just the magic power of randomness. Another way, is that some *will* known as "statistical divergence" is able to allocate the probable from the improbable, and, within its holy bounds, tilt the scales a bit. The "Sampler" — who is the "Sampler"?
+
+I sensed an ominous feeling as we were driving, and that same inner sense that gave me that kind-of vision about the many cycling-evolving worlds converging to this moment’s exact perfection, told me to make a run for it when we stopped at Clover St., at a red light. My doctoral advisor, Henry, actually lived on Clover St.
+
+My sister’s car was big and red, like a giant Dirt Devil, and before we got into it, I immediately had the "Devil" association, appear like a fear in my mind, the first omen (ominous sense) of that drive. Well, the "Sampler" that was about to sample my fate could only have been a little red vacuum cleaner, because, this transit, not specifically just this transit but this transit as well, was taking me to Hell, and the Devil drive did not end on Clover St., nor on the hospital grounds. No, each ticking moment from the drive to the psychiatric unit, even back to home, was a cruise controlled, speed-limit-obeying, insidious, maybe even pleasant drive, deeper, into Hell, to a Hell of mind that only one door leaves.
+
+But at this time, we were stopped on Clover St. And there was my doctoral advisor’s big house, on this street, that I could’ve, hypothetically, run to, in one of the many other worlds. 
+
+My advisor, Henry Kautz, was the most successful man I knew, and his house, I thought, was a mansion (though honestly the one I had on May St. probably would've been preferable).
+
+As my sister must’ve thought, I’d be getting just standard quality care. What a lucky day. What a lucky world that was sampled. And then we proceeded, from Clover St., to the first day of my benzo nightmare. 
 
 ### Flying colors
 
@@ -625,7 +652,7 @@ As it turns out, the disorder was with the psychiatrists all along. "Toto, we're
 
 At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
 
-Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, imTobeylized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture ([even at lower comparative doses than what I took](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
+Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture ([even at lower comparative doses than what I took](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
 
 I remember trying CBD oil or L-theanine to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different herbs and chemicals they had with probably way more knowledge than they expected, the person at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then she stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording/thinking was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), due to literal brain damage from the benzos. The personality consequences of the extreme [anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [brain fog](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), and [impaired speech](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d), plus total hair loss, harmed my social life more than can be stated, and lasting trauma regarding people from the interactions with the psychiatrists and medical staff coercions.
 
@@ -642,21 +669,6 @@ The steak diet, which I began after the severest of these symptoms and withdrawi
 And after all of this, [literally nothing was cured](https://www.reddit.com/r/kundalini/comments/kvbjhs/does_anyone_feel_physically_moved_by_some/). Which reality — theirs, wherein these conditions are accidents that need to be militantly defeated (wherein meditation, yoga, good social life, intelligence, healthy Paleo diet, and maybe even an antipsychotic wouldn't suffice), or mine, wherein their practices are full of "psychiatric disorder" (and, as will be shown, more than just psychiatric, but environmental, dietary, social, and more) — makes more sense?
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. 
-
-> [!NOTE]
-> ### Jeremiah
->
-> I ordered a margarita in a 2016 birthright Israel trip (a program that I really like, since otherwise I might've not been able to afford to go on any vacations), with Jeremiah probably somewhere at the table, thinking I was ordering a drink, and they brought me just this big margherita pizza. That's a fun story. Combined with benzos, that is, if I took my prescription for social anxiety that day, I suppose the effect would've been worse, neurologically and physically, than if they brought me a margarita.
->
-> That was also the trip where I was complaining [my hair was too long](https://www.facebook.com/share/qQqsQLv4Cgvbv7UZ/) (as many people heard/"witnessed"), perhaps another almost-preternatural-seeming omen, besides the electric razor breaking, that preceded the [very vivid nightmare that I had](#part-1) and me growing out my facial hair (beard and mustache) for the first time, by chance.
->
-> And we all got extremely sick, suddenly, everyone on our bus, 10 plus people, 10 - 30 people, originating from a guy on the trip who wasn't me or Jeremiah. My cousin Irina, who went with me, and I, got the most sick, of the whole bus, really severe fever, sneezing, sinuses, coughing, vomiting, more. I recall she was even prescribed an opioid, besides Sudafed.
->
-> About two years after my first Strong Hospital hospitalization, Jeremiah, who I hadn't seen since the trip to Israel, commented on a Facebook post that I'd made about the trauma that benzos induced on me, about some of his experiences. He wrote publicly on my post about how some psychiatric medication he had to take caused him to have a seizure. "[...] I've had bad side effects from medications that caused me to have a seizure one time that was no fun. [...]" Benzos, one of the drugs he was prescribed and the only plausible culprit of the ones he told me, [cause seizures during the brain's GABA downregulation](https://pubmed.ncbi.nlm.nih.gov/21815323/#:~:text=Withdrawal%20seizures%20have%20occurred%20with,time%20and%20at%20high%20doses.), a widely suffered and standardly known side effect of longer-term benzo use. Those were almost definitely the medication <!-- of his--> he was referring to.
->
-> He also wrote how he was held down and choked, on pavement outside, after being tackled, on the hard rough pavement, by the university-hospital police officers, when he tried to make a run for it. "I tried to escape and they held me down and choked me. I got to the driveway [...]" Analogously, my next hospitalization also involved combative resistance to hospitalization, following the >year of benzo-induced torture. In October, 2020, I was also physically coerced by the police, due to having a "breakdown," I suppose it can be called — quiet, peaceful, and spiritually-guided — in the grass of my apartment complex, where I’m pretty sure I was legally allowed to, or within perimeters. Efforts to escape medical custody might have other causes besides bravery and spirituality (if one is willing to extend the benefit of the doubt that I’m not stupid), for example (1) induced by disinhibitions from prescribed pharmaceutical drugs, or (2) the quality of the care provided within medical custody, or other snowballing longer-term medical-institution causes, such as (3) resistance due to earlier trauma from a previous medical intervention, like the benzo coercion that traumatized me. So, in consequence, the medical application of police brutality can result as one of the negative side effects of a pharmaceutical drug, wherein the medical system is committing physical violence in order to reinforce the drug, care, or practice that led to their own physical violence or the patient's combative resistance. They also are very coercive inside the hospital, especially in the early transit before the psychiatric unit, e.g., making you sit in one place, wear what they want you to wear, take the drugs they give you or otherwise be injected with them, etc.
->
-> He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he’s cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit. 
 
 ### Advisor leaves
 
@@ -768,9 +780,9 @@ Got to message someone named Psyche a week after my Psyche-CAM paper who reached
 > - Yes, our birthdays coincided. Well, week-wise. She was a couple years younger than me. 
 > - I bring this up because our interaction started exactly a week after I archived my Psyche-CAM paper, and she suffered a trauma on Christmas, 2018, together with a bald Jewish guy, in addition to her being named Psyche and a cam-girl, and our birthdays coinciding, [and other "coincidences" as well](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/Does-anyone-else-think-this-is-proof-of-God%3F.md).
 > - See [Intimacy healing](#intimacy-healing) for what the meaning of this might be.
-> - Psyche's actual name and spelling anonymized best I can, which is too bad since the actual name, which has a slightly different spelling than the not-anonymized one in my paper, is a good pun about the weaver/tailor of the "fabric" of spacetime, also different spelling.
+> - Psyche's actual name and spelling are anonymized best I can, which is too bad since the actual name, which has an even different spelling than the not-anonymized one in my paper, is a good pun about the weaver/tailor of the "fabric" of spacetime, also different spelling (and, even with first name and all this info, and connection to me, she's still anonymized).
 >
-> Regarding the beautiful nurses, I even got reprimanded for trying to flirt with one of them by writing my phone number on an attendance sheet, inspired somewhat by Psyche’s personality, and got patronizingly lectured by a man about respecting the women nurses in the hospital, despite him and the hospital staff being the ones in the position of authority, me being held captive and drugged there against my will (by them), cameras and police everywhere, and me neither wanting to be there nor feeling comfortable. But, in my defense, in case I somehow come out like the predator in this calculus, the flirting was from a manic delusion type thing, yogic-type sense that I had to. In none of these hospitalizations was I acting on any primitive (read: "for pleasure") impulses, nor through any of this. The whole time I was under the sense or deluded belief that Psyche’s spirit was the one governing this, but that turned out [maybe](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/tree/main) unvalidated, and I came out lucid without that mania or deluded belief, having unknowingly undergone a meaningful ritual with a fellow inpatient, and not consumed any pills except maybe small traces. That was also the hospitalization where I met [Tobey](#kids), the 16 year old with drug problems who they drugged with benzos for years.
+> Regarding the beautiful nurses, I even got reprimanded for trying to flirt with one of them by writing my phone number on an attendance sheet, inspired somewhat by Psyche’s personality, and got patronizingly lectured by a man about respecting the women nurses in the hospital, despite him and the hospital staff being the ones in the position of authority, me being held captive and drugged there against my will (by them), cameras and police everywhere, and me neither wanting to be there nor feeling comfortable. But, in my defense, in case I somehow come out like the predator in this calculus, the flirting was from a manic delusion type thing, yogic-type sense that I had to. In none of these hospitalizations was I acting on any primitive (read: "for pleasure") impulses, nor through any of this. The whole time I was under the sense or deluded belief that Psyche’s spirit was the one governing this, but that turned out [maybe](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/tree/main) unvalidated, and I came out lucid without that mania or deluded belief, having unknowingly undergone a meaningful ritual with a fellow inpatient, and not consumed any pills except maybe small traces. That was also the hospitalization where I met [Harry](#kids), the 16 year old with drug problems who they drugged with benzos for years.
 >
 > The [next one was in a geriatric unit (a facility for the elderly)](#geriatric-unit-hospitalization), so consider me reprimanded.
 
@@ -778,18 +790,113 @@ Got to message someone named Psyche a week after my Psyche-CAM paper who reached
 On the note of synchronicities:
 
 - Waxed wise with a close friend ([Jeremiah](#hospitalization)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
-- The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
 - Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) "rQdia" (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
 
+<!--
+- The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
+-->
+
+<!--
 Well, I suppose there was the thanksgiving with Sarah (see [in next chapter](#intimacy-healing)), which I also appreciated and appreciate and give thanks to.
 -->
 
 That’s all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang (or mostly [Henry](https://github.com/user-attachments/assets/e2e55660-57be-415b-9371-7918e93add5a) for that matter). Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
 
+## Nails
+
+In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, my eczema temporarily spiked and I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
+
+`Side effects included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
+
+My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the community pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual.
+
+Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
+
+## How my grandma got dementia, probably
+
+As it happens, [benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
+
+My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the brochure goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the same year my grandpa died, 2016.
+
+<!--
+That semester I was dating somebody who told me something about my nails. My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual, but something I'm proud of.
+
+In 2016, the semester she died, someone I was dating made an even more unusual remark about my nails.
+-->
+
+## How my grandpa died
+
+When I was a kid, I listed off my favorite family members once, in my order of favorite, in front of all of them who were in our apartment living room, either standing or eating at the table. Maybe I was 5 or so. I remember they all looked big and I was standing. Grandpa was sitting in his bigger chair at the table and I started, "Babula" ("Grandma"), "Máma," "Marina," ... and then after all the others who I listed, I listed my grandpa. I still remember that. He wasn’t offended, and I love and loved my grandpa a lot. In maybe 16 years, I would be standing by his bedside in the hospital, after a heart surgery he had, when he'd tell me: "Ti moy lyubimey v'nuk" ("You are my favorite grandson."). He has 4 grandkids: Irina, Lena, Marina, and me. I'm his only grandson... 
+
+I remember sitting by my grandpa's bedside, alternating days and nights. My mom or I were needed there at all times. He was almost 88, and the languages he spoke were Russian, Ukrainian, and Yiddish, and he was legally blind. He and I couldn’t watch the same TV when he lived with us, because he neither spoke English nor could see, but sometimes when I visited my grandma's and his apartment unit immediately across from ours (after they’d moved, since originally we lived together), we watched Russian Television Network together, and they actually got some Cable channels from the government program, as well. In my apartment, we only had ABC, FOX, NBC, CBS, and PBS. Then we also got an additional channel, the CW. With high school and college, I had, uh, resourcefulness, and Netflix. During those days and nights at his bedside in the hospital, in the hospital recliner chair next to him, I watched a lot of Doctor Who on Netflix on my laptop, a show about an alien with two hearts called The Doctor that resurrects after each death, the previous generation surviving in the next, and the next, and the next. It’s the [longest running science fiction show in the world](https://en.wikipedia.org/wiki/Doctor_Who#:~:text=The%20series%20has%20been%20listed,ratings%2C%20DVD%20and%20book%20sales.), a show that originally started with an old grandpa.
+
+My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. 
+
+Here is how he ended up in the hospital: Sometime in the month of November, in 2015, he was having trouble breathing, my mom took him to his primary care doctor, she diagnosed him with congestive heart failure, she prescribed pills, then about a month and a week of taking pills later, he was still having trouble breathing, my mom took him to the hospital, they took a blood analysis, and apparently he'd had a third heart attack, that occurred about a week before. So my grandpa's heart doctor came into the hospital, recommended a stent be put in my grandpa’s heart's main artery, via a surgery, and that the surgery would use an angiogram. The angiogram would require a dye that is bad for the kidneys. The primary care physician wanted to discharge my grandpa and send him for rehabilitation already, without the surgery; the heart doctor told my mom "without the surgery, his heart would only get worse" and that "he'd only have heart attacks and eventually die," so my mom chose to listen to the heart doctor, they did the angiogram, they tried to do the surgery, but the main artery was completely blocked, the surgeon wasn't able to do the surgery so put stents into the little arteries that were narrow but weren't the cause of the congestive heart failure, and right after the impromptu-alternative-surgery, which required an angiogram, which used the dye that was bad for the kidneys, my grandpa's kidneys got so bad he couldn't walk at all anymore; he couldn't stand up on his feet.
+
+I was visiting him on alternating nights before and after the surgery. Then, after the New Year 2016, the hospital didn’t know what do with him, discharged him, and sent him to the Jewish home for rehabilitation, for physical therapy to help with his worsened kidneys. They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office, separate from both the hospital and Jewish home, in a different location from either, for January 21, 2016.
+
+My grandpa was a self-reliant man, but the transit two weeks later on January 21, 2016 from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. How big a toll that transfer of locations took: they resorted to using an elevating machine that lifted him, an almost 88 year old man, up from his bed. 
+
+"Why was he discharged from the hospital?" the heart doctor had asked at that appointment in his office. "In this condition, he should be in the hospital."
+
+My grandpa's heart failed that night, after the grueling trial to make the heart doctor appointment, in all likelihood because of that grueling trial. His official death was the night of that heart doctor appointment, January 22, 2016.
+
+My grandpa was not one to miss a grueling transit. On July 3, 1941, my grandpa, his mom Maná, and his younger sister Rosá evacuated Ukraine. They went place to place by train, lived in different places, worked at farms. Once, they took the train from Rostov, and the train stopped. My grandpa was young, maybe 14. He thought, "I’ll go to the market nearby and buy something." He bought a little bit of bread and kielbasa. When he came back, he discovered his train already left. So he asked people. They said, "There’s a place where those trains stop. You can go there and take another train; they go the same direction, so maybe you can catch up with your previous train," and he saw, one train had already started moving, one train there on that platform, already in motion, and he decided he could jump, so he jumped. He was holding on, but he was gonna fall, and he thought he was gonna fall under the train. But there was someone who picked him up, quickly pulled him on (elevated him onto this big mechanical machine), someone on that train, someone who was there who quickly pulled him up. He ended up making it to their previous train's destination before his mom and sister, waiting for them, as theirs which had more stops in their transit’s journey, arrived after him.
+
+This time, my grandpa arrived a little before my grandma, despite being a little younger, in the same year, just a few months before.
+
+In Uzbekistan, it was custom for doctors to visit patients. Physicians always came to patient homes, or wherever the patient was, standardly, in Uzbek healthcare. But America and Uzbekistan had something in common, regarding their healthcare systems: cardiologists (heart doctors) specifically, didn’t visit patient homes. In our neighboring apartment units, my grandpa was having trouble breathing, but could still walk, and had survived three heart attacks previous to his death. Perhaps the heart doctor was right, and he'd keep having heart attacks and eventually die, but eventually was the night of their appointment, after a heroic ordeal to get to that office that my grandpa, with heavy strain, survived, and made it back in time to the Jewish home for his final destination, earlier than had he never gotten off the first train for some bread and kielbasa.
+
+## When my grandma died
+
+My grandma, Asya Lerman (Hebrew/American: "Esya") always cooked, healthy and really well, but she had type-2 diabetes at old age.
+I remember, for herself, she had to use artificial sweeteners because she couldn’t eat pure sugar.
+She also made these delicious Russian cookies for us called "Korshike," that I loved, that she also put into these different mold shapes, hearts and stars and fish and circles. I liked to eat the raw dough sometimes, but she didn’t let me eat it in large quantities because of eggs and the risk of salmonella.
+
+I had healthier food than the average American as a kid, despite my family’s poverty, but I still had eczema, allergies, and asthma through my whole childhood.
+
+My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing my grandpa bedridden in the hospital, even before the surgery, it was obvious to me that he was losing strength, just from the sedentary confinement to bed, that the doctors put him in, in a corner of a concrete-surrounded hospital, with no natural light, nature, or fresh air. He would’ve benefited from some motion, out of bed and walking, outdoors, with nature, with fresh air. At least once a day, each day, without any grueling transits to reach such an environment.
+
+I really think had the hospital recommended my grandpa an organic steak/salmon-only diet, and nothing more, they possibly could’ve saved his main artery from being blocked, without a surgery. Then no stents would be put into his healthier narrow arteries, no damaged kidneys, no grueling transit to heart doctor. Just physical therapy and rehabilitation. And maybe many more years, living beyond my grandma.
+
+She shortly outlived my grandpa, and died the same year as him **three days before** his April 16 birthday, on April 13, 2016.
+
+I suppose she’d’ve had to forestall her death as well, then, seeing she died just a few months after he died, in the same year, as if on purpose, joining him exactly 3 days before his April 16 birthday, on April 13, 2016, where 13 both symbolizes a death kind of day and has the number 3, as in 3 days before, and 2016 has the number 16, the upcoming day of my grandpa’s birthday.
+
+She couldn’t have died on a more perfect day, except if my grandpa lived a many, many years longer.
+
+My grandpa also gets two claims to rhythmic numerical timing: (1) He entered the hospital on December 22, 2015, spent two weeks in the hospital, two weeks in the Jewish home, and then died exactly a month after, on January 22, 2016, (2) He, Yury Lerman, was born "Izya"; but during the war, as documents were lost and "Izya" was a Jewish name amid an extremely anti-semitic Ukraine, he called himself "Yura," or the full name, "Yury," and that became his new name with the new documents when he was about 16, the same age (16 again) as my name was officially changed to "Sam" actually, by amazing ancestral-but-unintended rhyme.
+
+Now for some stretchier synchronicities:
+
+As for my grandma, the number 13 also includes a number that "is less than 3," e.g. a heart <3, which a modern readership might be able to visually appreciate universally across languages, having been a teacher of varied languages, including Ukrainian, Russian, Yiddish, and German (and she also learned English after we immigrated), in her life.
+
+Besides 16, another synchronistic number is 7. My grandma was born March 25, 1927. My mom was born July 17, 1957 (07/17/57). And Irina, who takes the most from my grandma besides me, was born November 17, one day and 6 years apart from my birthday. And my grandpa was 87 when he died.
+
+And 2016 has the number 16, that, besides being the upcoming day of my grandpa’s birthday, was the beginning of a larger-scope revolution in politics, and reformed perceptions of the healthcare system, with the 2016 ascent of another, similar Jewish old-grandpa type character and role model to me, Bernie Sanders, who has some similarities to my grandpa. 
+
+My grandma’s numerical timing of when she died is a proof symbol in my opinion on the perception and characterized message of my grandpa’s death involving the heart doctor seeming synchronistic: that the healthcare system needs reform. And the ascent of Bernie, whose name slantly rhymes with "Yury," immediately after, means a lot to me about the need for reforming healthcare systems, not just in governance, but inside the systems themselves, from elderly care, to prescription habits, to the dietary and environment principles. 
+
+I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
+
+## Ascent of a Jewish old grandpa
+
+In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for, and I voted for him.
+
+I wanted to donate to his campaign [early](https://www.facebook.com/share/p/bu8N4jvNp9As7Rs1/), from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn’t a household name yet. She doesn’t think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
+
+<!--
+The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma’s perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world, joining his up in the Health Care Financing Administration (pronounced "HeCk-FAn").
+-->
+
+But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong, or capable of translating that heart into a universal language. How to transition into this? Well...
+
+Speaking of the elderly...
+
 ## Geriatric unit hospitalization
 
 > [!WARNING]
-> ### Geriatric unit hospitalization
 > 
 > In December, 2020, I had another hospitalization, my last hospitalization, the geriatric unit (elderly facility) one.
 >
@@ -859,7 +966,7 @@ So my diet converged to one wild-caught salmon every morning and about 5 organic
 
 I experienced big improvements to my cognition, energy, and mood. <!--In particular, I recall my writing, not academic but poems, visual creative writing, and texts to people, had improved that summer to beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started to grow back while on that diet within the next couple months. I was also practicing other disciplines, including meditating, calisthenics, and abstaining from porn, all of which I continued from previous to this diet.-->
 
-In the October, 2020 hospitalization after the Sarah-one, [Tobey](#Tobey) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
+In the Psyche hospitalization after the Sarah-one, [Harry](#Harry) remarked on my hair when we saw a Duplumab commercial and I mentioned that the drug made me lose my hair ("oh that’s why"). 
 
 I was walking around bravely sometimes, past all the nurses and patients, from my room to the phone without hat. 
 
@@ -874,105 +981,13 @@ As if the Psyche time period wasn’t synchronistic enough, it coincided with th
 
 But, in case the detail was missed ("since chunks of it were falling out again in that [geriatric unit](#geriatric-unit-hospitalization)"), it was there that it turned out to be falling out again, and proceeded to partially for months after, to the point that now it looks worse than it would've had it never grown back. I have to shave it from my head, something I don't like doing, to maintain the bald upper bound of my current mutilated appearance, that otherwise now grows in in patches, with more bald skin than hairy skin. That is exponentially worse than the first time they caused my hair to fall out.
 
-`My hair was induced to fall out again after I regrew it through extremely tough and expensive discipline, resulting in an Alopecia Areata that looks exponentially worse than the Alopecia Universalis.`
+`My hair was induced to fall out again after I regrew it through hard and expensive discipline, resulting in an Alopecia Areata that looks exponentially worse than the previous Alopecia Universalis.`
 
 Despite my self-consciousness, for the most part, I didn't wear a hat during that hospitalization, so many people saw my head. My mom said, "I didn't think you need it" over the phone when I got mad at her for not dropping it off when she dropped off one steak in a plastic Tupperware. I was lectured about not eating enough carbs (which steak doesn't have) by one of the hospital staff. They required I eat carbs for me to be discharged, since they said my diet, and specifically that my mom told them I wasn't eating enough (which she denied), was why I was being held.
 
 My hair was falling into my hands again in the [geriatric unit in December, 2020](#geriatric-unit-hospitalization), most likely because of the practices in that coerced hospital stay or the temporary dietary consequences of the previous coerced hospital stay.
 
 That sudden hair regrowth was, miraculously, more than 2 years after the Dupilumab cessation that induced the Alopecia Universalis, and covered my head. 
-
-## Nails
-
-In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, my eczema temporarily spiked and I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
-
-`Side effects included temporarily worsened eczema, and fingernails turning purple, bending like putty.`
-
-My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual.
-
-Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
-
-## How my grandma probably got dementia
-
-As it happens, [benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
-
-My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the brochure goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the same year my grandpa died, 2016.
-
-<!--
-That semester I was dating somebody who told me something about my nails. My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual, but something I'm proud of.
-
-In 2016, the semester she died, someone I was dating made an even more unusual remark about my nails.
--->
-
-## How my grandpa died
-
-When I was a kid, I listed off my favorite family members once, in my order of favorite, in front of all of them who were in our apartment living room, either standing or eating at the table. Maybe I was 5 or so. I remember they all looked big and I was standing. Grandpa was sitting in his bigger chair at the table and I started, "Babula" ("Grandma"), "Máma," "Marina," ... and then after all the others who I listed, I listed my grandpa. I still remember that. He wasn’t offended, and I love and loved my grandpa a lot. In maybe 16 years, I would be standing by his bedside in the hospital, after a heart surgery he had, when he'd tell me: "Ti moy lyubimey v'nuk" ("You are my favorite grandson."). He has 4 grandkids: Irina, Lena, Marina, and me. I'm his only grandson... 
-
-I remember sitting by my grandpa's bedside, alternating days and nights. My mom or I were needed there at all times. He was almost 88, and the languages he spoke were Russian, Ukrainian, and Yiddish, and he was legally blind. He and I couldn’t watch the same TV when he lived with us, because he neither spoke English nor could see, but sometimes when I visited my grandma's and his apartment unit immediately across from ours (after they’d moved, since originally we lived together), we watched Russian Television Network together, and they actually got some Cable channels from the government program, as well. In my apartment, we only had ABC, FOX, NBC, CBS, and PBS. Then we also got an additional channel, the CW. With high school and college, I had, uh, resourcefulness, and Netflix. During those days and nights at his bedside in the hospital, in the hospital recliner chair next to him, I watched a lot of Doctor Who on Netflix on my laptop, a show about an alien with two hearts called The Doctor that resurrects after each death, the previous generation surviving in the next, and the next, and the next. It’s the [longest running science fiction show in the world](https://en.wikipedia.org/wiki/Doctor_Who#:~:text=The%20series%20has%20been%20listed,ratings%2C%20DVD%20and%20book%20sales.), a show that originally started with an old grandpa.
-
-My grandpa survived two heart attacks previously, one in Uzbekistan and one in America. 
-
-Here is how he ended up in the hospital: Sometime in the month of November, in 2015, he was having trouble breathing, my mom took him to his primary care doctor, she diagnosed him with congestive heart failure, she prescribed pills, then about a month and a week of taking pills later, he was still having trouble breathing, my mom took him to the hospital, they took a blood analysis, and apparently he'd had a third heart attack, that occurred about a week before. So my grandpa's heart doctor came into the hospital, recommended a stent be put in my grandpa’s heart's main artery, via a surgery, and that the surgery would use an angiogram. The angiogram would require a dye that is bad for the kidneys. The primary care physician wanted to discharge my grandpa and send him for rehabilitation already, without the surgery; the heart doctor told my mom "without the surgery, his heart would only get worse" and that "he'd only have heart attacks and eventually die," so my mom chose to listen to the heart doctor, they did the angiogram, they tried to do the surgery, but the main artery was completely blocked, the surgeon wasn't able to do the surgery so put stents into the little arteries that were narrow but weren't the cause of the congestive heart failure, and right after the impromptu-alternative-surgery, which required an angiogram, which used the dye that was bad for the kidneys, my grandpa's kidneys got so bad he couldn't walk at all anymore; he couldn't stand up on his feet.
-
-I was visiting him on alternating nights before and after the surgery. Then, after the New Year 2016, the hospital didn’t know what do with him, discharged him, and sent him to the Jewish home for rehabilitation, for physical therapy to help with his worsened kidneys. They also scheduled a follow-up appointment with his heart doctor in that heart doctor's private office, separate from both the hospital and Jewish home, in a different location from either, for January 21, 2016.
-
-My grandpa was a self-reliant man, but the transit two weeks later on January 21, 2016 from the Jewish home to that heart doctor's office was extreme. My mom was there, and it was a big ordeal just to help him stand amid the kidney problems that were causing him difficulty moving. How big a toll that transfer of locations took: they resorted to using an elevating machine that lifted him, an almost 88 year old man, up from his bed. 
-
-"Why was he discharged from the hospital?" the heart doctor had asked at that appointment in his office. "In this condition, he should be in the hospital."
-
-My grandpa's heart failed that night, after the grueling trial to make the heart doctor appointment, in all likelihood because of that grueling trial. His official death was the night of that heart doctor appointment, January 22, 2016.
-
-My grandpa was not one to miss a grueling transit. On July 3, 1941, my grandpa, his mom Maná, and his younger sister Rosá evacuated Ukraine. They went place to place by train, lived in different places, worked at farms. Once, they took the train from Rostov, and the train stopped. My grandpa was young, maybe 14. He thought, "I’ll go to the market nearby and buy something." He bought a little bit of bread and kielbasa. When he came back, he discovered his train already left. So he asked people. They said, "There’s a place where those trains stop. You can go there and take another train; they go the same direction, so maybe you can catch up with your previous train," and he saw, one train had already started moving, one train there on that platform, already in motion, and he decided he could jump, so he jumped. He was holding on, but he was gonna fall, and he thought he was gonna fall under the train. But there was someone who picked him up, quickly pulled him on (elevated him onto this big mechanical machine), someone on that train, someone who was there who quickly pulled him up. He ended up making it to their previous train's destination before his mom and sister, waiting for them, as theirs which had more stops in their transit’s journey, arrived after him.
-
-This time, my grandpa arrived a little before my grandma, despite being a little younger, in the same year, just a few months before.
-
-In Uzbekistan, it was custom for doctors to visit patients. Physicians always came to patient homes, or wherever the patient was, standardly, in Uzbek healthcare. But America and Uzbekistan had something in common, regarding their healthcare systems: cardiologists (heart doctors) specifically, didn’t visit patient homes. In our neighboring apartment units, my grandpa was having trouble breathing, but could still walk, and had survived three heart attacks previous to his death. Perhaps the heart doctor was right, and he'd keep having heart attacks and eventually die, but eventually was the night of their appointment, after a heroic ordeal to get to that office that my grandpa, with heavy strain, survived, and made it back in time to the Jewish home for his final destination, earlier than had he never gotten off the first train for some bread and kielbasa.
-
-## When my grandma died
-
-My grandma, Asya Lerman (Hebrew/American: "Esya") always cooked, healthy and really well, but she had type-2 diabetes at old age.
-I remember, for herself, she had to use artificial sweeteners because she couldn’t eat pure sugar.
-She also made these delicious Russian cookies for us called "Korshike," that I loved, that she also put into these different mold shapes, hearts and stars and fish and circles. I liked to eat the raw dough sometimes, but she didn’t let me eat it in large quantities because of eggs and the risk of salmonella.
-
-I had healthier food than the average American as a kid, despite my family’s poverty, but I still had eczema, allergies, and asthma through my whole childhood.
-
-My grandma taught my mom dancing when they were younger, in Uzbekistan. Seeing my grandpa bedridden in the hospital, even before the surgery, it was obvious to me that he was losing strength, just from the sedentary confinement to bed, that the doctors put him in, in a corner of a concrete-surrounded hospital, with no natural light, nature, or fresh air. He would’ve benefited from some motion, out of bed and walking, outdoors, with nature, with fresh air. At least once a day, each day, without any grueling transits to reach such an environment.
-
-I really think had the hospital recommended my grandpa an organic steak/salmon-only diet, and nothing more, they possibly could’ve saved his main artery from being blocked, without a surgery. Then no stents would be put into his healthier narrow arteries, no damaged kidneys, no grueling transit to heart doctor. Just physical therapy and rehabilitation. And maybe many more years, living beyond my grandma.
-
-She shortly outlived my grandpa, and died the same year as him **three days before** his April 16 birthday, on April 13, 2016.
-
-I suppose she’d’ve had to forestall her death as well, then, seeing she died just a few months after he died, in the same year, as if on purpose, joining him exactly 3 days before his April 16 birthday, on April 13, 2016, where 13 both symbolizes a death kind of day and has the number 3, as in 3 days before, and 2016 has the number 16, the upcoming day of my grandpa’s birthday.
-
-She couldn’t have died on a more perfect day, except if my grandpa lived a many, many years longer.
-
-My grandpa also gets two claims to rhythmic numerical timing: (1) He entered the hospital on December 22, 2015, spent two weeks in the hospital, two weeks in the Jewish home, and then died exactly a month after, on January 22, 2016, (2) He, Yury Lerman, was born "Izya"; but during the war, as documents were lost and "Izya" was a Jewish name amid an extremely anti-semitic Ukraine, he called himself "Yura," or the full name, "Yury," and that became his new name with the new documents when he was about 16, the same age (16 again) as my name was officially changed to "Sam" actually, by amazing ancestral-but-unintended rhyme.
-
-Now for some stretchier synchronicities:
-
-As for my grandma, the number 13 also includes a number that "is less than 3," e.g. a heart <3, which a modern readership might be able to visually appreciate universally across languages, having been a teacher of varied languages, including Ukrainian, Russian, Yiddish, and German (and she also learned English after we immigrated), in her life.
-
-Besides 16, another synchronistic number is 7. My grandma was born March 25, 1927. My mom was born July 17, 1957 (07/17/57). And Irina, who takes the most from my grandma besides me, was born November 17, one day and 6 years apart from my birthday. And my grandpa was 87 when he died.
-
-And 2016 has the number 16, that, besides being the upcoming day of my grandpa’s birthday, was the beginning of a larger-scope revolution in politics, and reformed perceptions of the healthcare system, with the 2016 ascent of another, similar Jewish old-grandpa type character and role model to me, Bernie Sanders, who has some similarities to my grandpa. 
-
-My grandma’s numerical timing of when she died is a proof symbol in my opinion on the perception and characterized message of my grandpa’s death involving the heart doctor seeming synchronistic: that the healthcare system needs reform. And the ascent of Bernie, whose name slantly rhymes with "Yury," immediately after, means a lot to me about the need for reforming healthcare systems, not just in governance, but inside the systems themselves, from elderly care, to prescription habits, to the dietary and environment principles. 
-
-I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
-
-### Future hair regrowths
-
-My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
-
-My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and my best friend returned into my life, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress (from that termination) and lacking an income. Those three eyelashes that had grown back one by one gradually up to that point, that summer, starting that summer, grew back for the first time ever in the 5 full years since losing all of my hair. Then each fell out, but I attribute them to my best friend, who returned that summer, and probably also the correlating steak/salmon-only diet that I'd resumed before his return, earlier in 2023, after the weather had already gotten warm. Though, besides steak/salmon during that period when my eyelashes started to grow back for the first time, I allowed myself organic tea on that one, as well. Then, when I was terminated by this wonderful university of mine that had cost me my hair in the first place, my newly miracle'd eyelashes fell out suddenly.
-
-However, adding this seems to undermine just how severe the injustice we're talking about is.
-
-The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgments, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
-
-`I was farmed in a factory, physically maimed/mangled/disfigured, and disposed.`
-
-## Food
 
 > [!TIP]
 > ### High quality food in the medical system
@@ -983,65 +998,14 @@ The bullies at the University of Rochester's hospital and research institutions 
 > - I haven't found any hypothetical risks of my trialed diet to be an issue, but that's why latitudinal studies are needed. I ate fresh rather than frozen, grass fed grass-finished organic, almost always wild-caught rather than farmed, with no other interacting chemicals, besides allowing myself salt and black pepper, and water. The idea that red meat causes anything, has not yet had a standard scientific investigation in the context of organic, grass fed, grass-finished, and wild-caught meat, and controlled for for other interactions, e.g., sauces, sugars, and so on.
 > - A proper nutrition study that investigates interacting chemicals, requires a combinatorially intractable number of control variables (and in this case, a lot of money, not so much that the medical system can't afford it, and not so much that humanity's health should have to be sacrificed to scrounge on, but more than usual nutrition studies are funded and invest), rarely accounted for in nutrition studies. This inadvertent study, on a population of me (low-socioeconomic family background, limited to a PhD student income of less-than-official-New-York-State-living-wage), longitudinally, resulted in at least 3 measured breakthrough results, across a span of 6 years (since first injected Dupilumab), and other breakthrough-type results harder to measure around energy, mood, cognition, and neurological functioning, besides hair.
 
-## Intimacy healing
-
-Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
-
-> [!WARNING]
-> 
-> In the hospital-provided housing that Sarah got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
-> 
-> Pork is not a metaphor for sex. Yams is not a metaphor for boobs. Thanksgiving is a metaphor for how grateful I was for the good food.
->
-> She told me then that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
->
-> Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated that.
->
-> Benzos act like alcohol, and are incredibly personality-disinhibiting. They're even similar to GHB, also a GABA agonist, but which additionally acts on the GHB receptor. All three reduce consciousness, and predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
->
-> However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
->
-> But I'm sure she's thankful for your services (that's not sarcasm — hospital-provided outpatient housing is one of the most-medical things I've ever seen them do; I had no idea they did that).
-
-I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
-
-Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
-
-Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
-
-Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
-
-### The artificial and synthetic
-
-I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
-- And note, via humans.
-
-The use of drugs, porn, movies, TV shows, and technologies shouldn't be judged or shamed. 
-
-Many people are happy relying on those things, others appreciate the art.
-
-Big pharma companies find value in their mass proliferation re: drugs.
-
-And tech companies find value in their mass proliferation re: porn, fleshlights, dildos.
-
-I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, where the experiences people need and want are available foremost in the real world, via people, sincerely, intimately, and via touch, no matter one's "social class." [Imagine all the people, living life in peace.](https://youtu.be/YkgkThdzX-8?si=YNzRr6gnKtG4jywG)
-
-And that must be understood as distinct from capitalistic drug-like fixes that people pay for.
-
-Intimacy healing is a step towards that, starting with medical institutions.
-
-### AI
-  
-AI has many dangerous applications, from [scamming people](https://www.business-standard.com/world-news/how-deepfake-version-of-elon-musk-became-internet-s-biggest-scammer-124081402000_1.html), to [military uses](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), to [mass survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) that are being developed in labs with paper quotas and ethics standards like Chenliang's. That pressure to turn out papers by every conference deadline means a lot of research ends up getting farmed out of students before proper thought, care, and consideration to consequences can be given. Many AI research labs currently work like factories, research-paper factories.
-
 ## Kids
 
 > [!NOTE]
-> ### Tobey
+> ### Harry
 >
 > My instincts still haven't ceased, and I still interpret them as Tao, except with more experience, and the "threats" have evolved into helpful or sabotaging suggestions, what others with frontal lobes might just observe in themselves, less acutely perhaps than somebody mid-psychotic-trance, as "social energies, social sense, social skill, maybe emotional intelligence, or emotion," and frontal lobes should, as a general rule of thumb, be handled delicately when just growing in, by the way, as they tend to in a person's early 20s, when by totally-random-amazing-coincidence, schizophrenic episodes are most likely to occur in a person whose relationships with those energies of their intelligence might not be as integrated as with other impressive energies of their intelligence, and that integration can be initially exactly as intense as it's supposed to be minus the external orders that make it quite paranoid and scary — did I just explain schizophrenia in one sentence? Anyway, that truth about not intervening while parts are still growing in, is quintuply true about people under 20.
 >
-> I met Tobey (name anonymized) in the October, 2020 Psyche hospitalization. A couple years later, I learned that Sarah had met Tobey in one of their hospitalizations, too, that he'd even braided Sarah's hair. Tobey was a recurrent inpatient care unit psychiatric recipient. He was 16, clearly intelligent, had a "sober" intelligence and humor, was respectful, kind, and chill. They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of about 14, and he was in there mainly, or perhaps only, for drug problems and addiction. Acclimating to benzos, one's brain becomes deprived of GABA and will crave something, usually drugs, to take the literal neural edge off, to silence those disproportionate Glutamates and other action potentials whose balancing complement, GABA, is downregulated, throughout the brain. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos.
+> I met Harry (name anonymized) in the October, 2020 Psyche hospitalization. A couple years later, I learned that Sarah had met Harry in one of their hospitalizations, too, that he'd even braided Sarah's hair. Harry was a recurrent inpatient care unit psychiatric recipient. He was 16, clearly intelligent, had a "sober" intelligence and humor, was respectful, kind, and chill. They'd been giving him benzos for 2 years at that point, on and perhaps-sporadically-off, from the age of about 14, and he was in there mainly, or perhaps only, for drug problems and addiction. Acclimating to benzos, one's brain becomes deprived of GABA and will crave something, usually drugs, to take the literal neural edge off, to silence those disproportionate Glutamates and other action potentials whose balancing complement, GABA, is downregulated, throughout the brain. Benzos are a hard drug, and are as addictive as any hard drug. He was a 16-year-old drug addict, and they kept institutionalizing him for his drug issues and prescribing daily benzos.
 >
 > Maybe he was such a big alcoholic at the age of 14 that the benzos were the inescapable treatment that the psychiatrists had to resort to, but I doubt it. When it gets to the point that kids are being inoculated with benzos, psychiatrists should ask themselves whether they have a problem, some kind of addiction maybe, to prescribing benzos, and seek help. There is a path to recovery, a 12-step program, starting with (1) stop. (2) Ask yourself, "Will society really be ruined if this kid is helped in some more-substantive way?" The next 10 steps involve reforming society, so I leave that as an exercise to the reader.
 
@@ -1096,9 +1060,77 @@ It was quite the synchronous timing, but at that point, I was used to synchronou
 
 ## On the note of synchronicities
 
-- Waxed wise with a close friend ([Jeremiah](#hospitalization)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
-- The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
+- Waxed wise with a close friend ([Jeremiah](#jeremiah)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
 - Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) "rQdia" (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
+
+<!--
+- The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
+-->
+
+Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024, despite trying, summarized in two bullet points. 
+
+## Intimacy healing
+
+Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
+
+> [!WARNING]
+> 
+> In the hospital-provided housing that Sarah got after the hospitalization, I visited for Thanksgiving. Her neighbor made food, including pork chops and mashed potatoes, that we ate in her neighbor's unit. I brought yams I'd made previously before the invitation.
+> 
+> Pork is not a metaphor for sex. Yams is not a metaphor for boobs. Thanksgiving is a metaphor for how grateful I was for the good food.
+>
+> She told me then that she'd had sex with the 50-something year old psychiatric ward janitor while hospitalized, in the psychiatric unit. They got into a relationship afterwards, and she'd broken up with him. 
+>
+> Through the captivity and drugging of her with benzos, the University of Rochester's Strong Hospital facilitated that.
+>
+> Benzos act like alcohol, and are incredibly personality-disinhibiting. They're even similar to GHB, also a GABA agonist, but which additionally acts on the GHB receptor. All three reduce consciousness, and predispose a horny person to making bad decisions, or good decisions based on a temporary need induced by confinement.
+>
+> However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
+>
+> But I'm sure she's thankful for your services (that's not sarcasm — hospital-provided outpatient housing is one of the most-medical things I've ever seen them do; I had no idea they did that).
+
+I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
+
+Independently, sex work should be legalized, regarded as a subset of fine art, formally and academically, but distinct from intimacy healing, and the branches of medicine and fine art can overlap.
+
+Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
+
+Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
+
+### The artificial and synthetic
+
+I'm all for [#SexycareForAll](#comedic-aside-sexier-moments-during-chenliang-tenure), but that's not quite what I have to say.
+- And note, via humans.
+
+The use of drugs, porn, movies, TV shows, and technologies shouldn't be judged or shamed. 
+
+Many people are happy relying on those things, others appreciate the art.
+
+Big pharma companies find value in their mass proliferation re: drugs.
+
+And tech companies find value in their mass proliferation re: porn, fleshlights, dildos.
+
+I'm anti-prohibition. My message is only this: the best experiences of a person's life shouldn't be synthetic. Those experiences should be brought into the real world, for people who want or need them, where the experiences people need and want are available foremost in the real world, via people, sincerely, intimately, and via touch, no matter one's "social class." [Imagine all the people, living life in peace.](https://youtu.be/YkgkThdzX-8?si=YNzRr6gnKtG4jywG)
+
+And that must be understood as distinct from capitalistic drug-like fixes that people pay for.
+
+Intimacy healing is a step towards that, starting with medical institutions.
+
+### AI
+  
+AI has many dangerous applications, from [scamming people](https://www.business-standard.com/world-news/how-deepfake-version-of-elon-musk-became-internet-s-biggest-scammer-124081402000_1.html), to [military uses](https://www.politico.eu/article/robots-coming-ukraine-testing-ground-ai-artificial-intelligence-powered-combat-war-russia/), to [mass survelliance](https://bigdatachina.csis.org/the-ai-surveillance-symbiosis-in-china/#:~:text=With%20regard%20to%20China%2C%20it,data%20acquired%20through%20government%20contracts.) that are being developed in labs with paper quotas and ethics standards like Chenliang's. That pressure to turn out papers by every conference deadline means a lot of research ends up getting farmed out of students before proper thought, care, and consideration to consequences can be given. Many AI research labs currently work like factories, research-paper factories.
+
+## Future hair regrowths
+
+My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
+
+My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and my best friend returned into my life, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress (from that termination) and lacking an income. Those three eyelashes that had grown back one by one gradually up to that point, that summer, starting that summer, grew back for the first time ever in the 5 full years since losing all of my hair. Then each fell out, but I attribute them to my best friend, who returned that summer, and probably also the correlating steak/salmon-only diet that I'd resumed before his return, earlier in 2023, after the weather had already gotten warm. Though, besides steak/salmon during that period when my eyelashes started to grow back for the first time, I allowed myself organic tea on that one, as well. Then, when I was terminated by this wonderful university of mine that had cost me my hair in the first place, my newly miracle'd eyelashes fell out suddenly.
+
+However, adding this seems to undermine just how severe the injustice we're talking about is.
+
+The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgments, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
+
+`I was farmed in a factory, physically maimed/mangled/disfigured, and disposed of.`
 
 ## Chris Kanan
 
