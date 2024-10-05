@@ -86,7 +86,7 @@ I don't think describing why suing doesn't appeal to me is possible to an Americ
 
 Whether or not I'm ruling it out must, out of narrative necessity, be left a mystery until the ["Faith"](#4-faith) chapter.
 
-As that chapter will show, there's an even more appealing direction that all of this has made me crave!
+As that chapter will show, there's an even more appealing direction that all of this has made me crave! Don't worry, "suing" is still phonetically part of "suiciding."
 
 But in any case, the suing manner of acquiring money isn't the best way to compensate for my physical appearance. I’d rather do something that I myself would find attractive in another person. 
 
