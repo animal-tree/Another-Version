@@ -972,18 +972,6 @@ My grandma’s numerical timing of when she died is a proof symbol in my opinion
 
 I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
 
-### Future hair regrowths
-
-My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
-
-My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and my best friend returned into my life, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress (from that termination) and lacking an income. Those three eyelashes that had grown back one by one gradually up to that point, that summer, starting that summer, grew back for the first time ever in the 5 full years since losing all of my hair. Then each fell out, but I attribute them to my best friend, who returned that summer, and probably also the correlating steak/salmon-only diet that I'd resumed before his return, earlier in 2023, after the weather had already gotten warm. Though, besides steak/salmon during that period when my eyelashes started to grow back for the first time, I allowed myself organic tea on that one, as well. Then, when I was terminated by this wonderful university of mine that had cost me my hair in the first place, my newly miracle'd eyelashes fell out suddenly.
-
-However, adding this seems to undermine just how severe the injustice we're talking about is.
-
-The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgments, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
-
-`I was farmed in a factory, physically maimed/mangled/disfigured, and disposed.`
-
 ## Food
 
 > [!TIP]
@@ -1111,6 +1099,18 @@ It was quite the synchronous timing, but at that point, I was used to synchronou
 - Waxed wise with a close friend ([Jeremiah](#hospitalization)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world’s lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
 - The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can’t even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn’t get him enough papers — not sure what that would’ve entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
 - Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) "rQdia" (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it’s still in the not-really-planned-but-hypothetical books)!
+
+## Future hair regrowths
+
+My pubic hair grew back in 2021 while doing a strict steak/salmon-only diet with some Paleo leniency — it was definitely still grown back while I was doing that diet in December, 2021 — and fell out gradually. 
+
+My eyelashes started growing back for the first time in summer, 2023, when I'd started doing the steak/salmon-only diet again, and my best friend returned into my life, and fell out shortly after I was terminated, at which time I also had gone more lenient on my steak/salmon-only diet, due to the combination of more stress (from that termination) and lacking an income. Those three eyelashes that had grown back one by one gradually up to that point, that summer, starting that summer, grew back for the first time ever in the 5 full years since losing all of my hair. Then each fell out, but I attribute them to my best friend, who returned that summer, and probably also the correlating steak/salmon-only diet that I'd resumed before his return, earlier in 2023, after the weather had already gotten warm. Though, besides steak/salmon during that period when my eyelashes started to grow back for the first time, I allowed myself organic tea on that one, as well. Then, when I was terminated by this wonderful university of mine that had cost me my hair in the first place, my newly miracle'd eyelashes fell out suddenly.
+
+However, adding this seems to undermine just how severe the injustice we're talking about is.
+
+The bullies at the University of Rochester's hospital and research institutions don't understand that they botched every action they took in their judgments, treatments, policies, decision-making, and (as will be shown, though hopefully it's apparent already) rulings, and did everything humanly possible, sometimes by blunder rather than on purpose, to take away and waste my dignity, money, social life, physical body, and work.
+
+`I was farmed in a factory, physically maimed/mangled/disfigured, and disposed of.`
 
 ## Chris Kanan
 
