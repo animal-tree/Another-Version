@@ -80,7 +80,7 @@ That can't be a coincidence, so I leave this story here both for medical utility
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
 
-## Suing (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
+## Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
 
 I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book will show, there are better uses of my spirit besides teaching what I know to lawyers.
 
