@@ -919,7 +919,7 @@ Those ideas, like Medicare For All, $15 minimum wage, ending the corruption of W
 
 My grandpa’s literally-bleeding heart is beating in me, in my body, arterial main artery not blocked. My grandma’s multilingual fluency lives in me as well, as a skill to integrate languages of opinion I disagree with, and communicate, sometimes through those very languages, my own views.
 
-I don’t want to echo what has already been screamed, and screamed effectively, in both 2015 and 2019. This book requires an open mind because it points out issues and reforms that aren’t redundant to the ones Bernie has pointed out, in contexts that may seem familiar but aren't.
+I don’t want to echo what has already been screamed, and screamed effectively, in both 2015 and 2019. This book requires an open mind because it points out issues and reforms that aren’t redundant to the ones Bernie has pointed out, in contexts that may seem familiar to one side or another ("oh he's anti-medicine!", "oh he's anti-science", "oh he's part of the 'woke mob'!"), but aren't.
 
 How to transition into this? "Speaking of the elderly..." Well, let’s start with my experience in the elderly-care unit.
 
