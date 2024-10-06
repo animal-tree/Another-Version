@@ -821,7 +821,7 @@ My grandma was about 24 when she and my grandpa (different Yura) arrived to Sama
 
 My grandma was about 24 when she and my grandpa (different Yura) had to immigrate to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields, and later, an academic principal of a school where she continued teaching.
 
-She had long grey hair, down to her waist or hips. She curled it up behind her head, in a very elegant bun with hair pins.
+At old age, she had long grey hair, down to her waist or hips. She curled it up behind her head, in a very elegant bun with hair pins.
 
 <!--My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.-->
 
