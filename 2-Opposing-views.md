@@ -909,13 +909,13 @@ I’d heard about Bernie Sanders from reading about him on Facebook, and I met s
 
 That wasn’t implausible, that a politician who her son is describing as actually caring about policies, with principles, who calls himself a "socialist" and is Jewish, is making serious headway as a contender for the office of president in America.
 
-It didn’t take long before she could see he was a serious and sincere “politician,” and the word “politician” has to go in quotes, because Bernie’s “politics” was about actual governing, authentically.
+It didn’t take long before she could see he was a serious and sincere "politician," and the word "politician" has to go in quotes, because Bernie’s "politics" are about actual governing.
 
 My mom donated to him, too.
 
-“Bernie Sanders” is a household name today, so much so that some people might roll their eyes, call me a “Bernie bro.” But unlike the “Bernie bros” across the Democratic party who have taken on his positions and rhetoric, without giving credit to the fact that they actively stood opposed to those very positions and rhetoric when Bernie was still bringing it into the mainstream, I’m a Bernie “supporter,” not bro.
+"Bernie Sanders" is a household name today, so much so that some people might roll their eyes, call me a "Bernie bro." But unlike the "Bernie bros" across the Democratic party who have taken on his positions and rhetoric, without giving credit to the fact that they actively stood opposed to those very positions and rhetoric when Bernie was still bringing it into the mainstream, I’m a Bernie "supporter," not bro.
 
-Those ideas, like MedicareForAll, $15 minimum wage, ending the corruption of Wall St., acknowledging the huge gap between “the top 1%” and everybody else, have become popular talking points thanks to his authentic lifelong championing.
+Those ideas, like MedicareForAll, $15 minimum wage, ending the corruption of Wall St., acknowledging the huge gap between "the top 1%" and everybody else, have become popular talking points thanks to his authentic lifelong championing.
 
 I don’t want to echo what has already been screamed, and screamed effectively, in both 2016 and 2020. My grandpa’s bleeding heart is still beating me, unblocked. My grandma’s skill to translate across languages lives in me as a skill to integrate views I disagree with, and communicate the ones I believe in the languages/understandings that others have. But I don’t want to echo anything. 
 
