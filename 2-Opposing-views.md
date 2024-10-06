@@ -1080,7 +1080,7 @@ The bullies at the University of Rochester's hospital and research institutions 
 
 Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024, despite trying my best via Meetup, Tinder, nightclubs, going to social events, and social anxiety-reducing disciplines, summarized in two bullet points. 
 
-## Intimacy healing (the university commits a sex offense)
+## Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
 
@@ -1098,7 +1098,7 @@ Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?s
 >
 > However, perhaps there is a better alternative for those needs, in (1) treating them, rather than drugs, and (2) in self-treating them, rather than janitors. No drug-captivity-induced date-accident needed.
 >
-> But I'm sure she's thankful for your services (that's not sarcasm — hospital-provided outpatient housing is one of the most-medical things I've ever seen them do; I had no idea they did that, even if it did coincide *after*, and independent to, the date-accident).
+> But I'm sure she's thankful for your services (that's not sarcasm — hospital-provided outpatient housing is one of the most-medical things I've ever seen them do; I had no idea they did that).
 
 I propose a new branch of medicine called intimacy healing, one with an ontology like as follows: communications as a subset of intimacy healing, intimacy healing as a subset of medicine, with overlaps but distinction from sex work. 
 
