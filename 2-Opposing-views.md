@@ -905,15 +905,23 @@ I had severe eczema, and my grandma when I was a kid helped by giving the best m
 
 ## Ascent of a Jewish old grandpa
 
-In 2016, Bernie Sanders was the first presidential candidate I was old enough to vote for, and I voted for him.
+I’d heard about Bernie Sanders from reading about him on Facebook, and I met some supporters who’d even heard of him before his 2016 presidential run. I was getting his campaign emails, it was still early in his 2016 campaign, and I told my mom about him, that I wanted to donate. She was worried, thinking it might be a spam.
 
-I wanted to donate to his campaign [early](https://www.facebook.com/share/p/bu8N4jvNp9As7Rs1/), from a link in one of his emails. My mom cautioned me that the email might've been spam because my description sounded too good to be true. He wasn't a household name yet. She doesn't think that anymore. We both ended up donating, multiple times. But he was an unlikely figure in any politics, American or otherwise, devoted to principled [governance](https://github.com/animal-tree/Governance/blob/main/Does-Nature-Endorse%3F.md), e.g. universal healthcare, not politics.
+That wasn’t implausible, that a politician who her son is describing as actually caring about policies, with principles, who calls himself a socialist and is Jewish, is making serious headway as a nation American contender for the presidential office.
 
-<!--
-The girlfriend I mentioned earlier, [who remarked on my cuticles](#i-didnt-mention-fingernails-fingernails-regrowth), that rhymed with my grandma's perhaps unusual remark about our fingernails, and I, actually bonded because of our shared love of Bernie Sanders, in 2016, the same semester my grandma had joined my grandpa at the platform of his last train, where her Medicare benefits were finally relinquished to the world, joining his up in the Health Care Financing Administration (pronounced "HeCk-FAn").
--->
+It didn’t take long before she could see he was a serious and sincere “politician,” and the word “politician” has to go in quotes, because Bernie’s “politics” was about actual governing, authentically.
 
-But I bring him up now because the rest of this book is going to point to some serious problems more specifically, and address the specific reforms I've been referencing, specifically. These are reforms that aren't redundant to the ones Bernie Sanders has already pointed out. My bleeding-heart is gushing to the floor, with an ancestral main artery that has proved itself if anything too strong, or capable of translating that heart into a universal language. How to transition into this? Well...
+My mom donated to him, too.
+
+“Bernie Sanders” is a household name today, so much so that some people might roll their eyes, call me a “Bernie bro.” But unlike the “Bernie bros” across the Democratic party who have taken on his positions and rhetoric, without giving credit to the fact that they actively stood opposed to those very positions and rhetoric when Bernie was still bringing it into the mainstream, I’m a Bernie “supporter,” not bro.
+
+Those ideas, like MedicareForAll, $15 minimum wage, ending the corruption of Wall St., acknowledging the huge gap between “the top 1%” and everybody else, have become popular talking points thanks to his authentic lifelong championing.
+
+I don’t want to echo what has already been screamed, and screamed effectively, in both 2016 and 2020. My grandpa’s bleeding heart is still beating me, unblocked. My grandma’s skill to translate across languages lives in me as a skill to integrate views I disagree with, and communicate the ones I believe in the languages/understandings that others have. But I don’t want to echo anything. 
+
+Much of the rest of this book is going to point out new issues and new reforms that aren’t redundant to the ones Bernie has pointed out.
+
+How to transition into this? Well, let’s start with my experience in the elderly-care unit.
 
 Speaking of the elderly...
 
