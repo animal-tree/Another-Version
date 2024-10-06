@@ -921,9 +921,11 @@ My grandpa’s literally-bleeding heart is beating in me, in my body, arterial m
 
 I don’t want to echo what has already been screamed, and screamed effectively, in both 2015 and 2019. This book requires an open mind because it points out issues and reforms that aren’t redundant to the ones Bernie has pointed out, in contexts that may seem familiar to one side or another ("Oh he's anti-medicine!", "Oh he's anti-science!", "Oh he's part of the 'woke mob'!"), but aren't.
 
-How to transition into this? "Speaking of the elderly..." Well, let’s start with my experience in the elderly-care unit.
+How to transition into this? Well, let’s start with my experience in the elderly-care unit.
 
 ## Geriatric unit hospitalization
+
+Speaking of the elderly...
 
 > [!WARNING]
 > 
