@@ -916,7 +916,7 @@ I had severe eczema, and my grandma when I was a kid helped by giving the best m
 
 ## Ascent of a Jewish old grandpa
 
-I’d heard about Bernie Sanders from reading about him on Facebook, and I met some supporters who’d even heard of him before his 2015 presidential run. I was getting his campaign emails, it was still early in his 2016 campaign, and I told my mom about him, that I wanted to donate from his email. She was worried, thinking it might be spam.
+I’d heard about Bernie Sanders from reading about him on Facebook, and I met some supporters who’d even heard of him before his 2016 presidential run. I was getting his campaign emails, it was still early in his 2016 campaign, and I told my mom about him, that I wanted to donate from his email. She was worried, thinking it might be spam.
 
 That wasn’t implausible, that a politician who her son is describing as actually caring about policies, with principles, who calls himself a "socialist" and is Jewish, and is making serious headway as a contender for the office of president in America, is some kind of trick.
 
