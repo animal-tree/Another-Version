@@ -815,7 +815,13 @@ That's all the very brief glimpses of [happiness](https://github.com/user-attach
 
 My grandma was 13 and my great Aunt Tsilia was 18. Their dad was fighting in the war front. Their mother had died when my grandma was 5 and her sister was 10, from typhus. Their step mother was sick with tuberculosis; and their little younger step-brother Yura, 10 years younger than my grandma, was too young to help with throwing the fire bombs.
 
+<!--
 My grandma was about 24 when she and my grandpa (different Yura) arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principal of a school and continued teaching.
+-->
+
+My grandma was about 24 when she and my grandpa (different Yura) had to immigrate to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields, and later, an academic principal of a school where she continued teaching.
+
+She had long grey hair, down to her waist or hips. She curled it up behind her head, in a very elegant bun with hair pins.
 
 <!--My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.-->
 
