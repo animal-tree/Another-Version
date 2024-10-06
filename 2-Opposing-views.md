@@ -977,7 +977,7 @@ Speaking of the elderly...
 > - `I had to sleep in a chair in a shared open area filled with other patients for a week` with only scary clinical authorities who came around occasionally to interrogate me, drugs handed to me, and `with food mostly only that I was allergic to`, while in an increasingly sensitive state, and `being told I'd be transferred to a room later that day or the next day.`
 > - I was transferred to a geriatric unit, with almost nobody my age, and an environment that lacked any nature, with only synthetic plastics, no genuine warmth, and an abundance of chocolate Ensures.
 > - `I was lectured about not eating enough carbs, and that was their specified reason for holding me.`
-> - `My hair was falling out into my hands and my eczema returned.`
+> - `My eczema returned, and, by then, while in the room they gave me, my hair was literally falling out into my hands.`
 >
 > Some crazy-person advice: Clinicians should stop using the expression "I'm gonna take your vitals," because when a patient thinks they're in Hell, that is a terrifying thing to hear. Then they have no choice but to let those clinicians strap them or inject them or whatever, and their mind possibly is tuned to a ritual level of thinking where symbolism has extreme sacred meaning. The symbolism of "vitals" being "taken," in the context of vampyrism or losing a loved one, isn't good. Just a suggestion. 
 >
