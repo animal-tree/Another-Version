@@ -829,7 +829,7 @@ My grandma actually told me I had her nails. I even remember where. But I also h
 
 Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
 
-## How (probably) my grandma got dementia 
+## The probable cause of my grandma's dementia 
 
 As it happens, [benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
 
