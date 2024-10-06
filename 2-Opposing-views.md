@@ -1145,7 +1145,7 @@ That same work week, Chenliang notifies me by Zoom that he wants me to join Niaz
 
 It was quite the synchronous timing, but at that point, I was used to synchronous timing, and just believed that the synchonicities must've had a point, especially since I had been developing my own AI/physics-hybrid concept for the last few years. So I gratefully joined Niaz's group for funding, thinking it was purposed, even though it wasn't my choice, since Chenliang made me, even while working alongside his Computer Vision lab primarily.
 
-My uncle spent longer than usual on his PhD, as he kept having to do work for others, and giving others PhDs and promotions, through his exploited work. 
+My uncle told me about his PhD years. His PhD took longer than usual, as he kept having to do work for others, and giving others PhDs and promotions, through his exploited work. 
 
 <!--
 Since being terminated, I came up with a diffraction model that is unified with Einstein in a physics theory I credit to my uncle's spirit, most likely, but it was hard work to sit and learn all the material and derive it, and in this book, I've just included some trace evidence of that knowledge — again, all my work, not my uncle's — [here](Philosophy/Velocity-Addition-Formula.md). 
