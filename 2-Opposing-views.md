@@ -902,7 +902,7 @@ As for my grandma, the number 13 also includes a number that "is less than 3," e
 
 Besides 16, another synchronistic number is 7. My grandma was born March 25, 1927. My mom was born July 17, 1957 (07/17/57). And Irina, who takes the most from my grandma besides me, was born November 17, one day and 6 years apart from my birthday. And my grandpa was 87 when he died.
 
-And 2016 has the number 16, that, besides being the upcoming day of my grandpa's birthday, was the beginning of a larger-scope revolution in politics, and reformed perceptions of the healthcare system, with the 2016 campaign of another, similar Jewish old-grandpa type character and role model to me, Bernie Sanders, who has some similarities to my grandpa. 
+And 2016 has the number 16, that, besides being the upcoming day of my grandpa's birthday, was the beginning of a larger-scope revolution in politics, and reformed perceptions of the healthcare system, with the 2016 ascent of another, similar Jewish old-grandpa type character and role model to me, Bernie Sanders, who has some similarities to my grandpa. 
 
 My grandma's numerical timing of when she died is a proof symbol in my opinion on the perception and characterized message of my grandpa's death involving the heart doctor seeming synchronistic: that the healthcare system needs reform. And the ascent of Bernie, whose name slantly rhymes with "Yury," synchronized in tune, means a lot to me about the need for reforming healthcare systems, not just in governance, but inside the systems themselves, from elderly care, to prescription habits, to the dietary and environment principles. 
 
