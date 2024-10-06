@@ -738,11 +738,11 @@ He also said I'd have to come in every day to do that work in his lab, which I e
 
 He accepted me into his lab when I successfully delivered that [paper](https://arxiv.org/abs/2006.08601), my first published paper, "Psyche-CAM" (*name modified here for reasons that will become apparent*), ended up getting positive reviews, rejected, and then later accepted at ICCV, a top-venue conference (in AI, conferences are bigger than journals, and that was quite a feat for a few months, in a brand new research area, switching fields from "medical prognostication" to "state of the art computer vision").
 
-Less than 2 years later, Chenliang [got tenure](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8).
-
 It's ironic also that when he announced his desertion (due to not having published enough papers in that time frame), on ****07/24/2023****, 3 years later, I was in the middle of a paper review with positive reviews, [that got accepted](https://www.nature.com/articles/s41524-023-01164-8), another published paper.
 
 During those 3 years, for the most part, Chenliang didn't directly fund me. At first I worked at the Medical Center. Then, he put me on a Mechanical Engineering lab, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department at the time, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work, technically at nearly any point; even prior to Chenliang was Med Center and a NSF NRT stipend that I applied for).
+
+Less than 2 years after he'd accepted me into his group, Chenliang [got tenure](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8).
 
 Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all really high quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
