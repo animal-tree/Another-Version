@@ -742,7 +742,7 @@ It's ironic also that when he announced his desertion (due to not having publish
 
 During those 3 years, for the most part, Chenliang didn't directly fund me. At first I worked at the Medical Center. Then, he put me on a Mechanical Engineering lab, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department at the time, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work, technically at nearly any point; even prior to Chenliang was Med Center and a NSF NRT stipend that I applied for).
 
-During those 3 years, Chenliang [got tenure](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8), had a son, and he'd bragged multiple times about his group's ranking in CSRankings.
+During those 3 years, Chenliang [got tenure](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8), had his first child, and he'd bragged multiple times about his group's ranking in CSRankings.
 
 Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all really high quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
