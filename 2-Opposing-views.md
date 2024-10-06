@@ -1080,7 +1080,7 @@ Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024
 
 ## Intimacy healing
 
-Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
+Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. ([Maybe this video is better](https://www.tiktok.com/@mayte.lisbeth/video/7214069179610041642)).
 
 > [!WARNING]
 > 
