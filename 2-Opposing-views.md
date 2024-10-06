@@ -917,7 +917,7 @@ My mom donated to him, too.
 
 Those ideas, like Medicare For All, $15 minimum wage, ending the corruption of Wall St., acknowledging the huge gap between "the top 1% and the 99%," have become popular talking points thanks to his campaigns, which made a bigger difference in American political knowledge and culture than any of the Democrats who campaigned against him, including the one who became president.
 
-My grandpa’s literally-bleeding heart is beating in me, in my body, arterial main artery not blocked. My grandma’s multilingual fluency lives in me as well, as a skill to hear and understand views I disagree with, and communicate, in the varied languages that each faction or camp has, my own views.
+My grandpa’s literally-bleeding heart is beating in me, in my body, arterial main artery not blocked. My grandma’s multilingual fluency lives in me as well, as a skill to hear and understand views I disagree with, and communicate, in the varied languages that each tent has, my own views.
 
 I don’t want to echo what has already been screamed, and screamed effectively, in both 2015 and 2019. This book requires an open mind because it points out issues and reforms that aren’t redundant to the ones Bernie has pointed out, in contexts that may seem familiar to one side or another ("Oh he's anti-medicine!", "Oh he's anti-science!", "Oh he's part of the 'woke mob'!"), but aren't.
 
