@@ -724,7 +724,7 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 - I started taking benzos in my 2nd year
 - I started working in Chenliang Xu's lab nearing the end of my 3rd year
 
-Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, but would obtain tenure in less than 2 years.
+Chenliang was younger than Henry, a good amount closer to my age than Henry's.
 
 At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
@@ -737,6 +737,8 @@ I had to work at the Med Center concurrently for funding, since Chenliang wasn't
 He also said I'd have to come in every day to do that work in his lab, which I ended up not having to do due to the lockdowns.
 
 He accepted me into his lab when I successfully delivered that [paper](https://arxiv.org/abs/2006.08601), my first published paper, "Psyche-CAM" (*name modified here for reasons that will become apparent*), ended up getting positive reviews, rejected, and then later accepted at ICCV, a top-venue conference (in AI, conferences are bigger than journals, and that was quite a feat for a few months, in a brand new research area, switching fields from "medical prognostication" to "state of the art computer vision").
+
+Less than 2 years later, Chenliang [got tenure](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8).
 
 It's ironic also that when he announced his desertion (due to not having published enough papers in that time frame), on ****07/24/2023****, 3 years later, I was in the middle of a paper review with positive reviews, [that got accepted](https://www.nature.com/articles/s41524-023-01164-8), another published paper.
 
