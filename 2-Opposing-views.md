@@ -906,13 +906,13 @@ And 2016 has the number 16, that, besides being the upcoming day of my grandpa's
 
 My grandma's numerical timing of when she died is a proof symbol in my opinion on the perception and characterized message of my grandpa's death involving the heart doctor seeming synchronistic: that the healthcare system needs reform. And the ascent of Bernie, whose name slantly rhymes with "Yury," synchronized in tune, means a lot to me about the need for reforming healthcare systems, not just in governance, but inside the systems themselves, from elderly care, to prescription habits, to the dietary and environment principles. 
 
-I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
-
 <!--
-I think Psyche screwed up the symbolism, whatever the universe meant of it. She was 22 (the day my grandpa died), she blocked my heart (as my grandpa’s was) while she was 22, though officially did so near my birthday, but, unlike my grandma, rather than joining me finally at that time, that’s when she left (though she was 23 by then). The symbolism was the exact reverse, perhaps signifying strongly that she was very much (though sadly) not "the one," and technically she’d just turned 23 (the age of my Christmas, 2018 trauma, the one she also had, but with a different bald Jewish dude, the same day/night).
+I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. That may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
+-->
+
+I think Psyche screwed up the symbolism, whatever the universe meant of it. She was 22 (the day my grandpa died), she blocked my heart (as my grandpa’s was) while she was 22, though officially did so near my birthday, but, unlike my grandma, rather than joining me finally at that time, that’s when she left (though she was 23 by then). The symbolism was the exact reverse, perhaps signifying strongly that she was very much (though sadly) not "the one," and technically she’d just turned 23 (the age of my Christmas, 2018 trauma, the one she also had, but with a different bald Jewish person, the same day/night).
 
 I had severe eczema, and my grandma when I was a kid helped by giving the best massages, and my mom and grandpa too. Psyche may have symbolically pointed to one more aspect of the medical system that might need a revolutionary radical innovation, one that will be discussed, succinctly, later… (See ["Intimacy healing"](#intimacy-healing)).
--->
 
 ## Ascent of a Jewish old grandpa
 
