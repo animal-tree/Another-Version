@@ -806,6 +806,19 @@ Well, I suppose there was the thanksgiving with Sarah (see [in next chapter](#in
 
 That's all the very brief glimpses of [happiness](https://github.com/user-attachments/assets/c857908b-f4db-438d-b597-a5beb25428d3) I [got](https://github.com/user-attachments/assets/d90d847e-0364-4c33-94ea-146045da8f73) under Chenliang (or mostly [Henry](https://github.com/user-attachments/assets/e2e55660-57be-415b-9371-7918e93add5a) for that matter). Resume [tragedy](https://github.com/user-attachments/assets/236cf39c-c0a4-45e2-b932-18f62195edd2). 
 
+## My grandma's childhood
+
+> ### $\Huge &#8220;$
+> Moscow was bombed every day, sometimes multiple times a day. 500 airplanes bombed the city in one day. Not only bombs, but also a lot of lighters were thrown from the airplanes. The alarm of the air raid required everyone to step down to the underground [bomb shelters], and I went there too. But if the air raid came at the time of our work shift, we, all working at the armory, children [children working at the factory of defense], climbed on the roof. Our responsibility was to take the hot lighters and throw them off the roof, to prevent a fire.
+> ### $\Huge &#8221;$
+> &ensp;&ensp; - Translated by my mom from an interview with my grandma in a draft of an essay my mom wrote for MCC, in October, 2000. Brackets denote additions.
+
+My grandma was 13 and my great Aunt Tsilia was 18. Their dad was fighting in the war front. Their mother had died when my grandma was 5 and her sister was 10, from typhus. Their step mother was sick with tuberculosis; and their little younger step-brother Yura, 10 years younger than my grandma, was too young to help with throwing the fire bombs.
+
+My grandma was about 24 when she and my grandpa (different Yura) arrived to Samarkand.  She was a German language teacher, before my uncle was born. She didn't know German, but she knew Yiddish, so she accepted the job, since Yiddish is close to German. Later, she was a teacher of Russian language and Russian literature, separate fields. Later, she was an academic principal of a school and continued teaching.
+
+<!--My grandma had long grey hair, down to almost her waist or hips. She curled it up behind her head with hair pins, like in a bun but prettier.-->
+
 ## Nails
 
 In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, my eczema temporarily spiked and I also lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
@@ -816,7 +829,7 @@ My grandma actually told me I had her nails. I even remember where. But I also h
 
 Without hair, without eyebrows and eyelashes, with even my grandma's fingernails purple and bending out of my nails, and isolation and heavy workloads, just what I needed was a >6 months course of benzos to get all the symptoms of early-onset dementia.
 
-## How my grandma got dementia (probably)
+## How (probably) my grandma got dementia 
 
 As it happens, [benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
 
