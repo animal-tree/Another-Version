@@ -724,7 +724,7 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 - I started taking benzos in my 2nd year
 - I started working in Chenliang Xu's lab nearing the end of my 3rd year
 
-Chenliang was younger than Henry, a good amount closer to my age than Henry's.
+Chenliang was younger than Henry, a good amount closer to my age than Henry's, and didn't have tenure yet, but would obtain tenure in 2022, when paper count really doesn't matter.
 
 At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
