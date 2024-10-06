@@ -913,7 +913,7 @@ It didn’t take long before she could see he was a serious and sincere "politic
 
 My mom donated to him, too.
 
-"Bernie Sanders" is a household name today, so much so that some people might roll their eyes, call me a "Bernie bro." But unlike the "Bernie bros" across the Democratic party who have taken on his positions and rhetoric, without giving credit to the fact that they actively stood opposed to those very positions and rhetoric when Bernie was still bringing it into the mainstream, I’m a Bernie "supporter," not bro.
+"Bernie Sanders" is a household name today, so much so that some people might roll their eyes, call me a "Bernie bro." But unlike the "Bernie bros" across the Democratic party who have taken on his positions and rhetoric, without giving credit to the fact that they actively stood opposed to those very positions and rhetoric when Bernie was still bringing them into the mainstream all his life, I’m a Bernie "supporter," not bro.
 
 Those ideas, like MedicareForAll, $15 minimum wage, ending the corruption of Wall St., acknowledging the huge gap between "the top 1%" and everybody else, have become popular talking points thanks to his authentic lifelong championing.
 
