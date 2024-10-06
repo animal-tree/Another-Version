@@ -1080,7 +1080,7 @@ Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024
 
 ## Intimacy healing
 
-Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. ([Maybe this video is better](https://www.tiktok.com/@mayte.lisbeth/video/7214069179610041642)).
+Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. 
 
 > [!WARNING]
 > 
@@ -1104,7 +1104,7 @@ Independently, sex work should be legalized, regarded as a subset of fine art, f
 
 Radical idea, but that's the direction. Humans need each other. Relationships are the most fundamental part of life, more of a basic necessity than food, water, shelter, or drugs.
 
-Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a human struggle that all of us share.
+Perhaps my alternative would've served better, and given her a spiritual, healthy way to resolve a [human struggle](https://www.tiktok.com/@mayte.lisbeth/video/7214069179610041642) that all of us share.
 
 ## The artificial and synthetic
 
