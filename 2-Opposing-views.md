@@ -1080,7 +1080,7 @@ The bullies at the University of Rochester's hospital and research institutions 
 
 Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024, despite trying my best via Meetup, Tinder, nightclubs, going to social events, and social anxiety-reducing disciplines, summarized in two bullet points. 
 
-## Intimacy healing
+## Intimacy healing (the university commits a sex offense)
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy.
 
