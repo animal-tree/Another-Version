@@ -917,13 +917,11 @@ My mom donated to him, too.
 
 Those ideas, like MedicareForAll, $15 minimum wage, ending the corruption of Wall St., acknowledging the huge gap between "the top 1% and the 99%," have become popular talking points thanks to his campaigns, which made a bigger difference in American political knowledge and culture than any of the Democrats who campaigned against him, including the one who became president.
 
-I don’t want to echo what has already been screamed, and screamed effectively, in both 2016 and 2020. My grandpa’s bleeding heart is still beating me, unblocked. My grandma’s skill to translate across languages lives in me as a skill to integrate views I disagree with, and communicate the ones I believe in the languages/understandings that others have. But I don’t want to echo anything. 
+My grandpa’s literally-bleeding heart is beating within me, arterial main artery not blocked. My grandma’s multilingual fluency lives in me as a skill to integrate languages of opinion I disagree with, and communicate, sometimes through those very languages, my own views.
 
-Much of the rest of this book is going to point out new issues and new reforms that aren’t redundant to the ones Bernie has pointed out.
+I don’t want to echo what has already been screamed, and screamed effectively, in both 2015 and 2019. This book requires an open mind because it points out issues and reforms that aren’t redundant to the ones Bernie has pointed out, in contexts that may seem familiar but aren't.
 
-How to transition into this? Well, let’s start with my experience in the elderly-care unit.
-
-Speaking of the elderly...
+How to transition into this? "Speaking of the elderly..." Well, let’s start with my experience in the elderly-care unit.
 
 ## Geriatric unit hospitalization
 
