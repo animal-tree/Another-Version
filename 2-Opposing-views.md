@@ -834,7 +834,7 @@ At old age, she had long grey hair, down to even her waist or hips. She curled i
 
 In addition to losing all of my hair — head, eyebrows, and eyelashes — due to the Dupilumab cessation, my eczema temporarily spiked and I lost my fingernails in functionality in later 2018, also unambiguously due to the Dupilumab cessation. They regrew, healthily functional enough, after being purple, and bendy like putty, for a really long time, maybe into 2019. 
 
-`Another side effect included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
+`Additional side effects included temporarily worsened eczema, and fingernails turning purple and bending like putty.`
 
 My grandma actually told me I had her nails. I even remember where. But I also have her eyes, and my mom's eyes, brown eyes. But, randomly, my grandma mentioned it, about my nails, when we were sitting in the backseat of the car. My mom and grandpa were in the front seats. My mom was probably driving us to the Jewish Community Center, to swim in the community pool there. My grandma saw my fingers and just mentioned that I had her nails, unusual.
 
