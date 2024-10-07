@@ -75,7 +75,7 @@ Another time I did the steak-only diet, a few eyelashes grew back for the first 
 
 That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
-`I now look like Gollum`, and had `other Gollum-esque symptoms` to be specified later (See ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
+`I now look like Gollum`, and had `other Gollum-esque symptoms`, to be specified later (See ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
 
 > [!WARNING]
 > By the way, the scariest nightmare I ever had, over and over that whole night, was the day I injected Dupilumab the first time. I remember my housemate at the time in the other room and I wanted to wake him. That's how scared I was. The nightmare was of a tall skinny slenderman, who kept approaching to "assault" me. Every time I closed my eyes and fell asleep, he'd reappear. Again and again, for that whole night. I never had a nightmare like that before. It was vivid.
