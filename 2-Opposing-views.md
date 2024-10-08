@@ -97,7 +97,7 @@ That can't be a coincidence, so I leave this story here both for medical utility
 
 ## Suing of Samarkand (*litigating the Republican elephant in the room*, which I don't think is an I Ching hexagram)
 
-I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book shows, there are better uses of my spirit besides teaching what I know to lawyers.
+I don't think describing why suing doesn't appeal to me is possible to an American audience. Maybe it is. As this book will show, there are better uses of my spirit besides teaching what I know to lawyers.
 
 Whether or not I'm ruling it out must, out of narrative necessity, be left a mystery until the ["Faith"](#4-faith) chapter.
 
