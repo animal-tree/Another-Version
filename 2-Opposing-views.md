@@ -999,7 +999,7 @@ Chronology: Lobby wheelchair toe -> open-area chair sleeping with processed ecze
 
 Full head hair regrowth in Alopecia Universalis, especially with comorbid eczema, is extremely medically rare. 
 
-I was on a mostly-steak-only diet since at least as far as June, 2020 (with wild-caught salmon as well), at which time I was working on my Psyche-CAM paper.
+By the time of the Psyche hospitalization, I was on a mostly-steak-only diet since at least as far as June, 2020 (with wild-caught salmon as well), at which time I was working on my Psyche-CAM paper, probably back to May or April.
 
 See [here](4-Faith.md#mikhaila-peterson) for where I'd initially heard of this diet from. Specifically, the diet I heard of and read about was "beef-only."
 
