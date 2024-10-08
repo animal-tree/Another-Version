@@ -1114,6 +1114,8 @@ Can the universe "match" through synchronicities? There was one other person I m
 
 (And it does this through a [singularization process](Philosophy/Consciousness.md) that is [more than just neurological](Philosophy/Cosmogenesis-Myth.md)).
 
+(Click the links for slightly longer soundbites).
+
 ## Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. 
