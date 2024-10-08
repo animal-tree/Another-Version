@@ -1102,7 +1102,9 @@ The bullies at the University of Rochester's hospital and research institutions 
 
 Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024, besides walks with some PhD students and occasionally Jewish high-holiday events, despite trying my best via Meetup, Tinder, nightclubs, going to social events, and social anxiety-reducing disciplines, summarized in two bullet points. Oh wait, Meetup deserves a mention:
 
-- Meetup acquaintances deserve a mention. One of them I met the day after somebody at a nightclub told me, "I'm gonna manifest you a girlfriend. I'm manifesting you a girlfriend. I promise." And I said, "Don't promise," and the next day I met somebody else's girlfriend who temporarily became my friend while she was in Rochester. I also ran into her by accident and she called out to me, somehow remembering my name. And we had common interests. She was my girl-space-friend, sort of, during the few hangouts we had. The book club Meetup I went to was great, and we read The Great Indian Novel, by Shashi Tharoor. Other Meetups included hiking and bird-feeding and a maze and others, which were great, and volleyball, and I made a friend through that.
+- Meetup acquaintances deserve a mention. One of them I met the day after somebody at a nightclub told me, "I'm gonna manifest you a girlfriend. I'm manifesting you a girlfriend. I promise." And I said, "Don't promise," and the next day I met somebody else's girlfriend who temporarily became my friend while she was in Rochester. I also ran into her by accident and she called out to me, somehow remembering my name. And we had common interests. She was my girl-space-friend, sort of, during the few hangouts we had.
+- The book club Meetup I went to was great, and we read The Great Indian Novel, by Shashi Tharoor.
+- Other Meetups included hiking and bird-feeding and a maze and others, which were great, and volleyball, and I made a friend through that.
 
 ## Intimacy healing
 
