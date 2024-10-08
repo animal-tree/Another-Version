@@ -1108,7 +1108,7 @@ Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024
 
 Can the universe "match" through synchronicities? There was one other person I met who I thought "yes," but turned out "no."
 
-(Note: I believe, despite this humorous-after-the-fact outcome, the answer is a resounding "yes," but not yet).
+(Note: I believe, despite this humorous-after-the-fact outcome, the answer is a resounding ["yes,"](Philosophy/Dormant-Communications.md) but [not yet](Philosophy/Consciousness.md#cosmogenesis-myth)).
 
 ## Intimacy healing
 
