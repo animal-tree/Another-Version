@@ -1003,9 +1003,11 @@ I was on a mostly-steak-only diet since at least as far as June, 2020 (with wild
 
 See [here](4-Faith.md#mikhaila-peterson) for where I'd initially heard of this diet from. Specifically, the diet I heard of and read about was "beef-only."
 
-The first month of that diet included many unwanted but temporary physical symptoms.
+The first month of that diet included many unwanted but temporary and [expected](https://carnivoresnax.com/blogs/articles/side-effects-of-carnivore-diet?srsltid=AfmBOooxOb6gWQrauNAH3Eqc9rI2AqqSU61Tp1dTbRSRpzqtyBlfsMFP) physical symptoms.
 
 <!--Previous to the final version of my diet, beginning initially from Paleo, I transitioned to (organic) beef-only. The organic-beef-only phase was about a month and caused watery bowel movement symptoms and decreased stool frequency, as were expected from what I'd heard and read about the diet. By the end of that month, I think my energy and mood, and probably cognition, had massively improved. Gradually, the majority of my beef came from organic, grass fed, grass-finished steak and not long after, perhaps in that month as well, I added daily salmon in the morning.-->
+Beginning from Paleo, I transitioned to organic beef-only and, within that month or after a month, added salmon.
+
 My diet converged to one wild-caught salmon every morning and about 5 organic, grass fed, grass-finished steaks per day, and organic black pepper and salt, and water. I used lots of salt and fried the fat from the steak. 
 
 I experienced big improvements to my cognition, energy, and mood. <!--In particular, I recall my writing, not academic but poems, visual creative writing, and texts to people, had improved that summer to beyond even where they were before the benzo brain damage. Most of my income was going towards this experimental recovering, meant to improve my head from the benzo-induced impairments — and, unexpectedly, my hair started to grow back while on that diet within the next couple months. I was also practicing other disciplines, including meditating, calisthenics, and abstaining from porn, all of which I continued from previous to this diet.-->
