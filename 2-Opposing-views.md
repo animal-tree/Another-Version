@@ -1110,6 +1110,8 @@ Can the universe "match" through synchronicities? There was one other person I m
 
 (Note: I believe, despite this humorous-after-the-fact outcome, the answer is a resounding ["yes,"](Philosophy/Dormant-Communications.md) but not yet).
 
+(Why not? Because too much statistical divergence before our species is intelligent risks the sustainability of the current statistical divergence preferences that make our laws of physics as they are, while still converging them to an optimal future for the future of humanity, and without some "general rule of thumb" of physics (even if it's not exactly a law), the universe becomes too many things at once, including far more pain, or nothing at all, or something permanently far-too-limited, and cannot divide itself into many consciousnesses and experience the finite, and all the love that comes with it, including humanity, but also sacredness, like the grief that we ourselves feel for our loved ones that we would not erase even given the choice.)
+
 ## Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. 
