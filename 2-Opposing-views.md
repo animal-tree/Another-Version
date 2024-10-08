@@ -741,7 +741,7 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 - I started taking benzos in my 2nd year
 - I started working in Chenliang Xu's lab nearing the end of my 3rd year
 
-Chenliang was younger than Henry, a good amount closer to my age than Henry's<!--, and didn't have tenure yet, but would obtain tenure and a firstborn in the coming years-->.
+Chenliang was an associate professor, younger than Henry.<!--, and didn't have tenure yet, but would obtain tenure and a firstborn in the coming years-->.
 
 At the time of asking to join Chenliang's lab, the end of my 3rd year (near the end of Spring semester, 2020, before the university began Covid lockdowns), I had no publications.
 
@@ -759,7 +759,7 @@ It's ironic also that when he announced his desertion (due to not having publish
 
 During those 3 years, for the most part, Chenliang didn't directly fund me. At first I worked at the Medical Center. Then, he put me on a Mechanical Engineering lab, where I didn't work *instead of* his ordinary group requirements, but entirely on top of. In fact, none of the 3 committee members who the deciding Judge, and CS department Chair Michael Scott, attributed to my termination in my 6th year, addressed or acknowledged that I was working for and receiving funding for my work from the Mechanical Engineering department at the time, not from CS (meaning, the people who'll later terminate me, weren't the people giving me my paid work, technically at nearly any point; even prior to Chenliang was Med Center and a NSF NRT stipend that I applied for).
 
-Also during those 3 years, Chenliang [got tenure](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8), had his first child, and he'd bragged multiple times about his Computer Vision group's publication ranking in CSRankings during that 3-year period.
+Also during those 3 years, Chenliang [got tenure](https://github.com/user-attachments/assets/b064fc1d-d941-4d9c-8b51-ec3390f827c8), had his first child, and boasted his Computer Vision lab's high publication ranking on CSRankings during that 3-year period.
 
 Meanwhile, under Niaz, in the Mechanical Engineering department, specifically Materials Science, I produced exactly the paper rate that she wanted, and through really hard work to make sure the ideas, experiments, grant-writing, data, and programming were all really high quality ([here is the GitHub repo I built for us](https://github.com/AGI-init/XRDs)).
 
