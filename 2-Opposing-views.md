@@ -2,6 +2,7 @@
 
 ## Sam of Samarkand
 
+<!--
 Many Jews were tortured, executed, and piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the warfront. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine, and reunited with Yakob.
 
 When my grandpa turned 16, he officially adopted the name "Yury." He was originally named "Izya" at birth, a Jewish name, but his documents with that name were lost during the war and he’d gone by the less Jewish name "Yury," or the nickname "Yura” during the war, and that name is what he went by after the war. Nevertheless, he kept his last name, “Lerman,” which is a German Jewish Ashkenazi last name.
@@ -11,8 +12,8 @@ My grandpa then went to a college in Kiev; my grandma, Asya, who my grandpa had 
 Samarkand, an ancient Muslim city in the Asia swath of Uzbekistan, is renowned for its stunning architecture. Situated at a geographical crossroads between Asia and Europe, and a philosophical juncture with the Middle East, Uzbekistan is at a unique intersection of the philosophical continents, and Samarkand is its oldest historical city.
 
 My uncle Slava was the first descendant of my grandparents, then my mom Nélya, both born in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family. My name, "Sam” of Samarkand, happened entirely by chance, and in America, accidentally, by coincidence, due initially to a mistranslation…
+-->
 
-<!--
 Many Jews were executed, or tortured, or piled in bodies, when the Nazis occupied Ukraine. Ukraine was already sympathetic with Nazi anti-semitism before the occupation, but now Jews in droves fled to Russia, or Muslim nations to the East, a number of days train ride away, like Kazakhstan or Uzbekistan, for refuge. My grandpa's father, Yakob, couldn't evacuate because he was drafted to fight in the warfront. My grandpa's mom Maná, my grandpa's younger sister Rosá, and my grandpa, Yury, who was about 13, fled to Kazakhstan together. At the end of the war, they returned to Chernihiv, Ukraine and reunited with Yakob. 
 
 At the age of 16, my grandpa officially became "Yury," having been born with the Jewish name "Izya" and those documents being lost in the war, he went by the less-semitic name "Yury" in Ukraine, or the nickname "Yura," with German Ashkenazi last name, always, "Lerman."
@@ -23,7 +24,6 @@ The beautiful thing about Samarkand is that it's an ancient Muslim city, with be
 Samarkand is an ancient Muslim city with beautiful architecture, in Asia, in Uzbekistan. Uzbekistan is located at a geographical juncture, simultaneously between Asia and Europe, and Middle Eastern. This location makes it an intersection between different philosophical continents.
 
 My uncle Slava was the first one born of their line, then my mom Nélya, both in Samarkand. Then, via my aunt Jenya, my older cousins Lena and Irina, and finally my older sister Marina, and I, all of us also in Samarkand, all of us also Ashkenazi Jews. My name, "Sam of Samarkand," happened entirely by chance, and in America, accidentally, by coincidence. I was named "Siímyon," after my grandma's sister's (Tslia's) late husband Siímyon. He died several years before I was born. That's the full name. "Syoma" is what I go by with my family. 
--->
 
 ## Eczema at infancy (*difficulty at the beginning*)
 
