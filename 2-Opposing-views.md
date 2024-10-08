@@ -1108,6 +1108,8 @@ Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024
 
 Can the universe "match" through synchronicities? There was one other person I met who I thought "yes," but turned out "no."
 
+(Note: I believe, despite this humorous-after-the-fact outcome, the answer is a resounding "yes," but not yet).
+
 ## Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. 
