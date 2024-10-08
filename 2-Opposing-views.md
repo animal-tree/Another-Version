@@ -1106,6 +1106,8 @@ Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024
 - The book club Meetup I went to was great, and we read The Great Indian Novel, by Shashi Tharoor.
 - Other Meetups included hiking and bird-feeding and a maze and others, which were great, and volleyball, and I made a friend through that.
 
+Can the universe "match" through synchronicities? There was one other person I met who I thought "yes," but turned out "no."
+
 ## Intimacy healing
 
 Depression, anxiety, PTSD, and [touch starvation](https://youtu.be/4zJXr4jeP5w?si=bQCCeK4_Cxv1MbL1) might be treatable through intimacy. 
