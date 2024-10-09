@@ -1096,31 +1096,7 @@ The bullies at the University of Rochester's hospital and research institutions 
 - Waxed wise with a close friend ([Jeremiah](#jeremiah)) who I met on a trip to Israel many years back — someone who rather serendipitously was seated next to me on that plane — about reinforcement learning on Facebook, reconnected, and at his birthday party ran into someone who my religious friend (different guy incidentally, Josiah) introduced me to years ago, who I then kept running into the next weeks at the beach literally by just remarkable luck, and each usually-accidental date we had was like a reinforcement learning episode, of me trying to listen to my subconscious and instinct, and getting rewarded or punished and ultimately the world's lowest ever score aside from one much needed hug! We were both RL agents in that one (no not ["reinforcement learning agents"](https://github.com/slerman12/UnifiedMLold2/tree/master/Agents), "real life agents")! The fun never ends. 
 - Somebody I was texting, who I knew from undergrad, was planning to go to Acadia National Park with me, and that inspired me to call my [rQdia paper](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C33&q=rqdia&btnG=) "rQdia" (pronounced Arcadia), but that one was on purpose, and it was rejected, and we ended up not going (it's still in the not-really-planned-but-hypothetical books)!
 
-<!--
-- The next summer I got another miraculous house situation where this really attractive person my age gave me a house rental without a lease with her lesbian roommate (roommates plural ‘cause girlfriend) and no background checks, where I came up with my [BittleBot idea with the methodology of using YouTube](https://github.com/AGI-init/Tributaries/blob/73e95d5006438f678507d0067025e484e66c6e73/Examples/Sweeps/Bittle.py#L11), and she was like a famous YouTuber, and not even the first talented YouTuber I got to meet (the other one by chance while I was editing [a YouTube video](https://youtu.be/VKoSfmECpx0?si=6PNBfaqbE-iY_GV8) in the park)! Then we never talked again (except the second person who I ran into a few years later, by a [physics-subverting](https://www.nature.com/articles/s41524-023-01164-8) precognitive sense that I can't even describe here, who I talked to around the theme of "fire" just before I wrote [this essay about fire](Philosophy/Fire.md) and Chenliang called me in to notify/"fire" me I didn't get him enough papers — not sure what that would've entailed considering the statistically significant correlations of all of these probably deserving [their own interrogation of p-value](https://github.com/animal-tree/SuspiciousnessofSynchronicitiesAndParanoia/blob/main/quackery.md)).
--->
-
-Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024, besides walks with some PhD students and occasionally Jewish high-holiday events, despite trying my best via Meetup, Tinder, nightclubs, going to social events, and social anxiety-reducing disciplines, summarized in two bullet points. Oh wait, Meetup deserves a mention:
-
-- Meetup acquaintances deserve a mention. One of them I met the day after somebody at a nightclub told me, "I'm gonna manifest you a girlfriend. I'm manifesting you a girlfriend. I promise." And I said, "Don't promise," and the next day I met somebody else's girlfriend who temporarily became my friend while she was in Rochester. I also ran into her by accident and she called out to me, somehow remembering my name. And we had common interests. She was my girl-space-friend, sort of, during the few hangouts we had.
-- The book club Meetup I went to was great, and we read The Great Indian Novel, by Shashi Tharoor.
-- Other Meetups included hiking and bird-feeding and a maze and others, which were great, and volleyball, and I made a friend through that.
-
-<!--
-THIS OBVIOUSLY NEEDS ITS OWN DEDICATED CHAPTER(S) SO LEAVING IT OUT HERE:
-
-Can the universe "match" through synchronicities? There was one other person I met who I thought "yes," but turned out "no."
-
-NOTE: THERE WAS MORE THAN ONE PERSON and the synchronicities with one of said people were huge, bigger than those that happened that were described w.r.t. Psyche.
-
-(Note: I believe, despite this humorous-after-the-fact outcome, the answer is a resounding ["yes,"](Philosophy/Dormant-Communications.md) but not yet).
-
-(Why not? Because too much statistical divergence before our species is intelligent risks the sustainability of the current statistical divergence preferences that make our laws of physics as they are, while still converging the universe to an optimal future for the future of humanity, and without some law of physics, the universe becomes too many things at once, including far more pain, or nothing at all, or something permanently far-too-limited, and cannot divide itself into many consciousnesses and experience a.) the finite, truthfully, without resorting to a self-delusion in the absolute, and b.) all the love that comes with it, including humanity, but also sacredness, like the grief that we ourselves feel for our loved ones that we would not erase even given the choice, and within those laws of physics, humans still, at time of writing, commit atrocities.)
-
-(And it does this through a [singularization process](Philosophy/Consciousness.md) that is [more than just neurological](Philosophy/Cosmogenesis-Myth.md)).
-
-(But why wouldn't the universe choose some better law of physics? The burden of specifying a better law of physics that satisfies all of these criteria, without further downsides, is on the skeptic, since I argue this law of physics satisfies those criteria, gravity and electromagnetism and all that).
--->
+Okay the fun ends. That was the majority of my *good* social life in 2018 - 2024, besides walks with some PhD students and occasionally Jewish high-holiday events, despite trying my best via Meetup, Tinder, nightclubs, going to social events, and social anxiety-reducing disciplines, summarized in two bullet points. 
 
 ## Intimacy healing
 
