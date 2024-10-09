@@ -1114,7 +1114,7 @@ Can the universe "match" through synchronicities? There was one other person I m
 
 (And it does this through a [singularization process](Philosophy/Consciousness.md) that is [more than just neurological](Philosophy/Cosmogenesis-Myth.md)).
 
-(But why wouldn't the universe choose some better law of physics? The burden of specifying a better law of physics that satisfies all of these criteria, without further downsides, is on the skeptic, since I argue this law of physics satisfies those criteria in the best way possible, gravity and electromagnetism and all that).
+(But why wouldn't the universe choose some better law of physics? The burden of specifying a better law of physics that satisfies all of these criteria, without further downsides, is on the skeptic, since I argue this law of physics satisfies those criteria, gravity and electromagnetism and all that).
 
 ## Intimacy healing
 
