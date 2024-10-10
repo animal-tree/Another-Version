@@ -24,7 +24,7 @@ My uncle Slava was the first one born of their line, then my mom Nélya, both in
 
 ## Marina of Maracanda
 
-My older sister, Marina, is named after Maná, but my mom wanted a somewhat different feeling name. My mom didn't know this, and I didn't know this either until I literally just clicked this link that used to reference the ["world's most ancient city"](https://whc.unesco.org/en/list/603/) thing earlier, but Samarkand also happens to be named Maracanda. Nice!
+My older sister, Marina, is named after my grandpa's sister Maná, but my mom wanted a somewhat different feeling name. My mom didn't know this, and I didn't know this either until I literally just clicked this link that used to reference the ["world's most ancient city"](https://whc.unesco.org/en/list/603/) thing earlier, but Samarkand also happens to be named Maracanda. Nice!
 
 ## Eczema at infancy (*difficulty at the beginning*)
 
