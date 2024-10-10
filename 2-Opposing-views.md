@@ -86,7 +86,7 @@ Another time I did the steak-only diet, a few eyelashes grew back for the first 
 
 That can't be a coincidence, so I leave this story here both for medical utility and for the understanding that [I now look like Gollum](https://www.facebook.com/photo/?fbid=10211230008185126&set=a.1273659620707) because of medical malpractice.
 
-`I now look like Gollum`, and had `other Gollum-esque symptoms`, to be specified later (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
+`I now look like Gollum`, and had `other Gollum-esque symptoms` (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).
 <!--`I now look like Gollum`, and, though I didn't specify them yet here, there were `other "Gollum-esque" symptoms` as well (see ["Fall, 2018 semester, and the Dead Marshes"](#fall-2018-semester-and-the-dead-marshes) and ["Nails"](#nails)).-->
 
 > [!WARNING]
