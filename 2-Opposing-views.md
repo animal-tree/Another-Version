@@ -100,15 +100,15 @@ Whether or not I'm ruling it out must, out of narrative necessity, be left a mys
 
 As that chapter will show, there's an even more appealing direction that all of this has made me crave! And hey, "suing" is still phonetically part of it (is "suiciding" a word though?).
 
-<!--But in my case, hopefully the suing manner of acquiring money isn't the necessary way, especially since my physical appearance only matters to me for physical attraction. I'd rather do something that I myself would find attractive in another person. -->
-
-<!--My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person.-->
+My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person.
 
 <!--My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person. Not that suing would subtract attraction, but in my case would my morale and time.-->
 
 BUT, I'm no stranger to some material luck, as it turned out...
 
 My hair fell out while I rented a room in a *house on May St.*, a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the [House on May St.](#house-on-may-st), which I leased a room in later, when Aetna had cut me off from the eczema drug.
+
+(Not that suing would subtract attraction, but in my case would my morale, by a lot, and time).
 
 # Part 2
 
