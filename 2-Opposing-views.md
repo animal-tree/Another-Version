@@ -100,9 +100,9 @@ Whether or not I'm ruling it out must, out of narrative necessity, be left a mys
 
 As that chapter will show, there's an even more appealing direction that all of this has made me crave! And hey, "suing" is still phonetically part of it (is "suiciding" a word though?).
 
-My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person.
-
 <!--But in my case, hopefully the suing manner of acquiring money isn't the necessary way, especially since my physical appearance only matters to me for physical attraction. I'd rather do something that I myself would find attractive in another person. -->
+
+<!--My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person.-->
 
 <!--My physical appearance only matters to me for physical attraction. I'd rather make a living by a means that I myself would find attractive in another person. Not that suing would subtract attraction, but in my case would my morale and time.-->
 
