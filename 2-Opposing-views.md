@@ -181,23 +181,23 @@ My trauma revolves around three psychiatrists.
 
 **PSYCHIATRIST 1:** "I will taper you off from the benzos. You will be tapered off *before* discharge."
 
-> ``Psychiatrist 1 reassured, I'll be weaned off from the benzos,`` *before* ``discharge from the hospital.``
+> `Psychiatrist 1 reassured, I'll be weaned off from the benzos,` *before* `discharge from the hospital.`
 
 **PSYCHIATRIST 2:** "The tapering schedule is too fast (even though we decide when to discharge you) and the outpatient doctor, the psychiatrist after the hospitalization, will taper you off. You will be tapered off *right after* discharge."
 
-> ``Psychiatrist 2  came in on the momentum of her previous post (to replace Psychiatrist 1), and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.``
+> `Psychiatrist 2  came in on the momentum of her previous post (to replace Psychiatrist 1), and changed the schedule, standing next to the first psychiatrist, who hesitantly, self-doubtingly told her that he'd planned to taper me off before the discharge since I was worried.`
 >
-> ``Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.``
+> `Maybe she didn't trust that I would continue with therapy if the physiological addiction didn't send me there by threat.`
 >
-> ``But she reassured, I'll be weaned off from the benzos,`` *right after* ``discharge from the hospital.``
+> `But she reassured, I'll be weaned off from the benzos,` *right after* `discharge from the hospital.`
 
 **PSYCHIATRIST 3:** "Benzos can be safely taken for years. You need to take them. I want to increase the dose. Did you pull your hair out yourself?"
 
-> ``I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He argued that benzos could be safely taken for years. At no point for the next 5 months would he specify a tapering schedule, and I was begging him.``
+> `I told Psychiatrist 3 my symptoms. He was cold, authoritative, and disbelieving. He only believed the benzos were needed. He argued that benzos could be safely taken for years. At no point for the next 5 months would he specify a tapering schedule, and I was begging him.`
 > 
-> ``He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system did, the one that was now making me answer repeatedly whether I did.``
+> `He asked about my hair loss, whether I had pulled the hair out myself. He wouldn't believe me the first couple times I answered. Not only didn't I pull it out myself, but the medical system did, the one that was now making me answer repeatedly whether I did.`
 > 
-> ``I kept begging him to taper in later sessions as well, and he said if I was having all those negative symptoms, that we should increase the dose. That would've started a perpetual race against the brain's downregulation mechanisms. *He wanted to increase the dose.*``
+> `I kept begging him to taper in later sessions as well, and he said if I was having all those negative symptoms, that we should increase the dose. That would've started a perpetual race against the brain's downregulation mechanisms.` *He wanted to increase the dose.*
 
 I argued against the benzos with all 3 psychiatrists.
 
@@ -206,7 +206,8 @@ With Psychiatrists 1 and 2, I only took them due to the threat of court order.
 With Psychiatrist 3, I only took them due to (a) his recommendation and instruction, (b) the guilt about the earlier hospitalization, and me questioning even the most basic logic and instincts I perceived, while noticeably, adding extremely to the self-doubt, my brain was running slower than others due to the drug, thinking I really was sick in the way these doctors understood, (c) the mental impairment induced by the drug, and (d) insecurity about tapering off by myself, amid the severe physiological dependence.
 
 Furthermore, they were treating a misdiagnosis, "catatonia" — that's what the benzos were prescribed for — that I never went through. I couldn't explain that to them because (a) I didn't know the definition of "catatonia" yet, and (b) the trauma of what I went through was too recent to summarize. 
-> ``In RGH, they were prescribed due to that false diagnosis of "catatonia." The University of Rochester's Strong Hospital wanted to prevent a recurrence — that is, "preventatively" — threatened a court order if I didn't take them, and 3 psychiatrists changed, contradicted, and perpetually extended each other's scheduling for the taper.``
+
+> `In RGH, they were prescribed due to that false diagnosis of "catatonia." The University of Rochester's Strong Hospital wanted to prevent a recurrence — that is, "preventatively" — threatened a court order if I didn't take them, and 3 psychiatrists changed, contradicted, and perpetually extended each other's scheduling for the taper.`
 
 Additionally, maybe the most unbelievable part: they didn't ask about what I went through. They treated "catatonia" and "bipolar mania" as the indubitably exhaustive description. "Catatonia," which is what the benzos were meant to treat, was fully a misdiagnosis. The other diagnosis from the medical record was "bipolar mania," for which I was being given Risperdals, a strong antipsychotic, in addition to benzos. None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester's psychiatrists.
 
