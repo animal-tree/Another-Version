@@ -115,7 +115,7 @@ BUT, I'm no stranger to some material luck, as it turned out...
 
 My hair fell out while I rented a room in a *house on May St.*, a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the [House on May St.](#house-on-may-st), which I leased a room in later, when Aetna had cut me off from the eczema drug.
 
-(Not that suing would subtract attraction, but in my case would my morale, by a lot, more so than committing suicide, and time).
+(Not that suing would subtract attraction, but in my case would my morale, by a lot, more so than committing suicide, and would subtract time).
 
 # Part 2
 
