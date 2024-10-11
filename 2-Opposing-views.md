@@ -741,8 +741,6 @@ My family besides me also have higher-level degrees. My mom, a master's degree i
 > I was accepted as his PhD student not knowing that. I found out two semesters into the PhD program, and was kind of shocked. He said he was "obsessed with" Buffy, which he added is "kind of weird." I dropped off my "Buffy the Vampire Slayer and Philosophy: Fear and Trembling in Sunnydale" book, with a kind note, in his mailbox as a gift, re-gifting it from my best friend.
 >
 > Henry had a rare taste for something that others hadn't heard of as much, that would later contribute to the creation of something everybody has heard of. Joss Whedon created Buffy, and later wrote The Avengers, exploding from esoteric-nerdom to Blockbuster-God-man to cancelled-bad-man. Interestingly, Henry quipped and talked in a way reminiscent to Joss Whedon, and had theater writing experience, though as my advisor, Henry was more like Giles, Buffy's Watcher (advisor). Similarly, the method that I had a rare appreciation for, MHDPA, that had gone on to transformer-roll-out into being ChatGPT, would, much like Marvel movies, destroy civilization.
->
-> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both of us from bad movie execs and producers, I'm adding this paragraph just to clarify: this is not what I'm trying to do with this book or to Henry, though the decisions he made as an official advisor around his student are ones he is responsible to the consequences for, which, after his retirement, he was not.
 
 #### The Martian
 
@@ -763,11 +761,6 @@ And in Spring, 2020, I didn’t have to take classes, and worked in the office a
 Had I taken a medical leave at the peak of this, at the end of the Spring, 209 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#advisor-leaves), most likely would've been terminated for not having an advisor.
 
 ### Advisor leaves
-
-> [!NOTE]
-> ### Giles
->
-> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
 
 Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
 
@@ -801,6 +794,13 @@ Chenliang had no other problems or qualms with me, the second professor to aband
 -->
 
 Until Henry's retirement in 2022, which he didn't warn me about and came to me as a surprise from Chenliang, he stayed on as my PhD committee member.
+
+> [!NOTE]
+> ### Giles
+>
+> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23)
+>
+> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both Henry and I from bad movie execs and producers, I'm adding this paragraph just to clarify: this is not what I'm trying to do with this book or to Henry, though the decisions he made as an official advisor around his student are ones he is responsible to the consequences for, which, after his retirement, he was not.
 
 ## Chenliang Xu 
 
