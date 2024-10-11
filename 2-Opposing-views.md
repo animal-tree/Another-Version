@@ -756,7 +756,7 @@ During this time, I built the disease prognostication website. It was my idea th
 
 Fall, 2019 my classes were much easier. I had to take Program Synthesis with Sri Pai, a professor I really like. It was still hard. 
 
-And in Spring, 2020, I didn’t have to take classes, and worked in the office at the Med Center as my brain was just barely entering the first vestiges of recovery. 
+And in Spring, 2020, I didn’t have to take classes, and worked in the office at the Med Center as my brain was just barely entering the first vestiges of recovery. I was coming into the Med Center office regularly, working on the disease prognostication data and models, and exercising more.
 
 Had I taken a medical leave at the peak of this, at the end of the Spring, 209 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#advisor-leaves), most likely would've been terminated for not having an advisor.
 
