@@ -751,7 +751,13 @@ It was from my office, I remember, during benzo cognitive decline, in the Spring
 
 I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/etc.), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
 
-Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
+After this, my mom found and my family took away the helium tank connected to tubing I was going to kill myself with.
+
+Fall, 2019 my classes were much easier. I had to take Program Synthesis with Sri Pai, a professor I really like. It was still hard. 
+
+And in Spring, 2020, I didn’t have to take classes, and worked in the office at the Med Center as my brain was just barely transitioning into the first vestiges of recovery. During this time, I built the disease prognostication website. It was my idea that I had to argue for, build, and prove to convince them it was a good idea. Through brain damage, I built it, proved the concept to bosses and other researchers through hard work and an actual prototype, and presented it at a conference in DC where I had to take benzos to cognitively function. They took the idea after liking my version, they hired their own team, and they gave me no credit. 
+
+Had I taken a medical leave at the peak of this, at the end of the Spring, 209 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#advisor-leaves), most likely would've been terminated for not having an advisor.
 
 ### Advisor leaves
 
