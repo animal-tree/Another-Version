@@ -800,6 +800,8 @@ I managed to publish 2 papers under Chenliang. <!--The number of papers publishe
 Chenliang had no other problems or qualms with me, the second professor to abandon his advising responsibility, this time with far less justification, seeing as Henry believed it would be best for me to have an advisor with deep learning experience, and had a stated intention, though unverified, to fund me himself if all else failed.
 -->
 
+Until Henry's retirement in 2022, which he didn't warn me about and came to me as a surprise from Chenliang, he stayed on as a PhD committee member.
+
 ## Chenliang Xu 
 
 <p align="center">
