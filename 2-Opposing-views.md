@@ -170,7 +170,7 @@ Nobody understands this mechanism. To understand this mechanism, you'd have to s
 
 Benzos are GABA agonists, like alcohol. That means they simulate GABA or enhance GABA receptor function. In response, the brain downregulates GABA production and receptor sensitivity universally across the brain, universally. The brain responds to those GABA bursts by "downregulation," even long, long after cessation.
 
-Despite the similarities to alcohol, benzos are synthetic, achieve much the same effect without a person being able to notice the same short-term consequences like immediate hangover, and are often prescribed to be taken daily for long periods of time. [Studies haven't shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8629021/) that the long-term consequences are preferable to those of alcohol, and my experience was so severe that I would strongly bet they are worse.
+Despite the similarities to alcohol, benzos are synthetic, achieve much the same effect without a person being able to notice the same short-term consequences like immediate hangover, and are often prescribed to be taken daily for long periods of time. [Studies haven't shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8629021/) that the long-term consequences are preferable to those of alcohol, many [quite the opposite](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and my experience was so severe that I would strongly bet worse.
 
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/bdd0f3d5-425b-430c-b52c-4dcba693c8e2">
@@ -689,7 +689,7 @@ These symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/cons
 
 You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
 
-I tried to kill myself, and my family took the helium tank away.
+I tried to kill myself, and my family took the helium tank away. The risk of mortality was a foreseeable outcome by my psychiatrists, [as published study data show](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).
 
 I had to buy waist straps to finally start to recover because I couldn't sit up from the debilitated position I shook with anxiety in on the couch.
 
