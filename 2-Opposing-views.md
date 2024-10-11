@@ -800,7 +800,7 @@ Until Henry's retirement in 2022, which he didn't warn me about and came to me a
 >
 > Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23)
 >
-> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both Henry and I from bad movie execs and producers, I'm adding this paragraph just to clarify: this is not what I'm trying to do with this book or to Henry, though the decisions he made as an official advisor around his student are ones he is responsible to the consequences for, which, after his retirement, he was not.
+> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both Henry and I from bad movie execs and producers, I'm adding this paragraph just to say that I am not cancelling Henry.
 
 ## Chenliang Xu 
 
