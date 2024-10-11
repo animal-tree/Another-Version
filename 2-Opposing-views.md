@@ -698,7 +698,67 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. 
 
+### Spring, 2019 semester
+
+#### Area exam
+
+I passed my area exam, within a few weeks of the close of the Spring, 2019 semester, "with flying colors" according to Henry.
+
+Henry, compared to other professors of similar rank and background, deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked for elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicitiy, because he became my later advisor.  
+
+The other faculty were probably mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take at a higher dose that day to function, but that’s not how Henry meant it.
+
+[My slides for that area exam were quite colorful](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing), but that's also not how Henry meant it (see slide 11 for the description of MHDPA).
+
+I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take benzos that day at a higher dose. That was the plan. I even rehearsed one day in front of them at an irregular but smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo torture-out that I had to take an irregular dose of benzos to do something, the other being [the poster presentation for the Med Center](#charles-venuto), since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
+
+My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the late spring of 2019. 
+
+My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
+
+> [!NOTE]
+> ### Buffy
+>
+> In high school, I loved Lost, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of<!-- (well, I guess Reaper was middle school)-->. But my favorite-favorite has been Buffy the Vampire Slayer, which at the time was available on Netflix. I was obsessed.<!--, as well as with [Dr. Horrible's Sing-Along Blog](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4).-->
+>
+> Almost nobody heard of Buffy in my high school, 2009 - 2013, Golden Age Peak TV era. I had a debate with my friend, another film buff, where I claimed TV shows were better than movies. He didn't believe me yet. In my high school, all those TV shows were getting missed<!--, at least by many of the people I talked to-->. Buffy had been out since the 90s/early 2000s, and was the most — maybe universally at my high school — unappreciated.
+>
+> The first person who took my recommendation got through multiple seasons, on my repeated insistence, and still didn't like it.
+>
+> It wasn't until my senior year I met somebody who liked Buffy the Vampire Slayer. I met him because he commented on a friend's Facebook post about a totally different shared interest, and I messaged him, he wanted to hang out to my surprise, and then he invited me to his birthday party. There, I met other kids who went to his school, including the other Buffy fan I met in high school, one of his friends who walked right up to me with a big smile and was so enthusiastic about my Buffy love.
+>
+> She invited me to a [Man Man](https://youtu.be/kI1PWcTe0W4?si=pWtiu7kRxCbpfDUX) concert later after our friend told her I liked Man Man, somehow also a common interest.
+>
+> Two of the first friends I made in college, by extreme coincidence, loved nerdy shows, especially Joss Whedon shows and Buffy, and were the <!-- girls--> people in my neighboring dorm. One of them later told me she didn't like Buffy that much. Her girlfriend however, a different person, who wasn't rooming with them and didn't go to our university, was such a big Buffy fan that she even made me feel guilty for not knowing some trivia about one of the episodes. The other roomate in my neighboring dorm was one of the only people I ever watched Buffy together with. They both became my best friends that semester and I half-lived in their dorm. The other dorm near ours also housed <!--a girl--> someone who liked Buffy a lot, by chance. I was roomed near them by the university's random selection. Extreme Buffy fandom wasn't *that* common in college.
+>
+> Buffy appreciation, quite honestly, was how I measured intelligence then. Wealth and higher education, though, also seemed to increase likelihood of Buffy fandom, but not so as to without further Buffy-factor predict intelligence. It was a big surprise to me to meet those people in the private school, and then more people in college, with an appreciation for the shows I appreciated. It was literally surreal.
+>
+> I was so nervous with the first group, and regret missing the chance to bond more with them. The second group didn't make sense to me, but I was surrounded, and there was no escape from the universe giving me a good social life.
+>
+> From college to PhD, I didn't know Henry's favorite show was Buffy.
+> 
+> I was accepted as his PhD student not knowing that. I found out two semesters into the PhD program, and was kind of shocked. He said he was "obsessed with" Buffy, which he added is "kind of weird." I dropped off my "Buffy the Vampire Slayer and Philosophy: Fear and Trembling in Sunnydale" book, with a kind note, in his mailbox as a gift, re-gifting it from my best friend.
+>
+> Henry had a rare taste for something that others hadn't heard of as much, that would later contribute to the creation of something everybody has heard of. Joss Whedon created Buffy, and later wrote The Avengers, exploding from esoteric-nerdom to Blockbuster-God-man to cancelled-bad-man. Interestingly, Henry quipped and talked in a way reminiscent to Joss Whedon, and had theater writing experience, though as my advisor, Henry was more like Giles, Buffy's Watcher (advisor). Similarly, the method that I had a rare appreciation for, MHDPA, that had gone on to transformer-roll-out into being ChatGPT, would, much like Marvel movies, destroy civilization.
+>
+> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both of us from bad movie execs and producers, I am adding this paragraph just to say that I am not cancelling Henry.
+
+#### The Martian
+
+<!-- [TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] --><!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
+
+It was from my office, I remember, during benzo cognitive decline, in the Spring 2019 semester, that I taught Henry "sequence-to-sequence attention" (even as I was working on innovations to MHDPA, now suffering due to grad-level classes, TAship, impending area exam, and not to mention brain damage) and being in a state of misery that I couldn't convey, despite some trying.
+
+I spent every day of that semester writing a little bit towards my area exam paper. To pass the grad-level classes after the hospitalizations and amid the decreasing cognition, I asked another PhD student for help on some difficult course material, had to get extension for some material, and visited a professor at his office hours several times. I scored straight As. This took spirit and luck, as well as my continued disciplines (daily meditation, strict Paleo diet, cold showers/Wim Hof method, no movies/TV shows/etc.), e.g., Matt-Damon-potatoes-on-Mars kind of human spirit that should not be underestimated, yes, amid brain damage and torture.
+
+Had I taken a medical leave, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#giles), most likely would've been terminated for not having an advisor.
+
 ### Advisor leaves
+
+> [!NOTE]
+> ### Giles
+>
+> Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23) 
 
 Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
 
