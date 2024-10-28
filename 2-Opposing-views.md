@@ -1,3 +1,7 @@
+# <p align='center'> Book 2. Opposing Views </p> 
+
+<p align='center'> $\color{green}\mathrm{by}$ $\color{green}\mathrm{Sam}$ $\color{green}\mathrm{Lerman}$ </p> 
+
 # Part 1
 
 ## Sam <!--and Marina--> of Samarkand<!--/Maracanda-->
@@ -115,11 +119,53 @@ BUT, I'm no stranger to some material luck, as it turned out...
 
 My hair fell out while I rented a room in a *house on May St.*, a different place from the floor in the house my cousin Lena's boyfriend was renting out to the roommate I mentioned (my best friend by the way) and me, where I first injected Dupilumab, but it was while living in the [House on May St.](#house-on-may-st), which I leased a room in later, when Aetna had cut me off from the eczema drug.
 
-(Not that suing would subtract attraction, but in my case would my morale, by a lot, more so than committing suicide, and would subtract time). If I’m doing my PhD, or writing this book, or racing with other AI researchers, or have physics work that’s important for everybody, or have medical work that’s important for everybody, or have politics/governing stuff that’s important for everybody, when would I have time to sue?
+(Not that suing would subtract attraction, but in my case would my morale, by a lot, more so than committing suicide, and would subtract time). If I’m doing my PhD, or writing this book, or racing with other AI researchers, or have physics work that’s important for everybody, or have medical work that’s important for everybody, or have politics/governing stuff that’s important for everybody, when would I have time to sue? As I'm doing. All of that.
 
 # Part 2
 
-<!--## Apartment, RGH, and Strong-->
+## Electric razor (more premonitions)
+
+My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
+
+In the summer, 2017, just before my first Dupilumab injection, my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
+
+Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, and mostly while living in the House on May St...
+
+<!--
+### Uncanny beard premonition
+
+My grandpa actually gave me his razor, an electric razor. It was the first razor I ever had, that I used to shave in high school and all through college. I was right-handed; I'm sure my grandpa used his left hand; I'm sure Charles was startled when I started coming into the office at the Center for Health and Technology, in the late summer of 2017, with the early traces of a beard.
+
+It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
+-->
+
+## House on May St.
+
+My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I'd never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
+
+It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
+
+Pets weren't allowed, but that's okay, because there was a [semi-adopted stray who regularly came to visit me outside and sat with me on (or near) my porch named "Batman" (according to his collar)](https://www.facebook.com/share/v/KXoyjpZeM6tsKRrE/), and I loved him very much if the video doesn't make that clear.
+
+Months before I moved out, I became the admin/moderator of the [university Facebook housing page](https://www.facebook.com/groups/1112684565415024/) by chance, because the actual admin posted he was looking for a student to moderate the page for him, and I responded that I could do it. My landlord didn't know (and probably still doesn't) that I'm the effective-admin/moderator of that page. Also, since then, I've messaged the manager/admin of that group multiple times to give the moderation to someone else or moderate it himself and he hasn't replied, and doesn't appear to use Facebook, so hereforth I'm permitting myself to call myself the admin. I'm glad to moderate, but not super good at keeping up to date with it. So, after there was no chance left of getting to keep the place to just myself and friend longer, I ended up finding University of Rochester grad students to fill all 4 bedrooms of the house, and all 4 bedrooms of the neighboring house, also belonging to the landlord — I think "semi-detached home" is what it's called — and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to my landlord's email and my landlord's email flooded with other PhD students looking to fill that house, including one of the ones who'd originally wanted and planned to who I'd notified (he moved into the attached one). I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students. Sorry for this phrasing, but the landlord's house is now "never lacking" in interested grad students looking to rent from him. In fact, lucky for him, the neighboring commercial building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
+
+I also grew out a full beard <!--(except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college)--> and full mustache mostly in those first months I lived in that May St. house, based on an independent Paleo-based intuition/principle. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
+
+I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many asceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
+
+I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight divergences by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
+
+In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The instructor I learned from through the TM program was trained directly by the creator/translator of the technique, Maharishi Mahesh Yogi, the guru/yogi the Beatles infamously learned their meditation practice from. I experienced the subtle sinking/melting of my state of consciousness, including visceral physiological sensations, perhaps what some people have observed/called as "Kundalini," that I hadn't heard of yet and came to from Googling my physical sensations, that were a movement in my chest, back of neck, maybe esophagus/throat region, or into my third eye/lobe region, visceral and physical. The meditation brought my consciousness to a sublime state and alleviated my social anxiety.
+
+<!--
+Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayaking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
+-->
+
+<!--
+The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was a Freshman in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyelashes, armpits, and pubic area weren't.
+-->
+
+It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
 
 After living in the House on May St., and after my hair had begun falling out, I moved in with my mom to our apartment, where I came up with my [MHDPA innovation paper](https://www.overleaf.com/read/qgmmzgsrctmg#6cd1b9) (the method underlying ChatGPT) in 2018, and it was in the middle of wrapping up that, after all my hair had fallen out, that I was hospitalized (no prior history). It was actually in the first hospitalization, at RGH (see ["Psychosis crisis"](#psychosis-crisis)), where I ran the successful experiments for that paper, since the hospital staff had allowed my mom to bring in my laptop. It was in the second hospital, at the University of Rochester's Strong Hospital (see ["The unsampled world at Clover St."](#the-unsampled-world-at-clover-st)), where I described relational reasoning to my brother-in-law and showed that paper to my fellow inpatient, Sarah (real name used with permission).
 
@@ -244,17 +290,6 @@ A deeper summary of my benzo trauma can be found [here](#flying-colors). <!--[he
 
 The experience of losing my hair has cost me relationships and worsened my social anxiety, and the benzo-brain damage and torture leaves me with PTSD.
 
-<p align="center">
-<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
- <picture>
-   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
-   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
-</picture>
-</a>
-</p>
-
-# Part 3
-
 ## PhD program
 
 ### Embassy interview
@@ -304,8 +339,6 @@ Unlike my mom not being able to in Uzbekistan, I got into the PhD program. I was
 
 Before accepting me into his doctoral candidacy, Henry connected me to Charles Venuto at the Center for Health and Technology a year into their efforts to model Parkinson's disease (PD) progression. Charles hired me as an undergrad researcher to work with another student, a friend of mine from an on-campus living community, in the UR Medicine Saunders Research Building, where I took on the responsibility of modeling Parkinson's disease for the next several years, including having co-led with that friend the PPMI Data Challenge project, a high-profile data contest hosted by the Michael J. Fox Foundation, which asked, "What factors at baseline predict clinical progression?"
 
-## Charles Venuto
-
 <p align="center">
 <a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/da92b978-0e8a-4c27-9d77-82b40ca7a911">
  <picture>
@@ -314,6 +347,8 @@ Before accepting me into his doctoral candidacy, Henry connected me to Charles V
 </picture>
 </a>
 </p>
+
+## Charles Venuto
 
 Charles was my Med Center advisor.
 
@@ -326,53 +361,9 @@ I hope Charles and his colleagues may find the above diagram (["5 Computational 
 
 <!--But before we come to the conclusion that Charles is caught "red-handed," he was very supportive as my advisor; and he was left-handed, I recall, like my grandpa.-->
 <!--Charles was very supportive as my advisor. And he was left-handed, I recall. My grandpa was also left-handed. On the website, though, Charles *and his bosses/team*, were, red-handed.-->
-Charles was very supportive as my advisor. I recall he was left-handed. My grandpa was also left-handed. On the website, though, Charles and his bosses/team, were, red-handed.
+Charles was very supportive as my advisor. He was left-handed. My grandpa was also left-handed. On the website, though, Charles was red-handed.
 
-## Electric razor (more premonitions)
-
-My grandpa gave me his electric razor when I was in high school. It was the first razor I ever had. I shaved with it through high school and college, and until the fateful summer preceding my first PhD semester<!--, it was the only razor I ever used-->.
-
-In the summer, 2017, just before my first Dupilumab injection, my mom and I went to Finland to celebrate my graduation from "uni," and my razor broke in the luggage.
-
-Towards the later part of that summer, I started growing out my beard and mustache for the first time, entirely independently, and mostly while living in the House on May St...
-
-<!--
-### Uncanny beard premonition
-
-My grandpa actually gave me his razor, an electric razor. It was the first razor I ever had, that I used to shave in high school and all through college. I was right-handed; I'm sure my grandpa used his left hand; I'm sure Charles was startled when I started coming into the office at the Center for Health and Technology, in the late summer of 2017, with the early traces of a beard.
-
-It was the [first time I grew out my beard](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144) and I did so out of an intuition, just before Aetna had cut me off from Dupilumab.
--->
-
-## House on May St.
-
-My hair fell out while I lived in my *house on May St.*, a miraculous situation where the landlord — who I'd never met previously — rented me a 4-bedroom nice antique house near both the university and the park in Rochester where the Lilac Festival is held, to myself, for $600/month, starting Fall, 2017 — well, technically one bedroom from that house, but I had the whole place to myself pretty much for the next year, and even furnished at least one other bed from another room since, inexplicably and literally miraculously, the landlord didn't believe he could find anyone on his own without my help to rent out to, and he wanted grad students. 
-
-It was beautiful, and even had a porch and balcony, big kitchen, a freezer for big-game hunting (this detail becomes funny later), basement, dishwasher, and laundry machine. Of some of the PhD students who visited me, some needed housing, and later the landlord and I showed them around the rooms (maybe not even prior to me furnishing any of the other bedrooms, which the landlord didn't mind that I'd done, seeing as my best friend and I also beautifully furnished that whole house together during one of my best friend's visits early when I moved in, really beautifully, and that increased the value of the house more, in addition to the sofa and tables and furnishings and beds and desks that the landlord provided — did I mention the word "miraculous" yet?), and one of them even mentioned to the landlord at the end having the funds to pay the full year's rent already — I don't remember why they ended up not moving in, but that was also clearly miraculous. I did end up renting out the attic (which was like a studio apartment, well, a giant room) to one of my friends from high school for the landlord after maybe 4 months of having the place to myself, and even then it was pretty much entirely my house, though he also set up a DJ station for himself in the basement since he threw raves (not in the house), and had his girlfriend over, but he kept quiet, and he wasn't a grad student, but the landlord had a strong belief in my judgement — again, a miraculous thing.
-
-Pets weren't allowed, but that's okay, because there was a [semi-adopted stray who regularly came to visit me outside and sat with me on (or near) my porch named "Batman" (according to his collar)](https://www.facebook.com/share/v/KXoyjpZeM6tsKRrE/), and I loved him very much if the video doesn't make that clear.
-
-Months before I moved out, I became the admin/moderator of the [university Facebook housing page](https://www.facebook.com/groups/1112684565415024/) by chance, because the actual admin posted he was looking for a student to moderate the page for him, and I responded that I could do it. My landlord didn't know (and probably still doesn't) that I'm the effective-admin/moderator of that page. Also, since then, I've messaged the manager/admin of that group multiple times to give the moderation to someone else or moderate it himself and he hasn't replied, and doesn't appear to use Facebook, so hereforth I'm permitting myself to call myself the admin. I'm glad to moderate, but not super good at keeping up to date with it. So, after there was no chance left of getting to keep the place to just myself and friend longer, I ended up finding University of Rochester grad students to fill all 4 bedrooms of the house, and all 4 bedrooms of the neighboring house, also belonging to the landlord — I think "semi-detached home" is what it's called — and, thanks to the ad I ended up posting ([here it is](https://github.com/user-attachments/assets/dbe5ceff-3b06-4582-97fb-c13c30d00564)), I redirected inquiries to my landlord's email and my landlord's email flooded with other PhD students looking to fill that house, including one of the ones who'd originally wanted and planned to who I'd notified (he moved into the attached one). I ended up adding my landlord to that page, where, technically I'm not supposed to allow landlords, only students. Sorry for this phrasing, but the landlord's house is now "never lacking" in interested grad students looking to rent from him. In fact, lucky for him, the neighboring commercial building is now [a herbal apothecary](https://www.democratandchronicle.com/story/news/2019/09/19/little-apothecary-becomes-little-herbary-south-ave-rochester-ny/2365775001/), since it was abandoned when I lived there (due to, if I recall correctly, a murder, though I didn't know that moving in).
-
-I also grew out a full beard <!--(except a really small patch probably from a lifetime of topical eczema creams, as my pediatrician told me was happening in high school or college)--> and full mustache mostly in those first months I lived in that May St. house, based on an independent Paleo-based intuition/principle. [Here's a picture with my family at that house from my 22nd birthday](https://github.com/user-attachments/assets/2d1d366e-14bd-49cd-9a58-dca108e9a144), not too long after I started to grow it out. My best friend [visited me](https://www.facebook.com/share/p/c7m83bHR5v1mP4p4/) on December 15th, 2017 at that house and encouraged me to shave it (just before we went to a rave that day, the other friend's who would later move in with me, coincidentally), some months before Aetna cut me off from the prescription to Dupilumab, but it was the first time I ever grew out my facial hair.
-
-I was working really hard in that house, developing my long-term memory research ideas and implementing the code for it there, meditating every day while practicing strict dietary (Paleo and organic) disciplines, practicing many asceticisms including not watching movies and TV shows, no unnatural lights after 8 PM except candlelight and always going to bed by 10 or 11, reading philosophy books and academic works for entertainment, cooking all of my food fresh, cold rather than hot showers (e.g., Wim Hof method), while working on campus taking full semesters of grad-level classes, and at the University of Rochester's Medical Center, building neural models to predict the progression of Parkinson's disease, and that house is where I started to get my idea for how stochasticity in the universe's quantum mechanics could explain a mechanism for "God" or some intelligent power in nature, hypothetically.
-
-I was sleeping in one of the second bedrooms, when, on a rare occasion, my housemate friend and his girlfriend woke me climbing up the stairs. Somehow I had a sudden realization, near around 3 AM or whatever time it was in that night, that the universe's particles might be random, and therefore can be shifted by slight divergences by an intelligence — like the biological kind (or modeled by the artificial kind) — in such a way that still respects the known laws of physics and yet permits the possibility of an intelligent nature, that can modulate how those particles are sampled with respect to the sampling distributions.
-
-In that house, somewhat before, and thereafter (continuing for years, mostly without pause), I was practicing many disciplines, including meditation, Paleo diet, and ascetic disciplines. I learned the Transcendental Meditation (TM) technique from an instructor, while living there. The instructor I learned from through the TM program was trained directly by the creator/translator of the technique, Maharishi Mahesh Yogi, the guru/yogi the Beatles infamously learned their meditation practice from. I experienced the subtle sinking/melting of my state of consciousness, including visceral physiological sensations, perhaps what some people have observed/called as "Kundalini," that I hadn't heard of yet and came to from Googling my physical sensations, that were a movement in my chest, back of neck, maybe esophagus/throat region, or into my third eye/lobe region, visceral and physical. The meditation brought my consciousness to a sublime state and alleviated my social anxiety.
-
-<!--
-Later, after some time without that "Kundalini" sensation, I described how I theorized TM might work to another skeptical PhD student, my friend Mohsen, who'd actually visited me in that house and met "Batman" once, but on a hiking/camping/kayaking/hotel trip much later in the Adirondacks and Niagra Falls, that it had something to do with the distribution of processing systems in the brain. For example: attenuating to a mantra, reduces other area attention activity such that unconscious thinking processes can be allocated. However, while still in the house on May St., I had a different philosophy, involving my physical body, as well as associative and long-term memory —  but I can't remember what it was. I have notes in a small red journal (not a reference to Jung's "Red Book," but I was reading Jung at the time) [here](). To do: find journal and link photos
--->
-
-<!--
-The beard had a really small bald patch similar to places on my body where my skin was very smooth that my pediatrician (who I was still seeing in my Freshman year of college) diagnosed while I was a Freshman in college as probably due to the use of prescribed topical creams for eczema on those parts of my body. My chin is one of those areas where I got eczema and had applied those creams through high school and college. My head, eyelashes, armpits, and pubic area weren't.
--->
-
-It was in that house when Aetna cut me off from Dupilumab and my hair started falling out.
-
-## Henry Kautz (Limitations of Western philosophy)
+> To do: Different image
 
 <p align="center">
 <a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
@@ -382,6 +373,8 @@ It was in that house when Aetna cut me off from Dupilumab and my hair started fa
 </picture>
 </a>
 </p>
+
+## Henry Kautz (Limitations of Western philosophy)
   
 The top-three contest-winning Parkinson's disease progression models I built at the Med Center in college as an undergrad earned me a recommendation back to Henry Kautz, [as well as an embarrassing interview](https://www.rochester.edu/newscenter/undergraduate-students-place-in-top-three-in-parkinsons-disease-data-science-contest-228912/). On top of that, I built [a sleek website interface for Twitter GNIP's involved data mining API](https://github.com/slerman12/TwitterDataCollector) for Henry's research group, and some sundry research projects together with one of his PhD students, and was praised by other affiliates of his that he recommended me to, at [Bryx emergency response](https://bryx.com). As a result of my skill, combined with appreciation for my extracurricular breadth, Henry accepted me into his PhD group as a doctoral student. 
 
@@ -635,6 +628,22 @@ I was told a court order would be acquired if I didn't take them, even as I was 
 >
 > He looks like the Cowardly Lion from Wizard of Oz, but he neither thinks he's cowardly — his spirit animal is a lion — nor is. Jeremiah is brave. Jeremiah is a hobbit, a fellow hobbit.
 
+### Area exam (and all As)
+
+I passed my area exam, within a few weeks of the close of the Spring, 2019 semester, "with flying colors" according to Henry.
+
+Henry, compared to other professors of similar rank and background, deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked for elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicitiy, because he became my later advisor.  
+
+The other faculty were probably mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take at a higher dose that day to function, but that’s not how Henry meant it.
+
+[My slides for that area exam were quite colorful](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing), but that's also not how Henry meant it (see slide 11 for the description of MHDPA).
+
+I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take benzos that day at a higher dose. That was the plan. I even rehearsed one day in front of them at an irregular but smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo torture-out that I had to take an irregular dose of benzos to do something, the other being [the poster presentation for the Med Center](#charles-venuto), since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
+
+My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the late spring of 2019. 
+
+My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
+
 ### Flying colors
 
 The first psychiatrist and I walked together in the hall and he thought I was bright. The social lubricant of benzos gave me a visibly colorful brilliance that I think he reacted to as authoritative, about my knowledge of benzos and intelligence. Let's call this luminescence "flying colors," a term I'm borrowing from Henry. The first psychiatrist said I'd be weaned off before the discharge, and that was the schedule. I was able to articulate colorfully to him with an intimate/earnest social charm that I wanted to be weaned off from the drugs before discharge. He reassured, I would be weaned off before discharge.
@@ -647,6 +656,8 @@ I wasn't asked what happened to me. It was as if "catatonia" and "bipolar mania"
 
 None of the previous diagnoses from the first hospitalization, none of what RGH wrote, were investigated or asked about in any extent by the University of Rochester's psychiatrists, nor were either of them precisely true (at least "catatonia"). None of the events were inquired about more than what was known by RGH (essentially just the two diagnoses, as perceived).
 
+### Hell
+
 The euphoria was turning into grey cloud and fog. I was in cognitive decline by the second psychiatrist. Then, after I was discharged, more cognitive impairment and anxiety, excruciating anxiety and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/) that persisted for more than a year. The color film had faded, the "flying colors" had faded. It was Dorothy in reverse. The psychiatric unit was the "Wonderful Land of Oz," with me colorfully drunk on the magic benzos they were giving me at threatened risk of court order, and by the third <!--pen--> click of the third "healer," the tornado had begun. The third psychiatrist, the outpatient doctor, also University of Rochester, was categorically, unallegorically bad. If there could be a DSM-5 yellow-brick-manual definition for bad, it would just be a picture of him. In the second month with him, 3 months into the benzos, my cognition was not just grey but Requiem For A Dream-grey, anxiety constant. [My memory, speech, and imagination were gone](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d). From his disbelieving clinical authority, all of my symptoms were, wrongly, attributed to the earlier diagnoses. I told him I thought I was brain damaged, and that I was in physical pain, that I had [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), and that I'd read from multiple scientific studies that [brain damage from benzos may be permanent](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10309976/), and he didn't care about the scientific studies I may have hypothetically read, because every word I said was devoid of believability — not colorless from outside, but agitated/irky/murky, like my inner anxiety was attacking him. So he reacted by saying that increasing the dose would be the best course of action. I begged him to taper, and he said if I was having all those negative symptoms, that he should increase the dose, which I had to submit my position on, out of fear that he would. 
 
 He wanted to increase the dose, as if that would reduce my brain's increasing system-wide downregulation of GABA, rather than worsen its effort to fight the dysregulation. In case you're wondering, he was an idiot. The brain damage, and literally — when memory, speech, and imagination are all impaired, and the patient's in pain, *the brain is damaged* — risked being permanent and irreversible, according to [(many) studies](https://pubmed.ncbi.nlm.nih.gov/15762814/) I found and the [fact that nobody understands neurodegeneration](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-024-03437-5). 
@@ -654,6 +665,16 @@ He wanted to increase the dose, as if that would reduce my brain's increasing sy
 I write this with the same truth value as "the Holocaust was bad": I should've weaned myself off then, or better yet, immediately, as soon as I could've started weaning. The brain's GABA being downregulated is like living in an active war zone. Coercively induced, it is, without exaggeration, a legalized form of torture, neurochemical waterboarding, except the effect persists beyond each cranium drowning, without a moment's break for air. By the next month with that doctor, around month 4 of the benzos, I wasn't able to recall well even important personal memories or easily do basic math, grey cognition, non-stop anxiety, non-stop torture. My writing quality went extremely down on anything that was social or creative or new. What I suffered was physiologically brain damage. 
 
 My cognition and perception deteriorated severely, and [a constant rightward spinning sensation](https://www.reddit.com/r/kundalini/comments/h8n3ve/lopsided_and_slanted_kundalini_sensations/), [tinnitus](https://www.reddit.com/r/kundalini/comments/j1finq/tinnitus_in_just_left_ear/), mouth dryness, and [wrinkles](https://www.reddit.com/r/spirituality/comments/1dyn2es/comment/lce3ie3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) added to the mounting evidence of damages happening not just to my psyche, but to my brain and body. I was in severe pain and agony. He responded with only authority, no reasoning, and no sensitivity. He didn't believe any of my arguments. He made no consideration to the possibility that I was right or he was wrong. His clinical authority meant more to him than my agony. His perpetuation and amplification of my suffering, attributed reasons (despite good arguments that I made, but which were too agitated for the foolish authority), and fears was afforded to him only by his disbelief and my drug-induced insecurity about weaning off by myself. The third psychiatrist, is like Schindler's List-grey, like not even a little girl carrying an umbrella. I saw him for about 4 or 5 months and don't remember his name, which is too bad, or I would write it here in capital letters.
+
+At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
+
+Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture ([even at lower comparative doses than what I took](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
+
+I remember trying CBD oil or L-theanine to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different herbs and chemicals they had with probably way more knowledge than they expected, the person at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then she stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording/thinking was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), due to literal brain damage from the benzos. The personality consequences of the extreme [anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [brain fog](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), and [impaired speech](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d), plus total hair loss, harmed my social life more than can be stated, and lasting trauma regarding people from the interactions with the psychiatrists and medical staff coercions.
+
+These symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year, and the trauma persists. <!-- I've read former cocaine and heroin addicts anecdotally report that long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. --> I saw anecdotes in [this forum](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports elsewhere, e.g., probably abundant [here](https://www.reddit.com/r/benzorecovery/)).<!-- I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). -->
+
+### Wizard behind the curtain
 
 - The drug empire was disguised as the University of Rochester.
 - The drug dealers were disguised as the University of Rochester's psychiatrists.
@@ -671,6 +692,8 @@ Until recently, [lobotomies](https://psychcentral.com/blog/the-surprising-histor
 
 As it turns out, the disorder was with the psychiatrists all along. "Toto, we're not in Xanax anymore," the University of Rochester medical system says to itself, as it peddles more big pharma flying monkeys. When the prison guards are criminals and the prisoners are saints, things are backwards. Likewise, when the doctors are drug dealers and the patients would be regarded in Tibet or other cultures as showing early signs of shamanic intuitions (as both Jeremiah and Sarah did, I later came to learn from direct undeniable experience with them, and as [others who presented similar symptoms to mine](https://youtu.be/CFtsHf1lVI4?si=c7HOzpchsB2NeP1-) did, myself included), there's a disorder *of* the system, and it's not one that's classified in the DSM-5.
 
+### Suicide attempt
+
 <p align="center">
 <picture>
   <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/Detective-Sam/assets/9126603/058ab251-3664-4358-9014-ede3dfb3674c">
@@ -679,17 +702,9 @@ As it turns out, the disorder was with the psychiatrists all along. "Toto, we're
 <br>To do: Find a better image that does me more justice.</i>
 </p>
 
-At after the 6 month point, I gradually reduced the dose, now entering the ["hungover" chemical waterboarding phase](https://www.reddit.com/r/depression/comments/cksl7u/health_disaster_brain_damage_alopecia_universalis/).
-
-Starting some months [(maybe 4th month) into taking the benzos](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), before I began weaning, I was laying on the couch, immobilized, shaking with excruciating agony. No sleep, no escape. No exit, just PhD work (yes, and not easily — like literally fighting through my will and peak of human spirit) and torture. Skin dry, teeth calcifying (at a dental cleaning appointment, the hygienist diagnosed it as calcification and the attributed cause as dry mouth due to benzodiazepines), no memory, no linguistic expression, cognition completely grey and burning. All color gone, all imagery, all imagination, only pain, perpetual pain and fear. Terror. Terror terror terror. I remember one day trying to do $4*7$, and not being able to. They say the only thing to fear is fear itself: GABA downregulation is fear itself. The experience is like being in a warzone. It's like burning alive — without stop — more than a year, torture ([even at lower comparative doses than what I took](https://youtu.be/laheAXdZK7w?si=FuPXGh1cLuuvtfHW)). The neurochemical experience is literally what you go through if you're in a warzone, and being chased by a predator, while in the middle of having a seizure: hellfire, indescribable pain. I remember staying up nights shaking, just shaking, electricity swarming through me, my face curled, deformed as I tensed and agonized all night unless I got some sleep if I was lucky and then waking up feeling like that, again, for the rest of the day, every day, for months like this. 
-
-I remember trying CBD oil or L-theanine to try to sleep. Latter didn't work — the CBD oil, which I got from that herbal apothecary near the house on May St., when I stopped in because I didn't know that building had become a herbal apothecary, helped a little, and after I talked with the store workers about the different herbs and chemicals they had with probably way more knowledge than they expected, the person at the counter asked to add me as a friend on Facebook, which was serendipitous and miraculous for me, but then she stopped replying as soon as I messaged suggesting they host meditations in the park next door because my wording/thinking was probably [awkward](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), due to literal brain damage from the benzos. The personality consequences of the extreme [anxiety](https://www.reddit.com/r/socialanxiety/comments/dzx7or/not_to_get_into_toxic_territory_but_sometimes_i/), [brain fog](https://www.reddit.com/r/benzorecovery/comments/cdmid6/is_extreme_brain_fog_normal_before_even_beginning/), and [impaired speech](https://github.com/user-attachments/assets/316ec47a-248e-4141-9eb7-5888bc1ea93d), plus total hair loss, harmed my social life more than can be stated, and lasting trauma regarding people from the interactions with the psychiatrists and medical staff coercions.
-
-These symptoms [persisted](https://www.reddit.com/r/AskDocs/comments/dyaf8n/constant_chest_pain_that_spikes_into_my_neck/) for more than a year, and the trauma persists. <!-- I've read former cocaine and heroin addicts anecdotally report that long-term benzo neurotoxicity involves more horrific suffering than withdrawal from cocaine or heroin. --> I saw anecdotes in [this forum](https://www.reddit.com/r/BadPill/) from former addicts of heroin or cocaine who were on benzos, who reported that those side effects and withdrawals <!-- of benzo-induced GABA downregulation --> were worse than the side effects and withdrawals that they had suffered from heroin or cocaine (and similar type anecdotal reports elsewhere, e.g., probably abundant [here](https://www.reddit.com/r/benzorecovery/)).<!-- I'm sure there isn't an experience on this Earth that is worse, humanly or cosmically possible (a year without sleep, non-stop neurochemical fire, not sure that's even imaginable). -->
-
 You know, the way I learned about the calcification was because chunks of what I thought were tooth were falling out. Just chunks of tooth-like pieces from my mouth. So I went to the dental hygienist and she said it was de-calcification. This was already when I was starting to recover to some extent, when I was already on the steak-only diet. To reiterate: it started *de*-calcifying at that point. The calcification built up a lot during the 6 months I was on benzos. That was her diagnosis: calcification due to dry mouth from benzos. The steak-diet saved my teeth, I think.
 
-I tried to kill myself, and my family took the helium tank away. The risk of mortality was a foreseeable outcome by my psychiatrists, [as published study data show](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).
+I tried to kill myself, and my family took the helium tank away. The risk of mortality was a foreseeable outcome by my psychiatrists, [as published study data shows](https://thischangedmypractice.com/long-term-benzodiazepine-mortality-schizophrenia/).
 
 I had to buy waist straps to finally start to recover because I couldn't sit up from the debilitated position I shook with anxiety in on the couch.
 
@@ -699,50 +714,7 @@ And after all of this, [literally nothing was cured](https://www.reddit.com/r/ku
 
 The trauma I went through during my psychosis (which the psychiatrists didn't even know about) doesn't compare to the >year of benzo neurochemical torture. 
 
-### Spring, 2019 semester
-
-#### Area exam
-
-I passed my area exam, within a few weeks of the close of the Spring, 2019 semester, "with flying colors" according to Henry.
-
-Henry, compared to other professors of similar rank and background, deserves credit for not thinking deep learning was a fad, and had some intuition about ideas like the biologically-inspired neuron in the diagram [above](#benzodiazepine-benzos-mechanism-of-action), though not always of involved ideas, like the use of attention mechanisms (e.g., MHDPA). My next advisor was my machine vision professor from my first year, Chenliang Xu, technically not in the room during the area exam, and was answering the Skype call from China. He was the only person in the meeting who asked for elaboration on how I planned to do "relational representations" for vision with image features from a CNN, since he didn't know what MHDPA was (neither did my NLP professor in the semester before my hospitalization) and I went back to slide 11 and re-described MHDPA to all of them again, and the fact that Chenliang was the only one of them who showed interest in the method that most revolutionized the next years of their fields, is a synchronicitiy, because he became my later advisor.  
-
-The other faculty were probably mostly impressed by my "flying colors," as my personality was made vibrant by the benzos I had to take at a higher dose that day to function, but that’s not how Henry meant it.
-
-[My slides for that area exam were quite colorful](https://docs.google.com/presentation/d/1LK0urIs8yu_e7HyZ-VQoDJUiGpPeTPEUgfhjK5Kw_7w/edit?usp=sharing), but that's also not how Henry meant it (see slide 11 for the description of MHDPA).
-
-I rehearsed that area exam in front of my mom and uncle for a week every day before the area exam. At the area exam, I presented word by word as I rehearsed. My mom and uncle knew I was going to take benzos that day at a higher dose. That was the plan. I even rehearsed one day in front of them at an irregular but smaller dose. They also knew. That was also the plan. (And, by the way, benzos were originally prescribed to me for social anxiety). That was one of two occasions during my greater-than-yearlong benzo torture-out that I had to take an irregular dose of benzos to do something, the other being [the poster presentation for the Med Center](#charles-venuto), since that also involved cognitive performance in front of down-looking authorities in a higher-pressure requirement/opportunity with no other non-risky/non-embarassing way to do it. Backtracking to main timeline...
-
-My uncle was worried I wouldn't pass, and we all celebrated joyfully that I did. The area exam is the biggest defense of the University of Rochester CS department PhD program, other than the thesis. CS students at the University of Rochester are awarded a master's degree for a successful area exam defense, 60ish-page paper and oral, as was I! In my case, it only took my earlier stock of genius, an extremely dedicated human spirit fighting through brain damage on will alone, a genius paper that probably none of them read, and a big dose of benzos in the late spring of 2019. 
-
-My family besides me also have higher-level degrees. My mom, a master's degree in music theory. My uncles Slava and Sasha, PhDs, in physics and mathematics, respectively. My cousins, PhDs in dermatology and pharmacology. My sister, nurse practitioner (master's degree). And my best friend, also in a PhD program (immunology) but in another city. All were proud of me. None knew all the details of the hospitalizations. Henry of course didn't either. This book is the real-time processing of that memory and the rest of these memories, all traumatic, into writing.
-
-> [!NOTE]
-> ### Buffy
->
-> In high school, I loved Lost, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of<!-- (well, I guess Reaper was middle school)-->. But my favorite-favorite has been Buffy the Vampire Slayer, which at the time was available on Netflix. I was obsessed.<!--, as well as with [Dr. Horrible's Sing-Along Blog](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4).-->
->
-> Almost nobody heard of Buffy in my high school, 2009 - 2013, Golden Age Peak TV era. I had a debate with my friend, another film buff, where I claimed TV shows were better than movies. He didn't believe me yet, and he was later apparently talking to someone in a private school who I hadn't met yet, who liked/likes Buffy, though he didn't introduce me to her, and I met her randomly a different way. In my high school, all those TV shows were getting missed<!--, at least by many of the people I talked to-->. Buffy had been out since the 90s/early 2000s, and was the most — maybe universally at my high school — unappreciated.
->
-> The first person who took my recommendation got through multiple seasons, on my repeated insistence, and still didn't like it.
->
-> It wasn't until my senior year I met somebody who liked Buffy the Vampire Slayer. I met him because he commented on a friend's Facebook post about a totally different shared interest, and I messaged him, he wanted to hang out to my surprise, and then he invited me to his birthday party. There, I met other kids who went to his school, including the other Buffy fan I met in high school, one of his friends who walked right up to me with a big smile and was so enthusiastic about my Buffy love.
->
-> She invited me some time later, after my first semester in college, to a [Man Man](https://youtu.be/kI1PWcTe0W4?si=pWtiu7kRxCbpfDUX) concert later, somehow also a common interest with her.
->
-> Two of the first friends I made in college, by extreme coincidence, loved nerdy shows, especially Joss Whedon shows and Buffy, and were the people in my neighboring dorm. One of them later told me she didn't like Buffy that much (let's called her Tara, one of the Buffy characters). Her girlfriend however, a different person, who wasn't rooming with them<!-- and didn't go to our university-->, was such a big Buffy fan that she even made me feel guilty for not knowing some trivia about one of the episodes. The other roommate <!--in my neighboring dorm -->was one of the only people I ever watched Buffy together with. They both became my best friends that year and I half-lived in their dorm. The other dorm near ours also housed someone who liked Buffy a lot, by chance. I was roomed near them by the university's random selection. Extreme Buffy fandom wasn't *that* common in college. Suddenly other social factors happened that defied statistical expectation. I had a romantic affair with somebody with approximately the same name as me, which is slightly distinct from a "common interest," especially as I hated myself, and, though I attempted suicide that semester via railway, the concert I got to go to later with the different, original person included somebody who walked up to the person who walked up to me, and knew about Gogol Bordello, who opened for Man Man, and was one of the stars of a movie I liked: Wristcutters: A Love Story. That "romantic affair" started messaging with me through Facebook in the summer before, since we were both incoming Freshman, texted with me to the point that she told me she loved me, and kind of lost interest in me in person. <!--I was jealous about her flirtiness with others afterwards. The Facebook meeting name-based synchronicity, and after-the-fact jealousy, ends up rhyming to another one that happens during my PhD.-->
->
-> Buffy appreciation, quite honestly, was how I measured intelligence then. Wealth and higher education, though, also seemed to increase likelihood of Buffy fandom, but not so as to without further Buffy-factor predict intelligence. It was a big surprise to me to meet those people in the private school, and then more people in college, with an appreciation for the shows I appreciated. It was literally surreal.
->
-> I was so nervous with the first group, and regret missing the chance to bond more with them. The second group didn't make sense to me, but I was surrounded, and there was no escape from the universe giving me a good social life.
->
-> From college to PhD, I didn't know Henry's favorite show was Buffy.
-> 
-> I was accepted as his PhD student not knowing that. I found out two semesters into the PhD program, and was kind of shocked. He said he was "obsessed with" Buffy, which he added is "kind of weird." I dropped off my "Buffy the Vampire Slayer and Philosophy: Fear and Trembling in Sunnydale" book, with a kind note, in his mailbox as a gift, re-gifting it from my best friend, different person (the one referenced many times above), who I met actually because he was roomed by chance with Tara, in a house near campus (a place called "White Coat Village" after all the white-coats from the Medical Center walking around) that I also pretty much half-lived in, in my senior year of college, in "White Coat Village," which today I'd say just as a house not a social factor wasn't as good as May St., but was even more serendipitous due to meeting my best friend there. The other non-frat on-campus house that I lived in was Drama House, a student theater living community that accepted me after I interviewed at the end of my Freshman year, where I lived in as my housing for the next 3 years, and it was amazing, where I was recommended to by yet another person who went to the private high school those first kids went to, who I incidentally also saw [Man Man](https://youtu.be/3WL8QZeF0ac?si=wWsyzEL6kAbuadBL) with, as well a gay guy I randomly and serendipitously ran to, well, and another who I shared a theater writing class with, friends. All of these connections, relating to housing and random school background and person's name, are independent and seemingly-acausal by ordinary physics notions of causality and I perceived them as lucky coincidences as anyone else probably would.
->
-> Henry had a rare taste for something that others hadn't heard of as much, that would later contribute to the creation of something everybody has heard of. Joss Whedon created Buffy, and later wrote The Avengers, exploding from esoteric-nerdom to Blockbuster-God-man to cancelled-bad-man. Interestingly, Henry quipped and talked in a way reminiscent to Joss Whedon, and had theater writing experience, though as my advisor, Henry was more like Giles, Buffy's Watcher (advisor). Similarly, the method that I had a rare appreciation for, MHDPA, that had gone on to transformer-roll-out into being ChatGPT, would, much like Marvel movies, destroy civilization.
-
-#### The Martian
+### B-
 
 <!-- [TO DO:: Add Henry quote from interview about worrying about AI being like "worrying about traffic regulation on Mars"] --><!-- I'm the martian, perhaps who will undergo a hard "execution"] -->
 
@@ -758,9 +730,29 @@ Fall, 2019 my classes were much easier. I had to take Program Synthesis with Sri
 
 And in Spring, 2020, I didn’t have to take classes, and worked in the office at the Med Center as my brain was just barely entering the first vestiges of recovery. I was [coming into the Med Center office regularly, working on the disease prognostication data and models on-site, and exercising more.](https://www.facebook.com/share/p/ShD9b4SeSA9Ebzbq/) 
 
-Had I taken a medical leave at the peak of this, at the end of the Spring, 2019 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#advisor-leaves), most likely would've been terminated for not having an advisor.
+Had I taken a medical leave at the peak of this, at the end of the Spring, 2019 semester, I would've lost my salary, and wouldn't have been able to return for a long time, since the benzo brain damage was just getting started, in which case I most likely would've lost my health insurance, been delayed on all this work, including the area exam, for yet another year at least (including the time to write it), and, given [Henry's tenuous status having announced his intention to accept a directorship offer from the NSF](#red-light-at-clover-st-advisor-leaves), most likely would've been terminated for not having an advisor.
 
-### Advisor leaves
+<p align="center">
+<a href="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+ <picture>
+   <source width="82%" media="(prefers-color-scheme: dark)" srcset="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+   <img width="82%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/slerman12/BrokenWisdoms/assets/9126603/e8deed05-4b48-4844-ac9b-ffa98b680efe">
+</picture>
+</a>
+</p>
+
+# Part 3
+
+<p align="center">
+<a href="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+ <picture>
+   <source width="65%" media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/04008b45-a765-43d8-97f2-c2c47cf57212">
+   <img width="65%" alt="Text changing depending on mode. Light: 'Light' Dark: 'Dark'" src="https://github.com/user-attachments/assets/fc7da86b-64c3-4ae7-9e77-2e79023b1525">
+</picture>
+</a>
+</p>
+
+## Red light at Clover St. (advisor leaves)
 
 Henry got an offer to direct the AI division at the National Science Foundation in DC, which is an extremely prestigious role. So he accepted, initially advised me while directing there, after some time had to start planning to give up being my advisor, reassured me that his knowledge of deep learning wasn't good enough anyway, and directed me to switch to Chenliang Xu as my next advisor, who gave me an ultimatum about joining.
 
@@ -798,9 +790,31 @@ Until Henry's retirement in 2022, which he didn't warn me about and came to me a
 > [!NOTE]
 > ### Giles
 >
+> In high school, I loved Lost, and Community, and Better Off Ted, and at some point Reaper, a show no one's heard of<!-- (well, I guess Reaper was middle school)-->. But my favorite-favorite has been Buffy the Vampire Slayer, which at the time was available on Netflix. I was obsessed.<!--, as well as with [Dr. Horrible's Sing-Along Blog](https://youtu.be/Of9kHpCv1ts?si=FPBQagGV-MX0BOK4).-->
+>
+> Almost nobody heard of Buffy in my high school, 2009 - 2013, Golden Age Peak TV era. I had a debate with my friend, another film buff, where I claimed TV shows were better than movies. He didn't believe me yet, and he was later apparently talking to someone in a private school who I hadn't met yet, who liked/likes Buffy, though he didn't introduce me to her, and I met her randomly a different way. In my high school, all those TV shows were getting missed<!--, at least by many of the people I talked to-->. Buffy had been out since the 90s/early 2000s, and was the most — maybe universally at my high school — unappreciated.
+>
+> The first person who took my recommendation got through multiple seasons, on my repeated insistence, and still didn't like it.
+>
+> It wasn't until my senior year I met somebody who liked Buffy the Vampire Slayer. I met him because he commented on a friend's Facebook post about a totally different shared interest, and I messaged him, he wanted to hang out to my surprise, and then he invited me to his birthday party. There, I met other kids who went to his school, including the other Buffy fan I met in high school, one of his friends who walked right up to me with a big smile and was so enthusiastic about my Buffy love.
+>
+> She invited me some time later, after my first semester in college, to a [Man Man](https://youtu.be/kI1PWcTe0W4?si=pWtiu7kRxCbpfDUX) concert later, somehow also a common interest with her.
+>
+> Two of the first friends I made in college, by extreme coincidence, loved nerdy shows, especially Joss Whedon shows and Buffy, and were the people in my neighboring dorm. One of them later told me she didn't like Buffy that much (let's called her Tara, one of the Buffy characters). Her girlfriend however, a different person, who wasn't rooming with them<!-- and didn't go to our university-->, was such a big Buffy fan that she even made me feel guilty for not knowing some trivia about one of the episodes. The other roommate <!--in my neighboring dorm -->was one of the only people I ever watched Buffy together with. They both became my best friends that year and I half-lived in their dorm. The other dorm near ours also housed someone who liked Buffy a lot, by chance. I was roomed near them by the university's random selection. Extreme Buffy fandom wasn't *that* common in college. Suddenly other social factors happened that defied statistical expectation. I had a romantic affair with somebody with approximately the same name as me, which is slightly distinct from a "common interest," especially as I hated myself, and, though I attempted suicide that semester via railway, the concert I got to go to later with the different, original person included somebody who walked up to the person who walked up to me, and knew about Gogol Bordello, who opened for Man Man, and was one of the stars of a movie I liked: Wristcutters: A Love Story. That "romantic affair" started messaging with me through Facebook in the summer before, since we were both incoming Freshman, texted with me to the point that she told me she loved me, and kind of lost interest in me in person. <!--I was jealous about her flirtiness with others afterwards. The Facebook meeting name-based synchronicity, and after-the-fact jealousy, ends up rhyming to another one that happens during my PhD.-->
+>
+> Buffy appreciation, quite honestly, was how I measured intelligence then. Wealth and higher education, though, also seemed to increase likelihood of Buffy fandom, but not so as to without further Buffy-factor predict intelligence. It was a big surprise to me to meet those people in the private school, and then more people in college, with an appreciation for the shows I appreciated. It was literally surreal.
+>
+> I was so nervous with the first group, and regret missing the chance to bond more with them. The second group didn't make sense to me, but I was surrounded, and there was no escape from the universe giving me a good social life.
+>
+> From college to PhD, I didn't know Henry's favorite show was Buffy.
+> 
+> I was accepted as his PhD student not knowing that. I found out two semesters into the PhD program, and was kind of shocked. He said he was "obsessed with" Buffy, which he added is "kind of weird." I dropped off my "Buffy the Vampire Slayer and Philosophy: Fear and Trembling in Sunnydale" book, with a kind note, in his mailbox as a gift, re-gifting it from my best friend, different person (the one referenced many times above), who I met actually because he was roomed by chance with Tara, in a house near campus (a place called "White Coat Village" after all the white-coats from the Medical Center walking around) that I also pretty much half-lived in, in my senior year of college, in "White Coat Village," which today I'd say just as a house not a social factor wasn't as good as May St., but was even more serendipitous due to meeting my best friend there. The other non-frat on-campus house that I lived in was Drama House, a student theater living community that accepted me after I interviewed at the end of my Freshman year, where I lived in as my housing for the next 3 years, and it was amazing, where I was recommended to by yet another person who went to the private high school those first kids went to, who I incidentally also saw [Man Man](https://youtu.be/3WL8QZeF0ac?si=wWsyzEL6kAbuadBL) with, as well a gay guy I randomly and serendipitously ran to, well, and another who I shared a theater writing class with, friends. All of these connections, relating to housing and random school background and person's name, are independent and seemingly-acausal by ordinary physics notions of causality and I perceived them as lucky coincidences as anyone else probably would.
+>
+> Henry had a rare taste for something that others hadn't heard of as much, that would later contribute to the creation of something everybody has heard of. Joss Whedon created Buffy, and later wrote The Avengers, exploding from esoteric-nerdom to Blockbuster-God-man to canceled-bad-man. Interestingly, Henry quipped and talked in a way reminiscent to Joss Whedon, and had theater writing experience, though as my advisor, Henry was more like Giles, Buffy's Watcher (advisor). Similarly, the method that I had a rare appreciation for, MHDPA, that had gone on to transformer-roll-out into being ChatGPT, would, much like Marvel movies, destroy civilization.
+>
 > Buffy the Vampire Slayer was my and Henry's favorite show. In season 6 of Buffy, her Watcher (advisor) Giles had to leave. He sang a song with the lyrics, ["I know I said that I'd be standing by your side. But I... But I'm standing, in the way."](https://youtu.be/4YKg6016rTQ?si=o4e-46-oq1laf_23)
 >
-> Back in high school, all the best shows got cancelled, for which Joss Whedon was notorious, because of Firefly. So, so as to distinguish both of us from bad movie execs and producers, I'm adding this paragraph just to say that I am not cancelling Henry.
+> Back in high school, all the best shows got canceled, for which Joss Whedon was notorious.
 
 ## Chenliang Xu 
 
@@ -935,7 +949,7 @@ Without hair, without eyebrows and eyelashes, with even my grandma's fingernails
 
 ## The probable cause of my grandma's dementia 
 
-As it happens, [benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
+[Benzos contribute to the likelihood of dementia in elderly people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325366/).
 
 My grandma was prescribed a cocktail of neuroactive drugs before she had dementia. Seroquel, Lyrica, Xanax, and the brochure goes on. She didn't have any of the conditions those medications are primarily supposed to treat (Seroquel is an antipsychotic, Lyrica is an antiepileptic, Xanax is a benzo), and every time she developed a new symptom from one, they prescribed yet another. She developed dementia when I was still in high school. She lived with dementia from then to my Junior year of college, the same year my grandpa died, 2016.
 
