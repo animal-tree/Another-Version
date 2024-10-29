@@ -748,7 +748,7 @@ Sometime concurrently, I built the disease prognostication website. It was my id
 
 ### B-
 
-Fall, 2019 my classes were much easier. I had to take Program Synthesis with Sri Pai, a professor I really like. It was still hard. B- was from a different systems professor. That's a whole story I'll add here.
+Fall, 2019 my classes were much easier. I had to take Program Synthesis with Sri Pai, a professor I really like. It was still hard. B- was from a different systems professor. That's a whole story I'll add here. A was Program Synthesis, in which I educated Sree and the class about deep reinforcement learning for program synthesis, and got an A for his appreciation and my good teaching.
 
 And in Spring, 2020, I didn’t have to take classes, and worked in the office at the Med Center as my brain was just barely entering the first vestiges of recovery. I was [coming into the Med Center office regularly, working on the disease prognostication data and models on-site, and exercising more.](https://www.facebook.com/share/p/ShD9b4SeSA9Ebzbq/) 
 
